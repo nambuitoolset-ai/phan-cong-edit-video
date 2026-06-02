@@ -433,11 +433,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 1,
+            "voice_to": 2
           }
         ]
       },
@@ -491,11 +488,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 3,
+            "voice_to": 3
           }
         ]
       },
@@ -549,11 +543,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 4,
+            "voice_to": 5
           }
         ]
       },
@@ -607,11 +598,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 6,
+            "voice_to": 6
           }
         ]
       },
@@ -665,11 +653,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 7,
+            "voice_to": 7
           }
         ]
       },
@@ -723,11 +708,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 8,
+            "voice_to": 8
           }
         ]
       },
@@ -781,11 +763,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 9,
+            "voice_to": 9
           }
         ]
       },
@@ -839,11 +818,8 @@
         "voices": [
           {
             "name": "Máy xay gia vị Deerma",
-            "count": 1
-          },
-          {
-            "name": "Lọ tỏa hương Forlove",
-            "count": 1
+            "voice_from": 10,
+            "voice_to": 10
           }
         ]
       }
