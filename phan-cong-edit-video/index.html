@@ -122,6 +122,15 @@ let historyData = {};
 let dates = [];
 let idx = 0;
 
+function cardName(fullName) {
+  const idx = fullName.indexOf(' - ');
+  if (idx === -1) return fullName;
+  const brand = fullName.slice(0, idx);
+  const name  = fullName.slice(idx + 3);
+  const brandTitle = brand.charAt(0).toUpperCase() + brand.slice(1).toLowerCase();
+  return name + ' ' + brandTitle;
+}
+
 function fmtDate(iso) {
   const [y,m,d] = iso.split('-');
   return d+'/'+m+'/'+y;
@@ -154,7 +163,7 @@ function render(date) {
       const vocCell = voc ? (voc.voice_from !== undefined
         ? voc.voice_from + (voc.voice_to > voc.voice_from ? '-' + voc.voice_to : '')
         : voc.count) : '';
-      return '<div class="sp-row"><span class="sp-name">'+name+'</span><span class="sp-vid">'+vidCell+'</span><span class="sp-voice">'+vocCell+'</span></div>';
+      return '<div class="sp-row"><span class="sp-name">'+cardName(name)+'</span><span class="sp-vid">'+vidCell+'</span><span class="sp-voice">'+vocCell+'</span></div>';
     }).join('');
     const totalVid = videos.reduce((s,p) => s+p.count, 0);
     if (cntEl) cntEl.textContent = totalVid + ' video';
