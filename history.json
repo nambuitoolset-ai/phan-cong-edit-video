@@ -1,406 +1,342 @@
 {
   "2026-06-02": {
     "assignments": {
-      "ThÆ°": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 3
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 3
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 2
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 3
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 3
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "SÆ¡n": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 2
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 2
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 2
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 2
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 2
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "Dung": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 3
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 3
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 3
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 3
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 2
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "DuyÃªn": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 3
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 2
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 3
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 2
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 3
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 2
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 2
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "Hiáº¿u": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 3
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 2
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 3
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 2
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 3
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 2
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 2
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "Tháº¯m": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 2
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 3
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 2
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 3
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 3
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 2
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 2
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "TrÃ¢n": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 2
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 3
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 2
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 3
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 3
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 2
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 2
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      },
-      "TuyÃªn": {
-        "videos": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 2
-          },
-          {
-            "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
-            "count": 2
-          },
-          {
-            "name": "Quáº¡t Äeo cá» Jisulife Life 5",
-            "count": 2
-          },
-          {
-            "name": "á»p lÆ°ng trong suá»t",
-            "count": 2
-          },
-          {
-            "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
-            "count": 2
-          },
-          {
-            "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
-            "count": 1
-          },
-          {
-            "name": "Bá» dao kÃ©o 6 mÃ³n",
-            "count": 1
-          },
-          {
-            "name": "Bá» ná»i cháº£o",
-            "count": 1
-          },
-          {
-            "name": "á» khÃ³a vÃ¢n tay",
-            "count": 1
-          },
-          {
-            "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "Kháº©u trang chá»ng náº¯ng ninja",
-            "count": 1
-          }
-        ]
-      }
+      "ThÆ°": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 3
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 3
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 2
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 3
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 3
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 2
+        }
+      ],
+      "SÆ¡n": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 2
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 2
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 2
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 2
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 2
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ],
+      "Dung": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 3
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 3
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 3
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 3
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 2
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 2
+        }
+      ],
+      "DuyÃªn": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 3
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 2
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 3
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 2
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 3
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 2
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 2
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ],
+      "Hiáº¿u": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 3
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 2
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 3
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 2
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 3
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 2
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 2
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ],
+      "Tháº¯m": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 2
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 3
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 2
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 3
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 3
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 2
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 2
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ],
+      "TrÃ¢n": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 2
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 3
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 2
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 3
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 3
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 2
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 2
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ],
+      "TuyÃªn": [
+        {
+          "name": "Kháº©u trang chá»ng náº¯ng ninja",
+          "count": 2
+        },
+        {
+          "name": "MÃ¡y hÃºt bá»¥i cáº§m tay XS1pro",
+          "count": 2
+        },
+        {
+          "name": "Quáº¡t Äeo cá» Jisulife Life 5",
+          "count": 2
+        },
+        {
+          "name": "á»p lÆ°ng trong suá»t",
+          "count": 2
+        },
+        {
+          "name": "KÃ­nh cÆ°á»ng lá»±c khÃ´ng viá»n",
+          "count": 2
+        },
+        {
+          "name": "RÃ¨m che náº¯ng Ã´ tÃ´",
+          "count": 1
+        },
+        {
+          "name": "Bá» dao kÃ©o 6 mÃ³n",
+          "count": 1
+        },
+        {
+          "name": "Bá» ná»i cháº£o",
+          "count": 1
+        },
+        {
+          "name": "á» khÃ³a vÃ¢n tay",
+          "count": 1
+        },
+        {
+          "name": "DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
+          "count": 1
+        }
+      ]
     },
     "links": [
       {
@@ -447,374 +383,470 @@
   },
   "2026-06-01": {
     "assignments": {
-      "ThÆ°": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 3
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 3
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 3
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 3
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 2
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ],
-      "SÆ¡n": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 2
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 2
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 2
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 2
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ],
-      "Dung": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 3
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 3
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 3
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 2
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 2
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 2
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ],
-      "DuyÃªn": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 3
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 3
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 2
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 3
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 2
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 2
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ],
-      "Hiáº¿u": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 3
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 2
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 3
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 3
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 2
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 2
-        }
-      ],
-      "Tháº¯m": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 2
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 3
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 3
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 3
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 2
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 2
-        }
-      ],
-      "TrÃ¢n": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 2
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 2
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 2
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 2
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 2
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 2
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 2
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 2
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 2
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ],
-      "TuyÃªn": [
-        {
-          "name": "MÃ¡y xay gia vá» Deerma",
-          "count": 2
-        },
-        {
-          "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
-          "count": 2
-        },
-        {
-          "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
-          "count": 2
-        },
-        {
-          "name": "Bá» cá» toilet Parroti",
-          "count": 2
-        },
-        {
-          "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
-          "count": 1
-        },
-        {
-          "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
-          "count": 1
-        },
-        {
-          "name": "CÃ¢y chÃ  sÃ n Parroti",
-          "count": 1
-        },
-        {
-          "name": "ÄÃ¨n pin led zoom F35",
-          "count": 1
-        },
-        {
-          "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
-          "count": 1
-        },
-        {
-          "name": "Tripod tá»« tÃ­nh ULANZI MA38",
-          "count": 1
-        }
-      ]
+      "ThÆ°": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 3
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 3
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 3
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 3
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 2
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "SÆ¡n": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 2
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 2
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 2
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 2
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "Dung": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 3
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 3
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 3
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 2
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 2
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 2
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "DuyÃªn": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 3
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 3
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 2
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 3
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 2
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 2
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "Hiáº¿u": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 3
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 2
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 3
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 3
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 2
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "Tháº¯m": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 2
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 3
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 3
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 3
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 2
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "TrÃ¢n": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 2
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 2
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 2
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 2
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 2
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 2
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 2
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 2
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 2
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      },
+      "TuyÃªn": {
+        "videos": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 2
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 2
+          },
+          {
+            "name": "BÃ n Cháº£i ÄÃ¡nh RÄng Tokyolife",
+            "count": 2
+          },
+          {
+            "name": "Bá» cá» toilet Parroti",
+            "count": 2
+          },
+          {
+            "name": "TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y ÄÃ¢m lÆ°ng ngáº£i cá»©u",
+            "count": 1
+          },
+          {
+            "name": "MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+            "count": 1
+          },
+          {
+            "name": "CÃ¢y chÃ  sÃ n Parroti",
+            "count": 1
+          },
+          {
+            "name": "ÄÃ¨n pin led zoom F35",
+            "count": 1
+          },
+          {
+            "name": "Quáº¡t Äiá»u khiá»n giá»ng nÃ³i AQUA",
+            "count": 1
+          },
+          {
+            "name": "Tripod tá»« tÃ­nh ULANZI MA38",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "MÃ¡y xay gia vá» Deerma",
+            "count": 1
+          },
+          {
+            "name": "Lá» tá»a hÆ°Æ¡ng Forlove",
+            "count": 1
+          }
+        ]
+      }
     },
     "links": [
       {
