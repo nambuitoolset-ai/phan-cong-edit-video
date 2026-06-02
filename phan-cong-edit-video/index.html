@@ -23,7 +23,9 @@ h1{font-family:'Cubano',sans-serif;font-size:16px;font-weight:400;margin-bottom:
 .list{border-top:1px solid #DEE0E3;padding-top:10px;display:flex;flex-direction:column;gap:5px}
 .row{display:flex;justify-content:space-between;align-items:center;gap:8px}
 .pname{font-size:13px;background:#EEF3FF;color:#1456F0;border-radius:8px;padding:4px 10px;flex:1;font-weight:500}
+.pname.voice{background:#FFF0E6;color:#D4580A}
 .pct{font-size:13px;color:#646A73;white-space:nowrap}
+.section-label{font-size:11px;font-weight:600;color:#9EA4AF;text-transform:uppercase;letter-spacing:0.05em;margin-top:8px;margin-bottom:2px}
 .section{background:#FFFFFF;border:1px solid #DEE0E3;border-radius:12px;padding:20px 24px;margin-bottom:16px}
 h2{font-family:'Cubano',sans-serif;font-size:16px;font-weight:400;margin-bottom:16px;color:#1F2329;letter-spacing:0.03em}
 .link-table{width:100%;border-collapse:collapse}
@@ -134,12 +136,20 @@ function render(date) {
     const listEl = document.getElementById('list-' + emp);
     const cntEl  = document.getElementById('cnt-'  + emp);
     if (!listEl) return;
-    const items = (data.assignments && data.assignments[emp]) || [];
-    const total = items.reduce((s,p) => s+p.count, 0);
-    cntEl.textContent = total + ' video';
-    listEl.innerHTML = items.map(p =>
-      '<div class="row"><span class="pname">'+p.name+'</span><span class="pct">'+p.count+' video</span></div>'
-    ).join('');
+    const empData = (data.assignments && data.assignments[emp]) || [];
+    // Backward compat: old format là array, new format là {videos, voices}
+    const videos = Array.isArray(empData) ? empData : (empData.videos || []);
+    const voices = Array.isArray(empData) ? [] : (empData.voices || []);
+    const totalVid = videos.reduce((s,p) => s+p.count, 0);
+    const totalVoice = voices.reduce((s,p) => s+p.count, 0);
+    cntEl.textContent = totalVid + ' video' + (totalVoice ? ' · ' + totalVoice + ' voice' : '');
+    listEl.innerHTML =
+      (videos.length ? '<div class="section-label">Video</div>' + videos.map(p =>
+        '<div class="row"><span class="pname">'+p.name+'</span><span class="pct">'+p.count+' video</span></div>'
+      ).join('') : '') +
+      (voices.length ? '<div class="section-label">Voice</div>' + voices.map(p =>
+        '<div class="row"><span class="pname voice">'+p.name+'</span><span class="pct">'+p.count+' voice</span></div>'
+      ).join('') : '');
   });
   const table = document.getElementById('link-table');
   const links = data.links || [];
@@ -158,7 +168,7 @@ function navigate(dir) {
 
 (async function init() {
   try {
-    const res = await fetch('/history.json?t='+Date.now());
+    const res = await fetch('history.json?t='+Date.now());
     historyData = await res.json();
     dates = Object.keys(historyData).sort();
     idx = dates.length - 1;
