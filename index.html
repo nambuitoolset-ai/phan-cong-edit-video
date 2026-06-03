@@ -156,9 +156,19 @@ function render(date) {
       const vid = videos.find(v => v.name === name);
       const voc = voiceMap[name];
       const vidCell = vid ? vid.count : '';
-      const vocCell = voc ? (voc.voice_from !== undefined
-        ? voc.voice_from + (voc.voice_to > voc.voice_from ? '-' + voc.voice_to : '')
-        : voc.count) : '';
+      const vocCell = (() => {
+        if (!voc) return '';
+        const lst = voc.list;
+        if (lst && lst.length > 0) {
+          if (lst.length === 1) return String(lst[0]);
+          const sorted = [...lst].sort((a,b)=>a-b);
+          let seq = true;
+          for (let i=1;i<sorted.length;i++) if(sorted[i]!==sorted[i-1]+1){seq=false;break;}
+          return seq ? sorted[0]+'-'+sorted[sorted.length-1] : lst.join(', ');
+        }
+        if (voc.voice_from !== undefined) return voc.voice_from+(voc.voice_to>voc.voice_from?'-'+voc.voice_to:'');
+        return voc.count||'';
+      })();
       return '<div class="sp-row"><span class="sp-name">'+cardName(name)+'</span><span class="sp-vid">'+vidCell+'</span><span class="sp-voice">'+vocCell+'</span></div>';
     }).join('');
     const totalVid = videos.reduce((s,p) => s+p.count, 0);
