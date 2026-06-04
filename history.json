@@ -1573,6 +1573,780 @@
     "MIA - Vali kéo du lịch Larita Aly": {
       "total": 14,
       "counter": 10
+    },
+    "HAPAS - Quà tặng Valentine 14.2 (2026)": {
+      "total": 25,
+      "counter": 10
+    },
+    "DELI - Ổ điện chữ T": {
+      "total": 9,
+      "counter": 10
+    },
+    "MODECO - Lọ đựng gia vị có thìa": {
+      "total": 10,
+      "counter": 10
+    },
+    "PARROTI - Cây chà sàn": {
+      "total": 2,
+      "counter": 10
+    },
+    "TORRAS - Ốp lưng Q3Air": {
+      "total": 21,
+      "counter": 10
+    },
+    "TJEAN - Máy hút bụi giường nệm": {
+      "total": 7,
+      "counter": 20
+    },
+    "UPGEN - Bàn nâng hạ di động": {
+      "total": 12,
+      "counter": 20
+    },
+    "JISULIFE - Quạt cầm tay Ultra 2": {
+      "total": 6,
+      "counter": 20
+    },
+    "ARZOPA - Màn hình di động Z1FC": {
+      "total": 10,
+      "counter": 20
+    },
+    "MIXUAN - Găng Tay Cao Su Bảo Hộ": {
+      "total": 10,
+      "counter": 20
     }
+  },
+  "2026-06-04": {
+    "assignments": {
+      "Thư": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 2
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 2
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 3
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 3
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "1, 2"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "1"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "1, 2"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "1"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "1"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "1, 2"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "1, 2"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "1, 2, 3"
+          }
+        ]
+      },
+      "Sơn": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 2
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 2
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "3"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "2"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "3"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "2"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "2"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "3, 4"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "4, 5"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "3, 4"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "4, 5"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "4, 5"
+          }
+        ]
+      },
+      "Dung": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 2
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 2
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 3
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 3
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "4, 5"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "3"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "4, 5"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "1"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "3"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "5, 6"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "5, 6"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "6, 7, 8"
+          }
+        ]
+      },
+      "Duyên": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 2
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 3
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 2
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 3
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "6"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "4, 5"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "6"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "2, 1"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "4"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "7, 1, 2"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "9, 10"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "9, 10"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "9, 10, 1"
+          }
+        ]
+      },
+      "Hiếu": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 2
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 3
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 2
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 3
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "7"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "6, 7"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "7"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "2, 1"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "5"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "3, 4, 5"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "11, 12"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "4, 5, 6"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "1, 2"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "2, 3, 4"
+          }
+        ]
+      },
+      "Thắm": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 2
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 3
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 3
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "8"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "8"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "8"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "2"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "6, 7"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "6, 7, 1"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "3, 4, 5"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "5, 6"
+          }
+        ]
+      },
+      "Trân": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 2
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 3
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 3
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "9"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "9"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "9"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "1"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "8, 9"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "2, 3, 4"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "4, 5, 6"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "4, 5, 6"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "7, 8"
+          }
+        ]
+      },
+      "Tuyên": {
+        "videos": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": 1
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": 1
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": 1
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": 2
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": 2
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "10"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "1"
+          },
+          {
+            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "count": "10"
+          },
+          {
+            "name": "PARROTI - Cây chà sàn",
+            "count": "2"
+          },
+          {
+            "name": "TORRAS - Ốp lưng Q3Air",
+            "count": "10"
+          },
+          {
+            "name": "TJEAN - Máy hút bụi giường nệm",
+            "count": "5, 6"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "7, 8"
+          },
+          {
+            "name": "JISULIFE - Quạt cầm tay Ultra 2",
+            "count": "1, 2"
+          },
+          {
+            "name": "ARZOPA - Màn hình di động Z1FC",
+            "count": "9, 10"
+          },
+          {
+            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+            "count": "9, 10"
+          }
+        ]
+      }
+    },
+    "links": [
+      {
+        "full_name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+        "url": "https://drive.google.com/drive/folders/1uPsNZ4-sytv4hclj2GMeQm2M50icgvkp"
+      },
+      {
+        "full_name": "DELI - Ổ điện chữ T",
+        "url": "https://drive.google.com/drive/folders/1CaJyvQiWIH-J8QRBagxjUG-Tcu3d48Sd"
+      },
+      {
+        "full_name": "MODECO - Lọ đựng gia vị có thìa",
+        "url": "https://drive.google.com/drive/folders/1UA5OaNtvphOz-g13j-9fO7RhfFM-GWiy"
+      },
+      {
+        "full_name": "PARROTI - Cây chà sàn",
+        "url": "https://drive.google.com/drive/folders/14848AFUWVsIu5uJ2d4AYvQESLgKDVyWr"
+      },
+      {
+        "full_name": "TORRAS - Ốp lưng Q3Air",
+        "url": "https://drive.google.com/drive/folders/1Y6hBv7-9ft_aLTeEMd8J_oOP-iLxT1mW"
+      },
+      {
+        "full_name": "TJEAN - Máy hút bụi giường nệm",
+        "url": "https://drive.google.com/drive/folders/1kwlH7LrUwnb9ILGyaPf8NFUvVHaXF8I1"
+      },
+      {
+        "full_name": "UPGEN - Bàn nâng hạ di động",
+        "url": "https://drive.google.com/drive/folders/19I2_wKqrXnfyBW6evvcCC9J2Mk_T3Xc8"
+      },
+      {
+        "full_name": "JISULIFE - Quạt cầm tay Ultra 2",
+        "url": "https://drive.google.com/drive/folders/149DfuHwtIcTkFTbT1N3jVBYvNLFmM83S"
+      },
+      {
+        "full_name": "ARZOPA - Màn hình di động Z1FC",
+        "url": "https://drive.google.com/drive/folders/1yI_Qt7dLUGQmFCWj47LylW9RiA_zKrWq"
+      },
+      {
+        "full_name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+        "url": "https://drive.google.com/drive/folders/1qI71XopJUWDJUJqxSdqJaG7tapeUtk6F"
+      }
+    ]
   }
 }
