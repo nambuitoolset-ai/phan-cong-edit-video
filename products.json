@@ -1,207 +1,230 @@
 [
   {
-    "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+    "name": "TIEU MAN THAU STORE - Kháº©u trang chá»ng náº¯ng ninja",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "ton_video": 11,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0.20000000000000018
   },
   {
-    "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+    "name": "PERYSMITH - MÃ¡y hÃºt bá»¥i cáº§m tay XS1Pro",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "ton_video": 8,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": -0.3999999999999999
   },
   {
-    "name": "JISULIFE - Quạt đeo cổ Life 5",
+    "name": "JISULIFE - Quáº¡t Äeo cá» Life 5",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 10,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0
   },
   {
-    "name": "TORRAS - Ốp lưng trong suốt",
+    "name": "TORRAS - á»p lÆ°ng trong suá»t",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 14,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2.666666666666667
   },
   {
-    "name": "TORRAS - Kính cường lực",
+    "name": "TORRAS - KÃ­nh cÆ°á»ng lá»±c",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 12,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2
   },
   {
-    "name": "MENCANON - Rèm che nắng ô tô",
+    "name": "MENCANON - RÃ¨m che náº¯ng Ã´ tÃ´",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 5,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 3
   },
   {
-    "name": "REDCHEF - Bộ dao kéo 6 món",
+    "name": "REDCHEF - Bá» dao kÃ©o 6 mÃ³n",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0
   },
   {
-    "name": "REDCHEF - Bộ nồi chảo chống dính",
+    "name": "REDCHEF - Bá» ná»i cháº£o chá»ng dÃ­nh",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0.3333333333333335
   },
   {
-    "name": "GOKU - Ổ khóa vân tay",
+    "name": "GOKU - á» khÃ³a vÃ¢n tay",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2
   },
   {
-    "name": "ONECHI - Dây dán velcro quản chống rối",
+    "name": "ONECHI - DÃ¢y dÃ¡n velcro quáº£n chá»ng rá»i",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 4
   },
   {
-    "name": "MODECO - Lọ đựng gia vị có thìa",
+    "name": "MODECO - Lá» Äá»±ng gia vá» cÃ³ thÃ¬a",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 10,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 9
   },
   {
-    "name": "MIA - Vali kéo du lịch Larita Aly",
-    "ton_date": "2026-06-05",
+    "name": "MIA - Vali kÃ©o du lá»ch Larita Aly",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 11
+    "ton_video": 11,
+    "_daysLeft": 10
   },
   {
-    "name": "AQUA - Máy phun sương tạo ẩm",
+    "name": "AQUA - MÃ¡y phun sÆ°Æ¡ng táº¡o áº©m",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0.3333333333333335
   },
   {
-    "name": "PUZO - Ví da magsafe từ tính",
+    "name": "PUZO - VÃ­ da magsafe tá»« tÃ­nh",
     "videos_per_assign": 20,
     "so_video_ngay": 1,
     "status": "paused"
   },
   {
-    "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-    "ton_date": "2026-06-04",
+    "name": "HAPAS - QuÃ  táº·ng Set \"ThÃ¢n ThÆ°Æ¡ng\"",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 4
+    "ton_video": 4,
+    "_daysLeft": 2
   },
   {
-    "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
-    "ton_date": "2026-06-04",
+    "name": "HAPAS - QuÃ  táº·ng Phá»¥ ná»¯ Viá»t Nam 20.10 (2026)",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 2
+    "ton_video": 2,
+    "_daysLeft": 0
   },
   {
-    "name": "KINGTECH - Máy massage chân G8",
+    "name": "KINGTECH - MÃ¡y massage chÃ¢n G8",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "paused"
   },
   {
-    "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+    "name": "HAPAS - QuÃ  táº·ng Valentine 14.2 (2026)",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 10,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 9
   },
   {
-    "name": "MODECO - Máy massage cầm tay",
-    "ton_date": "2026-06-04",
+    "name": "MODECO - MÃ¡y massage cáº§m tay",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3
+    "ton_video": 3,
+    "_daysLeft": 1
   },
   {
-    "name": "AOUB-VN - Thiết bị quay góc POV",
+    "name": "AOUB-VN - Thiáº¿t bá» quay gÃ³c POV",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 23,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 22
   },
   {
-    "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
-    "ton_date": "2026-06-04",
+    "name": "DEN HOANG KIM - ÄÃ¨n led nÄng lÆ°á»£ng máº·t trá»i",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 2
+    "ton_video": 2,
+    "_daysLeft": 0
   },
   {
-    "name": "DOMINIC - Máy tỉa lông mũi",
-    "ton_date": "2026-06-04",
+    "name": "DOMINIC - MÃ¡y tá»a lÃ´ng mÅ©i",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 2
+    "ton_video": 2,
+    "_daysLeft": 0
   },
   {
-    "name": "AJIDO - Cân điện tử thông minh",
-    "ton_date": "2026-06-04",
+    "name": "AJIDO - CÃ¢n Äiá»n tá»­ thÃ´ng minh",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 10,
+    "_daysLeft": 8
   },
   {
-    "name": "TIGERNU - Ba lô nam doanh nhân",
+    "name": "TIGERNU - Ba lÃ´ nam doanh nhÃ¢n",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 1,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": -1
   },
   {
-    "name": "UGREEN - Chuột không dây",
+    "name": "UGREEN - Chuá»t khÃ´ng dÃ¢y",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 11,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1.6666666666666665
   },
   {
-    "name": "DELI - Hộp đựng thực phẩm",
+    "name": "DELI - Há»p Äá»±ng thá»±c pháº©m",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "het_hang",
@@ -210,116 +233,129 @@
     "ton_date": "2026-06-04"
   },
   {
-    "name": "JISULIFE - Quạt cầm tay Ultra 2",
+    "name": "JISULIFE - Quáº¡t cáº§m tay Ultra 2",
     "videos_per_assign": 20,
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 20,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 19
   },
   {
-    "name": "BOXERMAN - Quần sịp nam",
+    "name": "BOXERMAN - Quáº§n sá»p nam",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 12,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 10
   },
   {
-    "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-    "ton_date": "2026-06-04",
+    "name": "HAPAS - TÃºi xÃ¡ch tay dÃ¡ng trá»ng Tidy MÆ¡",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 5
+    "ton_video": 5,
+    "_daysLeft": 3
   },
   {
-    "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
-    "ton_date": "2026-06-04",
+    "name": "HAPAS - QuÃ  táº·ng Set \"ChÃ¢n ThÃ nh\"",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 6
+    "ton_video": 6,
+    "_daysLeft": 4
   },
   {
-    "name": "VUA NỆM - Nệm lò xo",
+    "name": "VUA Ná»M - Ná»m lÃ² xo",
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 8,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2
   },
   {
-    "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+    "name": "DIGI DOMAIN - Äáº¿ sáº¡c khÃ´ng dÃ¢y 3 in 1",
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
     "ton_video": 2,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": -1
   },
   {
-    "name": "SELLION - Nước hoa nữ",
+    "name": "SELLION - NÆ°á»c hoa ná»¯",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 3,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1
   },
   {
-    "name": "LIVINOX - Combo 6 thìa inox 304",
-    "ton_date": "2026-06-04",
+    "name": "LIVINOX - Combo 6 thÃ¬a inox 304",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 6
+    "ton_video": 6,
+    "_daysLeft": 4
   },
   {
-    "name": "DELI - Bộ tuốc nơ vít đa năng",
-    "ton_date": "2026-06-04",
+    "name": "DELI - Bá» tuá»c nÆ¡ vÃ­t Äa nÄng",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 5
+    "ton_video": 5,
+    "_daysLeft": 3
   },
   {
-    "name": "FULLFACE - Khẩu trang chống nắng",
-    "ton_date": "2026-06-04",
+    "name": "FULLFACE - Kháº©u trang chá»ng náº¯ng",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3
+    "ton_video": 3,
+    "_daysLeft": 1
   },
   {
-    "name": "ULUCKY - Đai chườm ấm bụng",
+    "name": "ULUCKY - Äai chÆ°á»m áº¥m bá»¥ng",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 16,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1.2000000000000002
   },
   {
-    "name": "ETOE - Máy chiếu E3 Pro",
+    "name": "ETOE - MÃ¡y chiáº¿u E3 Pro",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 16,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1.2000000000000002
   },
   {
-    "name": "JETZ - Máy hút bụi X9",
+    "name": "JETZ - MÃ¡y hÃºt bá»¥i X9",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 16,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1.2000000000000002
   },
   {
-    "name": "GEBUOANG - Thiết bị quay góc pov",
+    "name": "GEBUOANG - Thiáº¿t bá» quay gÃ³c pov",
     "ton_date": "2026-06-05",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
@@ -327,228 +363,255 @@
     "ton_video": 0
   },
   {
-    "name": "AMORTALS - Mút rửa mặt bọt biển",
+    "name": "AMORTALS - MÃºt rá»­a máº·t bá»t biá»n",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2
   },
   {
-    "name": "TOSUDO - Móc treo đồ",
+    "name": "TOSUDO - MÃ³c treo Äá»",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 8,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 1.6666666666666665
   },
   {
-    "name": "LUCK - Bình đựng dầu ăn đa năng",
-    "ton_date": "2026-06-04",
+    "name": "LUCK - BÃ¬nh Äá»±ng dáº§u Än Äa nÄng",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 4
+    "ton_video": 4,
+    "_daysLeft": 2
   },
   {
-    "name": "TJEAN - Máy hút bụi giường nệm",
+    "name": "TJEAN - MÃ¡y hÃºt bá»¥i giÆ°á»ng ná»m",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 22,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 3.4000000000000004
   },
   {
-    "name": "UPGEN - Bàn nâng hạ di động",
+    "name": "UPGEN - BÃ n nÃ¢ng háº¡ di Äá»ng",
     "videos_per_assign": 20,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 20,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 3
   },
   {
-    "name": "DEERMA - Vòi sen tăng áp",
-    "ton_date": "2026-06-04",
+    "name": "DEERMA - VÃ²i sen tÄng Ã¡p",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 9
+    "ton_video": 9,
+    "_daysLeft": 1
   },
   {
-    "name": "XPANSE - Ghế công thái học",
+    "name": "XPANSE - Gháº¿ cÃ´ng thÃ¡i há»c",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 7,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0.3333333333333335
   },
   {
-    "name": "ROYAL - Khăn tắm cotton",
+    "name": "ROYAL - KhÄn táº¯m cotton",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 4
   },
   {
-    "name": "DELI - Dao rọc giấy đa năng",
+    "name": "DELI - Dao rá»c giáº¥y Äa nÄng",
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 0
   },
   {
-    "name": "TORRAS - Ốp lưng Q3Air",
+    "name": "TORRAS - á»p lÆ°ng Q3Air",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 11,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2.6666666666666665
   },
   {
-    "name": "DELI - Ổ điện chữ T",
+    "name": "DELI - á» Äiá»n chá»¯ T",
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 11,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 4.5
   },
   {
-    "name": "BESTON - Pin kiềm Alkaline",
+    "name": "BESTON - Pin kiá»m Alkaline",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 4
   },
   {
-    "name": "BRUSHIE - Bàn chải điện",
+    "name": "BRUSHIE - BÃ n cháº£i Äiá»n",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2
   },
   {
-    "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+    "name": "PHOTOOLEX - Bá» ÄÃ¨n pin chá»¥p áº£nh",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 4
   },
   {
-    "name": "ARZOPA - Màn hình di động Z1FC",
+    "name": "ARZOPA - MÃ n hÃ¬nh di Äá»ng Z1FC",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 20,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 5.666666666666667
   },
   {
-    "name": "DEERMA - Máy xay gia vị",
-    "ton_date": "2026-06-04",
+    "name": "DEERMA - MÃ¡y xay gia vá»",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 10,
+    "_daysLeft": 1.3333333333333335
   },
   {
-    "name": "FORLOVE - Lọ tỏa hương",
-    "ton_date": "2026-06-04",
-    "videos_per_assign": 20,
-    "so_video_ngay": 3,
-    "status": "active",
-    "ton_video": 13
-  },
-  {
-    "name": "TOKYOLIFE - Bàn chải đánh răng",
+    "name": "FORLOVE - Lá» tá»a hÆ°Æ¡ng",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 13,
-    "ton_date": "2026-06-04"
+    "_daysLeft": 2.333333333333333
   },
   {
-    "name": "PARROTI - Bộ cọ toilet",
-    "ton_date": "2026-06-04",
+    "name": "TOKYOLIFE - BÃ n cháº£i ÄÃ¡nh rÄng",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 13
+    "ton_video": 13,
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2.333333333333333
   },
   {
-    "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
-    "ton_date": "2026-06-04",
+    "name": "PARROTI - Bá» cá» toilet",
+    "ton_date": "2026-06-06",
+    "videos_per_assign": 20,
+    "so_video_ngay": 3,
+    "status": "active",
+    "ton_video": 13,
+    "_daysLeft": 2.333333333333333
+  },
+  {
+    "name": "THINSHOP88 - TÃºi ngÃ¢m chÃ¢n gáº¥p gá»n",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 8
+    "ton_video": 8,
+    "_daysLeft": 6
   },
   {
-    "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+    "name": "THINSHOP88 - CÃ¢y Äáº¥m lÆ°ng ngáº£i cá»©u",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 5
   },
   {
-    "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
-    "ton_date": "2026-06-04",
+    "name": "SEANUO STORE VN - MÃ n hÃ¬nh pháº£n chiáº¿u tá»« tÃ­nh",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 8
+    "ton_video": 8,
+    "_daysLeft": 6
   },
   {
-    "name": "PARROTI - Cây chà sàn",
+    "name": "PARROTI - CÃ¢y chÃ  sÃ n",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 10,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 2.3333333333333335
   },
   {
-    "name": "EDC VN - Đèn pin led zoom F35",
-    "ton_date": "2026-06-04",
+    "name": "EDC VN - ÄÃ¨n pin led zoom F35",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 9
+    "ton_video": 9,
+    "_daysLeft": 7
   },
   {
-    "name": "AQUA - Quạt điều khiển giọng nói",
+    "name": "AQUA - Quáº¡t Äiá»u khiá»n giá»ng nÃ³i",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 8,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 6
   },
   {
-    "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
-    "ton_date": "2026-06-04",
+    "name": "ULANZI - GÃ¡ Äá»¡ Äiá»n thoáº¡i tá»« tÃ­nh MA38",
+    "ton_date": "2026-06-06",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 8
+    "ton_video": 8,
+    "_daysLeft": 6
   },
   {
-    "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
+    "name": "MIXUAN - GÄng Tay Cao Su Báº£o Há»",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 20,
-    "ton_date": "2026-06-05"
+    "ton_date": "2026-06-06",
+    "_daysLeft": 5.666666666666667
   }
 ]
