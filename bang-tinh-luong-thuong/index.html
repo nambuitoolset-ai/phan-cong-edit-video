@@ -206,8 +206,8 @@ function calculate(){
     document.getElementById('qrmeta-'+e.id).innerHTML=`${e.bankName} · ${e.acct}<br><strong>${e.full}</strong>`;
     document.getElementById('qt-amt-'+e.id).textContent=fmt(total);
     td[e.id]={bankName:e.bankName,acct:e.acct,full:e.full,amtStr:fmt(total),memo:label};
-    document.getElementById('qrbox-'+e.id).classList.add('open');
-    document.getElementById('qrbtn-'+e.id).textContent='Ẩn QR / Thông tin CK';
+    document.getElementById('qrbox-'+e.id).classList.remove('open');
+    document.getElementById('qrbtn-'+e.id).textContent='Hiện QR / Thông tin CK';
   });
   document.getElementById('hdr-sub').textContent=`Tháng ${m}/${y} · ${D} ngày`;
   document.getElementById('footer-period').textContent=`Tháng ${m}/${y} · ${D} ngày · ${EMP.length} nhân sự`;
