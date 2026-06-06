@@ -40,7 +40,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .cut{color:#DC2626;font-weight:600;}
 .coef-select{width:58px;padding:4px 6px;border:1px solid #DEE0E3;border-radius:6px;font-size:12px;text-align:center;cursor:pointer;background:#fff;color:#1F2329;}
 .off-row{display:flex;align-items:center;gap:8px;margin-bottom:10px;}
-.off-row label{font-size:11px;color:#9EA4AF;text-transform:uppercase;letter-spacing:.4px;width:90px;}
+.off-row label{font-size:11px;color:#9EA4AF;text-transform:uppercase;letter-spacing:.4px;flex:1;}
 .off-row input{width:58px;padding:4px 6px;border:1px solid #DEE0E3;border-radius:6px;font-size:12px;text-align:center;color:#1F2329;}
 .breakdown{display:none;background:#F5F6F7;border-radius:6px;padding:10px 12px;margin-bottom:10px;}
 .breakdown.show{display:block;}
@@ -132,7 +132,7 @@ function updateCoef(id,coef){const emp=EMP.find(e=>e.id===id);if(emp){emp.coef=p
 function cardHtml(e){
   const p=POL[e.policy];
   const coefOptions=[0.8,0.9,1.0,1.1,1.2].map(v=>`<option value="${v}" ${e.coef===v?'selected':''}>${v}</option>`).join('');
-  const coef=e.policy==='CS3'?`<div class="off-row"><label>HỆ SỐ</label><div style="display:flex;align-items:center;gap:6px;"><select id="coef-${e.id}" class="coef-select" onchange="updateCoef('${e.id}', this.value)">${coefOptions}</select>${e.cut?' <span class="cut">cắt thưởng</span>':''}</div></div>`:'';
+  const coef=e.policy==='CS3'?`<div class="off-row"><label>HỆ SỐ</label><select id="coef-${e.id}" class="coef-select" onchange="updateCoef('${e.id}', this.value)">${coefOptions}</select><span style="font-size:11px;visibility:hidden">ngày</span>${e.cut?' <span class="cut">cắt thưởng</span>':''}</div>`:'';
   const av=IMG[e.id]?`<img src="${IMG[e.id]}" alt="${e.name}">`:e.ini;
   return`<div class="card">
 <div class="card-header"><div style="display:flex;align-items:center;gap:10px;"><div class="avatar" style="background:${e.color}">${av}</div><div class="card-info"><h3>${e.name}</h3></div></div></div>
