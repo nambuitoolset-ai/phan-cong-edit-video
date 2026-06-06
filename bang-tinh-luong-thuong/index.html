@@ -76,8 +76,6 @@ input:focus,select:focus{outline:none;border-color:#1456F0!important;box-shadow:
   </select>
   <label>Năm</label><input type="number" id="inp-y" value="2026" min="2025" max="2030" style="width:68px" onchange="autoFillDays()">
   <div class="sep"></div>
-  <label>Số ngày</label><input type="number" id="inp-d" value="30" min="28" max="31" style="width:52px">
-  <div class="sep"></div>
   <label>Đơn CS3</label><input type="number" id="inp-orders" value="0" min="0" style="width:90px" placeholder="0">
   <div class="sep"></div>
   <button class="btn btn-primary" onclick="calculate()">Tính lương</button>
@@ -168,7 +166,7 @@ function renderGrid(){
 }
 function calculate(){
   const m=+document.getElementById('sel-m').value,y=+document.getElementById('inp-y').value;
-  const D=+document.getElementById('inp-d').value||daysOf(m,y);
+  const D=daysOf(m,y);
   const orders=+document.getElementById('inp-orders').value||0;
   const label=`Luong T${m}/${y}`;
   const pool=orders*0.8*1000;
