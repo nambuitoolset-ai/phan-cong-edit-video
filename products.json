@@ -204,10 +204,10 @@
     "name": "DELI - Hộp đựng thực phẩm",
     "videos_per_assign": 20,
     "so_video_ngay": 3,
-    "status": "het_hang",
+    "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 20,
-    "ton_date": "2026-06-04"
+    "ton_date": "2026-06-06"
   },
   {
     "name": "JISULIFE - Quạt cầm tay Ultra 2",
