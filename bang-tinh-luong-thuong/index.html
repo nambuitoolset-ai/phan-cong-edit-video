@@ -37,6 +37,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;backgrou
 .badge-cs2l{background:#EEF2FF;color:#3730A3;border-color:#C7D2FE;}
 .badge-cs3{background:#F0FDF4;color:#166534;border-color:#BBF7D0;}
 .cut{color:#DC2626;font-weight:600;}
+.coef-select{padding:2px 6px;border:1px solid #DEE0E3;border-radius:4px;font-size:11px;cursor:pointer;background:#fff;color:#1F2329;}
 .off-row{display:flex;align-items:center;gap:8px;margin-bottom:10px;}
 .off-row label{font-size:11px;color:#9EA4AF;text-transform:uppercase;letter-spacing:.4px;flex:1;}
 .off-row input{width:58px;padding:4px 6px;border:1px solid #DEE0E3;border-radius:6px;font-size:12px;text-align:center;color:#1F2329;}
@@ -130,9 +131,11 @@ function qrUrl(bank,acct,amt,name,info){return`https://img.vietqr.io/image/${ban
 function copyText(text,btn){navigator.clipboard.writeText(text).then(()=>{btn.textContent='Đã copy';btn.classList.add('copied');setTimeout(()=>{btn.textContent='Copy';btn.classList.remove('copied');},2000);});}
 function copyAll(id){const d=td[id];if(!d)return;copyText(`Ngân hàng: ${d.bankName}\nSố TK: ${d.acct}\nChủ TK: ${d.full}\nSố tiền: ${d.amtStr}\nNội dung: ${d.memo}`,document.getElementById('copy-all-'+id));}
 function toggleQR(id){const box=document.getElementById('qrbox-'+id);const btn=document.getElementById('qrbtn-'+id);const open=box.classList.toggle('open');btn.textContent=open?'Ẩn QR / Thông tin CK':'Hiện QR / Thông tin CK';}
+function updateCoef(id,coef){const emp=EMP.find(e=>e.id===id);if(emp){emp.coef=parseFloat(coef);calculate();}}
 function cardHtml(e){
   const p=POL[e.policy];
-  const sub=e.policy==='CS3'?` · HS ${e.coef}${e.cut?' · <span class="cut">cắt thưởng</span>':''}`:'';
+  const coefOptions=[0.8,0.9,1.0,1.1,1.2].map(v=>`<option value="${v}" ${e.coef===v?'selected':''}>${v}</option>`).join('');
+  const sub=e.policy==='CS3'?` · <select id="coef-${e.id}" class="coef-select" onchange="updateCoef('${e.id}', this.value)">${coefOptions}</select>${e.cut?' · <span class="cut">cắt thưởng</span>':''}`:'';
   const av=IMG[e.id]?`<img src="${IMG[e.id]}" alt="${e.name}">`:e.ini;
   return`<div class="card">
 <div class="card-header"><div class="avatar" style="background:${e.color}">${av}</div><div class="card-info"><h3>${e.name}</h3><span class="badge ${p.cls}">${p.label}</span>${sub}</div></div>
