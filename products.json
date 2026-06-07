@@ -26,7 +26,7 @@
   },
   {
     "name": "TORRAS - Ốp lưng trong suốt",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 11,
@@ -321,7 +321,7 @@
   {
     "name": "GEBUOANG - Thiết bị quay góc pov",
     "ton_date": "2026-06-06",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 5,
     "status": "active",
     "ton_video": 20
@@ -353,7 +353,7 @@
   },
   {
     "name": "TJEAN - Máy hút bụi giường nệm",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-04",
@@ -464,14 +464,14 @@
   {
     "name": "FORLOVE - Lọ tỏa hương",
     "ton_date": "2026-06-06",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 9
   },
   {
     "name": "TOKYOLIFE - Bàn chải đánh răng",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 10,
@@ -480,7 +480,7 @@
   {
     "name": "PARROTI - Bộ cọ toilet",
     "ton_date": "2026-06-06",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 10
