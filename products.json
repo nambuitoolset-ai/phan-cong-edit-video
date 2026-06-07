@@ -362,7 +362,7 @@
   },
   {
     "name": "UPGEN - Bàn nâng hạ di động",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
@@ -446,7 +446,7 @@
   },
   {
     "name": "ARZOPA - Màn hình di động Z1FC",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
@@ -544,7 +544,7 @@
   },
   {
     "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-04",
