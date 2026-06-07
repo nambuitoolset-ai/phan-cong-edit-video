@@ -1536,15 +1536,15 @@
   "!voice_state": {
     "ULUCKY - Đai chườm ấm bụng": {
       "total": 15,
-      "counter": 20
+      "counter": 35
     },
     "ETOE - Máy chiếu E3 Pro": {
       "total": 15,
-      "counter": 20
+      "counter": 35
     },
     "JETZ - Máy hút bụi X9": {
       "total": 11,
-      "counter": 20
+      "counter": 35
     },
     "AOUB-VN - Thiết bị quay góc POV": {
       "total": 21,
@@ -1556,7 +1556,7 @@
     },
     "VUA NỆM - Nệm lò xo": {
       "total": 19,
-      "counter": 10
+      "counter": 20
     },
     "XPANSE - Ghế công thái học": {
       "total": 10,
@@ -1680,6 +1680,30 @@
     },
     "ENADE VN - Khẩu trang chống nắng full face": {
       "total": 7,
+      "counter": 10
+    },
+    "TORRAS - Kính cường lực": {
+      "total": 15,
+      "counter": 15
+    },
+    "MENCANON - Rèm che nắng ô tô": {
+      "total": 10,
+      "counter": 10
+    },
+    "GOKU - Ổ khóa vân tay": {
+      "total": 10,
+      "counter": 10
+    },
+    "HAPAS - Quà tặng Set \"Thân Thương\"": {
+      "total": 25,
+      "counter": 10
+    },
+    "UGREEN - Chuột không dây": {
+      "total": 11,
+      "counter": 15
+    },
+    "AMORTALS - Mút rửa mặt bọt biển": {
+      "total": 10,
       "counter": 10
     }
   },
@@ -3712,6 +3736,740 @@
       {
         "full_name": "ENADE VN - Khẩu trang chống nắng full face",
         "url": "https://drive.google.com/drive/folders/1fdexP_b5rlkAM4lYon4OjRUQeQeAisH_"
+      }
+    ]
+  },
+  "2026-06-07": {
+    "assignments": {
+      "Thư": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 3
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 2
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 3
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 3
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 3
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "1"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "1, 2"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "1"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "11"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "6, 7"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "10, 11, 1"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "1"
+          }
+        ]
+      },
+      "Dung": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 2
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 2
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 1
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 2
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "4, 5"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "2"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "3, 4"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "2"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "4, 5"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "12"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "9, 10"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "8"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "2, 3"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "2"
+          }
+        ]
+      },
+      "Duyên": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 2
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 2
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 1
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 1
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 2
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "6, 7"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "3"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "5"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "3, 4"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "6"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "13, 14"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "11"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "9, 10"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "4, 5"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "3"
+          }
+        ]
+      },
+      "Hiếu": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 2
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 2
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 1
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 1
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 2
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "8, 9"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "4"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "6"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "5, 6"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "7"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "15, 16"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "12"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "11, 12"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "6, 7"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "4"
+          }
+        ]
+      },
+      "Thắm": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 2
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 2
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "10, 11"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "5"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "7"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "7"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "8, 9"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "17"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "13, 14"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "13, 14"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "8, 9"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "5"
+          }
+        ]
+      },
+      "Trân": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 2
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 2
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "12, 13"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "6"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "8"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "8"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "10, 11"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "18"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "15, 1"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "15, 1"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "10, 11"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "6"
+          }
+        ]
+      },
+      "Sơn": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 1
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 2
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 1
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "14"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "7, 8"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "9"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "9"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "1, 2"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "19"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "2, 3"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "2, 3"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "1"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "7, 8"
+          }
+        ]
+      },
+      "Tuyên": {
+        "videos": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": 1
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 2
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": 1
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": 2
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": 1
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TORRAS - Kính cường lực",
+            "count": "15"
+          },
+          {
+            "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "9, 10"
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": "10"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "10"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "3, 4"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "1"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "4, 5"
+          },
+          {
+            "name": "ETOE - Máy chiếu E3 Pro",
+            "count": "4, 5"
+          },
+          {
+            "name": "JETZ - Máy hút bụi X9",
+            "count": "2"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "9, 10"
+          }
+        ]
+      }
+    },
+    "links": [
+      {
+        "full_name": "TORRAS - Kính cường lực",
+        "url": "https://drive.google.com/drive/folders/1MH1gAKlw7cZ3S69tfsK2QSfjWlvJeT59"
+      },
+      {
+        "full_name": "MENCANON - Rèm che nắng ô tô",
+        "url": "https://drive.google.com/drive/folders/1YCkNvjJyexJHDhy9tmjdTGJu1GXxRTPg"
+      },
+      {
+        "full_name": "GOKU - Ổ khóa vân tay",
+        "url": "https://drive.google.com/drive/folders/1DPWoifOHOXnly7PaJXOuF_IqcWFgQgG8"
+      },
+      {
+        "full_name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+        "url": "https://drive.google.com/drive/folders/1E3LVrEp8oyfDqEfX649B6gr_j3X3T1Q_"
+      },
+      {
+        "full_name": "UGREEN - Chuột không dây",
+        "url": "https://drive.google.com/drive/folders/1fb22N6oIr0C7SfGcxLVcQHR_HUNIloNE"
+      },
+      {
+        "full_name": "VUA NỆM - Nệm lò xo",
+        "url": "https://drive.google.com/drive/folders/1F-wyVQ735p7P2b6sj1Oyv7abGFK-vzGL"
+      },
+      {
+        "full_name": "ULUCKY - Đai chườm ấm bụng",
+        "url": "https://drive.google.com/drive/folders/1BM4G4qNqabTGkapyW61SdfcdXLAVQuvD"
+      },
+      {
+        "full_name": "ETOE - Máy chiếu E3 Pro",
+        "url": "https://drive.google.com/drive/folders/1qjw0O3EPTHLWPotdz0Hu_WjIf2QchCZ3"
+      },
+      {
+        "full_name": "JETZ - Máy hút bụi X9",
+        "url": "https://drive.google.com/drive/folders/1zsnDwsXgw23OeM8G_UX5g76xf4XLipYu"
+      },
+      {
+        "full_name": "AMORTALS - Mút rửa mặt bọt biển",
+        "url": "https://drive.google.com/drive/folders/167oV3hGpt3h7-ZTA_yMsAI3CActjx0-c"
       }
     ]
   }
