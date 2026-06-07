@@ -372,7 +372,7 @@
   {
     "name": "DEERMA - Vòi sen tăng áp",
     "ton_date": "2026-06-07",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 23
@@ -456,7 +456,7 @@
   {
     "name": "DEERMA - Máy xay gia vị",
     "ton_date": "2026-06-07",
-    "videos_per_assign": 20,
+    "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 21
