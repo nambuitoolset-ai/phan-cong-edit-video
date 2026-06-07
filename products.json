@@ -37,16 +37,16 @@
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 9,
-    "ton_date": "2026-06-06"
+    "ton_video": 31,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "MENCANON - Rèm che nắng ô tô",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 5,
-    "ton_date": "2026-06-04"
+    "ton_video": 17,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -69,8 +69,8 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3,
-    "ton_date": "2026-06-06"
+    "ton_video": 19,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "ONECHI - Dây dán velcro quản chống rối",
@@ -114,11 +114,11 @@
   },
   {
     "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-    "ton_date": "2026-06-06",
+    "ton_date": "2026-06-08",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3
+    "ton_video": 19
   },
   {
     "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
@@ -197,8 +197,8 @@
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 8,
-    "ton_date": "2026-06-06"
+    "ton_video": 28,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "DELI - Hộp đựng thực phẩm",
@@ -248,8 +248,8 @@
     "so_video_ngay": 2,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 6,
-    "ton_date": "2026-06-06"
+    "ton_video": 20,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
@@ -297,8 +297,8 @@
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 11,
-    "ton_date": "2026-06-06"
+    "ton_video": 27,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "ETOE - Máy chiếu E3 Pro",
@@ -306,8 +306,8 @@
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 11,
-    "ton_date": "2026-06-06"
+    "ton_video": 27,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "JETZ - Máy hút bụi X9",
@@ -315,8 +315,8 @@
     "so_video_ngay": 5,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 11,
-    "ton_date": "2026-06-06"
+    "ton_video": 29,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "GEBUOANG - Thiết bị quay góc pov",
@@ -331,8 +331,8 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3,
-    "ton_date": "2026-06-06"
+    "ton_video": 17,
+    "ton_date": "2026-06-08"
   },
   {
     "name": "TOSUDO - Móc treo đồ",
