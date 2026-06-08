@@ -156,6 +156,18 @@
       background: rgba(245, 158, 11, 0.15);
       color: #d97706;
     }
+    .badge-days.paused {
+      background: rgba(107, 114, 128, 0.15);
+      color: #6b7280;
+    }
+    .badge-days.het_hang {
+      background: rgba(234, 88, 12, 0.15);
+      color: #ea580c;
+    }
+    .badge-days.loi_link {
+      background: rgba(220, 38, 38, 0.15);
+      color: #dc2626;
+    }
 
     /* ─── CARDS GRID ─────────────────── */
     .grid {
@@ -428,12 +440,17 @@
         const stock = calcRealStock(p);
         totalStock += stock;
         const status = p.status || 'active';
-        if (status !== 'active') return; // Chỉ cảnh báo sản phẩm đang active
         const daysLeft = (p.so_video_ngay && p.so_video_ngay > 0)
           ? Math.floor(stock / p.so_video_ngay)
           : 99;
         if (daysLeft <= 2) {
-          lowItems.push({ name: p.name, daysLeft, stock, rate: p.so_video_ngay });
+          lowItems.push({ 
+            name: p.name, 
+            daysLeft, 
+            stock, 
+            rate: p.so_video_ngay,
+            status: status 
+          });
         }
       });
 
@@ -477,8 +494,27 @@
         lowItems.sort((a, b) => a.daysLeft - b.daysLeft).forEach(item => {
           const row = document.createElement('div');
           row.className = 'alert-item';
-          const badgeClass = item.daysLeft === 0 ? 'zero' : item.daysLeft === 1 ? 'one' : '';
-          const label = item.daysLeft === 0 ? 'Hết rồi!' : item.daysLeft === 1 ? '1 ngày' : item.daysLeft + ' ngày';
+          
+          let badgeClass = '';
+          let label = '';
+          
+          if (item.status === 'active') {
+            badgeClass = item.daysLeft === 0 ? 'zero' : item.daysLeft === 1 ? 'one' : '';
+            label = item.daysLeft === 0 ? 'Hết rồi!' : item.daysLeft === 1 ? '1 ngày' : item.daysLeft + ' ngày';
+          } else if (item.status === 'paused') {
+            badgeClass = 'paused';
+            label = 'Tạm dừng';
+          } else if (item.status === 'het_hang') {
+            badgeClass = 'het_hang';
+            label = 'Hết hàng';
+          } else if (item.status === 'loi_link') {
+            badgeClass = 'loi_link';
+            label = 'Lỗi link';
+          } else {
+            badgeClass = 'paused';
+            label = item.status;
+          }
+          
           row.innerHTML = `<span class="name">${item.name}</span><span class="badge-days ${badgeClass}">${label}</span>`;
           list.appendChild(row);
         });
