@@ -424,6 +424,8 @@
       products.forEach(p => {
         const stock = calcRealStock(p);
         totalStock += stock;
+        const status = p.status || 'active';
+        if (status !== 'active') return; // Chỉ cảnh báo sản phẩm đang active
         const daysLeft = (p.so_video_ngay && p.so_video_ngay > 0)
           ? Math.floor(stock / p.so_video_ngay)
           : 99;
