@@ -23,7 +23,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding-top: 24px; /* reduced top padding since navbar is hidden */
+      padding-top: 0px;
       padding-bottom: 60px;
     }
     .navbar {
@@ -39,19 +39,31 @@
       align-items: center;
       flex-grow: 1;
     }
-    h1 {
-      font-size: 26px;
+    .header {
+      background: var(--bg-soft);
+      border-bottom: 1px solid var(--border);
+      padding: 36px 0 16px 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+      position: sticky;
+      top: 0px;
+      z-index: 100;
+      width: 100%;
+    }
+    .header h2 {
+      font-size: 28px;
       font-weight: 800;
       letter-spacing: -0.02em;
-      margin-bottom: 4px;
-      text-align: center;
       color: var(--text);
-    }
-    .sub {
-      color: var(--text-sub);
-      font-size: 13px;
-      margin-bottom: 32px;
+      text-transform: uppercase;
+      line-height: 1.2;
       text-align: center;
+    }
+    .header-sub {
+      font-size: 13px;
+      color: var(--text-sub);
     }
 
     /* ─── STAT STRIP ─────────────────── */
@@ -273,8 +285,9 @@
     }
 
     @media (max-width: 640px) {
-      h1 { font-size: 26px; }
-      body { padding-top: 24px; }
+      .header { padding: 16px 0 12px 0; position: static; }
+      .header h2 { font-size: 22px; }
+      body { padding-top: 0px; }
       .container-custom { padding: 12px 12px; }
       .stat-strip { grid-template-columns: 1fr 1fr; }
       .stat-strip div:last-child { grid-column: span 2; }
@@ -321,9 +334,12 @@
     </nav>
   </div>
 
+  <div class="header">
+    <h2>Quản lý team</h2>
+    <div class="header-sub">@namoinam — tổng quan hôm nay | <a href="#" onclick="authLogout()" style="color: var(--status-red); text-decoration: none; font-weight: 600;">Đăng xuất 🔒</a></div>
+  </div>
+
   <div class="container-custom">
-    <h1>Quản lý team</h1>
-    <div class="sub">@namoinam — tổng quan hôm nay | <a href="#" onclick="authLogout()" style="color: #ef4444; text-decoration: none; font-weight: 600;">Đăng xuất 🔒</a></div>
 
     <!-- STAT STRIP -->
     <div class="stat-strip">
