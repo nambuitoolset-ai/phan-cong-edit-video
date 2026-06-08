@@ -108,28 +108,40 @@
       display: flex;
       align-items: center;
       gap: 10px;
-      padding: 20px 16px 16px;
+      padding: 16px 20px;
       border-bottom: 1px solid var(--border);
     }
 
     .logo-icon {
-      width: 36px;
-      height: 36px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
-      background: linear-gradient(135deg, #1456F0, #8B5CF6);
+      border: 2px solid var(--blue);
+      overflow: hidden;
+      flex-shrink: 0;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 1rem;
-      flex-shrink: 0;
+    }
+
+    .logo-icon img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
     }
 
     .logo-text {
       font-weight: 800;
-      font-size: 0.95rem;
+      font-size: 1.05rem;
       color: var(--text);
       letter-spacing: -0.02em;
       line-height: 1.2;
+    }
+
+    .logo-text span {
+      color: var(--blue);
+      font-style: italic;
     }
 
     /* Nav */
@@ -218,17 +230,22 @@
     }
 
     .user-avatar {
-      width: 36px;
-      height: 36px;
+      width: 32px;
+      height: 32px;
       border-radius: 50%;
-      background: linear-gradient(135deg, #1456F0, #8B5CF6);
+      border: 2px solid var(--blue);
+      overflow: hidden;
+      flex-shrink: 0;
       display: flex;
       align-items: center;
       justify-content: center;
-      color: #fff;
-      font-weight: 700;
-      font-size: 0.875rem;
-      flex-shrink: 0;
+    }
+
+    .user-avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
     }
 
     .user-info { flex: 1; min-width: 0; }
@@ -952,8 +969,8 @@
 
     <!-- Logo -->
     <div class="sidebar-logo">
-      <div class="logo-icon">🌟</div>
-      <div class="logo-text">NAM ƠI NAM</div>
+      <div class="logo-icon"><img src="../avatar.jpg" alt="Nam ơi Nam" /></div>
+      <div class="logo-text">Nam <span>ơi</span> Nam</div>
     </div>
 
     <!-- Nav Menu -->
@@ -1004,7 +1021,7 @@
 
     <!-- Bottom User Info -->
     <div class="sidebar-user">
-      <div class="user-avatar">N</div>
+      <div class="user-avatar"><img src="../avatar.jpg" alt="Nam" /></div>
       <div class="user-info">
         <div class="user-name">Nam</div>
         <div class="user-role">Admin</div>
