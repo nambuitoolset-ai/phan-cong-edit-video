@@ -512,7 +512,7 @@
     <div class="sep"></div>
     <label>Tổng đơn hàng</label><input type="text" inputmode="numeric" id="inp-orders" value="0" style="width:90px" placeholder="0" oninput="this.value=this.value.replace(/[^0-9]/g,''); calculate();">
     <div class="sep"></div>
-    <button class="btn btn-primary" onclick="calculate()">Tính lương</button>
+    <button class="btn btn-primary" onclick="isCalculated=true; calculate();">Tính lương</button>
     <button class="btn btn-outline" onclick="resetAll()">Reset</button>
     <button class="btn btn-outline" onclick="authLogout()" style="color: #ef4444; border-color: rgba(239, 68, 68, 0.2); background: rgba(239, 68, 68, 0.05);">Đăng xuất</button>
   </div>
@@ -589,6 +589,7 @@ const POL={
 };
 const ORDER=['CS1','CS2L','CS3'];
 const td={};
+let isCalculated = false;
 function fmt(n){return Math.round(n).toLocaleString('vi-VN')+'đ';}
 function num(n){return(Math.round(n*100)/100).toLocaleString('vi-VN');}
 function daysOf(m,y){return new Date(y,m,0).getDate();}
@@ -683,6 +684,19 @@ function calculate(){
   const tongHeSo=cs3List.reduce((s,e)=>s+(e.coef||0),0);
   const divisor=cs3List.length>=3?tongHeSo:3;
   const tienHeSo=divisor?pool/divisor:0;
+  
+  if(!isCalculated){
+    document.getElementById('cs3-bar').classList.remove('show');
+    EMP.forEach(e=>{
+      document.getElementById('bd-'+e.id).classList.remove('show');
+      document.getElementById('qrw-'+e.id).classList.remove('show');
+    });
+    document.getElementById('hdr-sub').textContent='Chọn tháng và nhập số liệu để tính lương';
+    document.getElementById('footer-period').textContent='—';
+    document.getElementById('footer-total').textContent='';
+    return;
+  }
+  
   if(orders>0){
     document.getElementById('cs3-a').textContent=orders.toLocaleString('vi-VN')+' đơn';
     document.getElementById('cs3-b').textContent=num(orders*0.8)+' đơn';
@@ -720,18 +734,12 @@ function calculate(){
   document.getElementById('footer-total').textContent='Tổng: '+fmt(grand);
 }
 function resetAll(){
+  isCalculated=false;
   EMP.forEach(e=>{
     document.getElementById('off-'+e.id).value=0;
-    document.getElementById('bd-'+e.id).classList.remove('show');
-    document.getElementById('qrw-'+e.id).classList.remove('show');
-    document.getElementById('qrbox-'+e.id).classList.remove('open');
-    const btn=document.getElementById('qrbtn-'+e.id);if(btn)btn.textContent='THÔNG TIN CHUYỂN KHOẢN';
   });
-  document.getElementById('cs3-bar').classList.remove('show');
   document.getElementById('inp-orders').value=0;
-  document.getElementById('hdr-sub').textContent='Chọn tháng và nhập số liệu để tính lương';
-  document.getElementById('footer-period').textContent='—';
-  document.getElementById('footer-total').textContent='';
+  calculate();
 }
 renderGrid();
 calculate();
