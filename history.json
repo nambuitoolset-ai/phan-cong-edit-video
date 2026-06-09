@@ -828,7 +828,7 @@
     },
     "REDCHEF - Bộ dao kéo 6 món": {
       "total": 10,
-      "counter": 20
+      "counter": 30
     },
     "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)": {
       "total": 25,
@@ -939,44 +939,44 @@
       "counter": 0
     },
     "LIVINOX - Combo 6 thìa inox 304": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "DELI - Bộ tuốc nơ vít đa năng": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "LUCK - Bình đựng dầu ăn đa năng": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "ROYAL - Khăn tắm cotton": {
-      "total": 0,
-      "counter": 0
+      "total": 30,
+      "counter": 10
     },
     "BESTON - Pin kiềm Alkaline": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "PHOTOOLEX - Bộ đèn pin chụp ảnh": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "THINSHOP88 - Túi ngâm chân gấp gọn": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "THINSHOP88 - Cây đấm lưng ngải cứu": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     },
     "SEANUO STORE VN - Màn hình phản chiếu từ tính": {
-      "total": 0,
-      "counter": 0
+      "total": 5,
+      "counter": 10
     },
     "ULANZI - Gá đỡ điện thoại từ tính MA38": {
-      "total": 0,
-      "counter": 0
+      "total": 10,
+      "counter": 10
     }
   },
   "2026-06-04": {
@@ -4512,6 +4512,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "1, 2"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "1"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "1, 2"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "1"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "1"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "1, 2"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "1"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "1, 2"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "1, 2"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "1, 2"
           }
         ]
       },
@@ -4570,6 +4610,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "3, 4"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "2"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "3, 4"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "2"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "2"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "3"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "4, 5"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "2"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "3"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "3"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "3"
           }
         ]
       },
@@ -4628,6 +4708,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "5, 6"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "3"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "5, 6"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "3"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "3"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "4"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "6"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "3, 4"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "4"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "4"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "4"
           }
         ]
       },
@@ -4686,6 +4806,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "7"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "4"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "7"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "4, 5"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "4"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "5"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "7"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "5, 6"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "5"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "5"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "5"
           }
         ]
       },
@@ -4744,6 +4904,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "8"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "5"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "8"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "6, 7"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "5"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "6"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "8"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "7"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "6, 7"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "1"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "6"
           }
         ]
       },
@@ -4802,6 +5002,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "9"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "6"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "9"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "8"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "6, 7"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "7"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "9"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "8"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "8"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "2, 3"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "7"
           }
         ]
       },
@@ -4860,6 +5100,46 @@
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
             "count": "10"
+          },
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "7, 8"
+          },
+          {
+            "name": "DELI - Bộ tuốc nơ vít đa năng",
+            "count": "10"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "9"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "8, 9"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "8"
+          },
+          {
+            "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
+            "count": "10"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "9"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "9"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "4"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "8, 9"
           }
         ]
       },
@@ -4898,57 +5178,90 @@
             "count": 1
           }
         ],
-        "voices": []
+        "voices": [
+          {
+            "name": "LIVINOX - Combo 6 thìa inox 304",
+            "count": "9, 10"
+          },
+          {
+            "name": "LUCK - Bình đựng dầu ăn đa năng",
+            "count": "10"
+          },
+          {
+            "name": "ROYAL - Khăn tắm cotton",
+            "count": "10"
+          },
+          {
+            "name": "BESTON - Pin kiềm Alkaline",
+            "count": "9, 10"
+          },
+          {
+            "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
+            "count": "10"
+          },
+          {
+            "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
+            "count": "10"
+          },
+          {
+            "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
+            "count": "5"
+          },
+          {
+            "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
+            "count": "10"
+          }
+        ]
       }
     },
     "links": [
       {
         "full_name": "REDCHEF - Bộ dao kéo 6 món",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1huqYwqLII2l7JF9o6sdxPoP4eJgr-rR6"
       },
       {
         "full_name": "HAPAS - Quà tặng Set \"Chân Thành\"",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1CtqNV3OCSueEeQ9wW89Y6tXvmFUIaP2H"
       },
       {
         "full_name": "LIVINOX - Combo 6 thìa inox 304",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1JMx_h2bae4nwnOLLDnvQ58FtCpMZ5HEF"
       },
       {
         "full_name": "DELI - Bộ tuốc nơ vít đa năng",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1s5i3bnDx2faR-Fa7PSoIdy2mvz5kdyTn"
       },
       {
         "full_name": "LUCK - Bình đựng dầu ăn đa năng",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1sAvTuS9kUk0hAhZYOkXnae6qNk4b8C9a"
       },
       {
         "full_name": "ROYAL - Khăn tắm cotton",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1Q5O9ulncubx2fZpDve0oeMIlgAKw4eA8"
       },
       {
         "full_name": "BESTON - Pin kiềm Alkaline",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1FC2VmGH7NczYpOFyxKKa0wuFAI8b1A-Y"
       },
       {
         "full_name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1gPJtFOCd9m3rlF8p_cBPq_7n0vC_tH1C"
       },
       {
         "full_name": "THINSHOP88 - Túi ngâm chân gấp gọn",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1JcIwdqJEDxRg-dwTK5ljBbQ9NyHfXj-_"
       },
       {
         "full_name": "THINSHOP88 - Cây đấm lưng ngải cứu",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1MQMrGzVlxfRLW3akwFfC6lcwGagbePK-"
       },
       {
         "full_name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/19Y5nCkc7nrC1oMM07ZV4zWrI4e56C1yM"
       },
       {
         "full_name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
-        "url": ""
+        "url": "https://drive.google.com/drive/folders/1ON7JYnuQIY18JlhAQ5av8NsEbIh79NTn"
       }
     ]
   }
