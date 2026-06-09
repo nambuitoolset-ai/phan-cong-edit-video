@@ -828,7 +828,7 @@
     },
     "REDCHEF - Bộ dao kéo 6 món": {
       "total": 10,
-      "counter": 30
+      "counter": 40
     },
     "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)": {
       "total": 25,
@@ -935,48 +935,48 @@
       "counter": 15
     },
     "HAPAS - Quà tặng Set \"Chân Thành\"": {
-      "total": 0,
-      "counter": 0
+      "total": 41,
+      "counter": 10
     },
     "LIVINOX - Combo 6 thìa inox 304": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "DELI - Bộ tuốc nơ vít đa năng": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "LUCK - Bình đựng dầu ăn đa năng": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "ROYAL - Khăn tắm cotton": {
       "total": 30,
-      "counter": 10
+      "counter": 20
     },
     "BESTON - Pin kiềm Alkaline": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "PHOTOOLEX - Bộ đèn pin chụp ảnh": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "THINSHOP88 - Túi ngâm chân gấp gọn": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "THINSHOP88 - Cây đấm lưng ngải cứu": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "SEANUO STORE VN - Màn hình phản chiếu từ tính": {
       "total": 5,
-      "counter": 10
+      "counter": 20
     },
     "ULANZI - Gá đỡ điện thoại từ tính MA38": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     }
   },
   "2026-06-04": {
@@ -4514,6 +4514,10 @@
             "count": "1, 2"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "1"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "1"
           },
@@ -4527,7 +4531,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "1"
+            "count": "11"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -4612,6 +4616,10 @@
             "count": "3, 4"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "2"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "2"
           },
@@ -4625,7 +4633,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "2"
+            "count": "12"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -4710,6 +4718,10 @@
             "count": "5, 6"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "3"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "3"
           },
@@ -4723,7 +4735,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "3"
+            "count": "13"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -4808,6 +4820,10 @@
             "count": "7"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "4, 5"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "4"
           },
@@ -4821,7 +4837,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "4"
+            "count": "14"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -4906,6 +4922,10 @@
             "count": "8"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "6, 7"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "5"
           },
@@ -4919,7 +4939,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "5"
+            "count": "15"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -5004,6 +5024,10 @@
             "count": "9"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "8, 9"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "6"
           },
@@ -5017,7 +5041,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "6, 7"
+            "count": "16, 17"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -5102,6 +5126,10 @@
             "count": "10"
           },
           {
+            "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
+            "count": "10"
+          },
+          {
             "name": "LIVINOX - Combo 6 thìa inox 304",
             "count": "7, 8"
           },
@@ -5115,7 +5143,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "8, 9"
+            "count": "18, 19"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
@@ -5189,7 +5217,7 @@
           },
           {
             "name": "ROYAL - Khăn tắm cotton",
-            "count": "10"
+            "count": "20"
           },
           {
             "name": "BESTON - Pin kiềm Alkaline",
