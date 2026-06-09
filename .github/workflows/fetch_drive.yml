@@ -43,6 +43,7 @@ jobs:
         run: |
           git config --global user.name "namoinam-bot"
           git config --global user.email "bot@namoinam.com"
+          git pull --rebase --autostash origin main
           git add products.json drive_folder_cache.json
           git diff-index --quiet HEAD || git commit -m "Auto-update products and cache $(date +'%Y-%m-%d')"
           git push origin main
