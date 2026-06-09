@@ -792,9 +792,15 @@ function renderTable() {
 function toggleRowCheck(el) {
   const idx = +el.dataset.idx;
   const name = products[idx].name;
-  if (el.checked) selected.add(name); else selected.delete(name);
-  refreshStats();
-  syncCheckAll();
+  if (el.checked) {
+    selected.add(name);
+    products[idx].giao_hom_nay = products[idx].videos_per_assign;
+  } else {
+    selected.delete(name);
+    products[idx].giao_hom_nay = 0;
+  }
+  renderTable();
+  updateAssignmentAndPreview();
 }
 
 function updateField(el) {
@@ -963,10 +969,18 @@ function toggleAllChecks(el) {
   document.querySelectorAll('.row-check').forEach(cb => {
     if (cb.disabled) return;          // bỏ qua SP đang tạm dừng
     cb.checked = el.checked;
-    const name = products[+cb.dataset.idx].name;
-    if (el.checked) selected.add(name); else selected.delete(name);
+    const idx = +cb.dataset.idx;
+    const name = products[idx].name;
+    if (el.checked) {
+      selected.add(name);
+      products[idx].giao_hom_nay = products[idx].videos_per_assign;
+    } else {
+      selected.delete(name);
+      products[idx].giao_hom_nay = 0;
+    }
   });
-  refreshStats();
+  renderTable();
+  updateAssignmentAndPreview();
 }
 
 function giaEdit() {
@@ -974,9 +988,9 @@ function giaEdit() {
     setStatus('Chưa tick SP nào — tick checkbox trước rồi bấm Giao edit', 'error');
     return;
   }
-  // gửi TẤT CẢ SP đã tích — kể cả SP đang bị ẩn do tìm/lọc. Format: "[Cần edit] [Tên SP]"
+  // gửi TẤT CẢ SP đã tích — kể cả SP đang bị ẩn do tìm/lọc. Format: "[Giao hôm nay] [Tên SP]"
   const text = products.filter(p => selected.has(p.name))
-    .map(p => `${p.videos_per_assign} ${p.name}`).join('\n');
+    .map(p => `${p.giao_hom_nay || p.videos_per_assign} ${p.name}`).join('\n');
   const n = selected.size;
   if (typeof sendPrompt === 'function') {
     sendPrompt(text);                       // gửi thẳng vào khung chat → kích hoạt skill giao edit
