@@ -18,7 +18,7 @@
     },
     "DELI - Hộp đựng thực phẩm": {
       "total": 40,
-      "counter": 40
+      "counter": 60
     },
     "VUA NỆM - Nệm lò xo": {
       "total": 19,
@@ -26,7 +26,7 @@
     },
     "XPANSE - Ghế công thái học": {
       "total": 10,
-      "counter": 35
+      "counter": 50
     },
     "BOXERMAN - Quần sịp nam": {
       "total": 20,
@@ -34,7 +34,7 @@
     },
     "TOSUDO - Móc treo đồ": {
       "total": 17,
-      "counter": 30
+      "counter": 40
     },
     "MIA - Vali kéo du lịch Larita Aly": {
       "total": 14,
@@ -46,7 +46,7 @@
     },
     "DELI - Ổ điện chữ T": {
       "total": 13,
-      "counter": 20
+      "counter": 30
     },
     "MODECO - Lọ đựng gia vị có thìa": {
       "total": 10,
@@ -114,11 +114,11 @@
     },
     "DIGI DOMAIN - Đế sạc không dây 3 in 1": {
       "total": 13,
-      "counter": 20
+      "counter": 30
     },
     "DELI - Dao rọc giấy đa năng": {
       "total": 12,
-      "counter": 20
+      "counter": 30
     },
     "GEBUOANG - Thiết bị quay góc pov": {
       "total": 5,
@@ -126,7 +126,7 @@
     },
     "REDCHEF - Bộ nồi chảo chống dính": {
       "total": 10,
-      "counter": 20
+      "counter": 30
     },
     "AQUA - Máy phun sương tạo ẩm": {
       "total": 10,
@@ -246,11 +246,11 @@
     },
     "AJIDO - Cân điện tử thông minh": {
       "total": 11,
-      "counter": 10
+      "counter": 20
     },
     "EDC VN - Đèn pin led zoom F35": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     }
   },
   "2026-06-04": {
@@ -4615,31 +4615,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "1"
+            "count": "11"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "21, 22, 23, 24, 25"
+            "count": "1, 2, 3, 4, 5"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "11, 12"
+            "count": "8, 9"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "4"
+            "count": "14"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "1, 2, 3"
+            "count": "6, 7, 8"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "11, 12, 1"
+            "count": "9, 10, 11"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "11"
+            "count": "8"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -4693,31 +4693,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "2"
+            "count": "1"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "26, 27, 28"
+            "count": "6, 7, 8"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "13"
+            "count": "10"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "5, 6"
+            "count": "15, 16"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "4, 5"
+            "count": "9, 10"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "2"
+            "count": "12"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "12, 13"
+            "count": "9, 10"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -4771,31 +4771,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "3"
+            "count": "2"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "29, 30, 31"
+            "count": "9, 10, 11"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "1"
+            "count": "11"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "7, 8"
+            "count": "17, 1"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "6, 7"
+            "count": "1, 2"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "3"
+            "count": "1"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "1, 2"
+            "count": "11, 12"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -4849,31 +4849,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "4"
+            "count": "3"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "32, 33, 34"
+            "count": "12, 13, 14"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "2"
+            "count": "12"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "9, 10"
+            "count": "2, 3"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "8, 9"
+            "count": "3, 4"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "4"
+            "count": "2"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "3, 4"
+            "count": "13, 1"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -4927,31 +4927,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "5, 6"
+            "count": "4, 5"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "35, 36, 37"
+            "count": "15, 16, 17"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "3"
+            "count": "13"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "11, 12"
+            "count": "4, 5"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "10, 1"
+            "count": "5, 6"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "5"
+            "count": "3"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "5"
+            "count": "2"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -5005,31 +5005,31 @@
           },
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "7, 8"
+            "count": "6, 7"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "38, 39"
+            "count": "18, 19"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "4, 5"
+            "count": "1, 2"
           },
           {
             "name": "TOSUDO - Móc treo đồ",
-            "count": "13"
+            "count": "6"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "2, 3, 4"
+            "count": "7, 8, 9"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "6"
+            "count": "4"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "6"
+            "count": "3"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
@@ -5071,27 +5071,27 @@
         "voices": [
           {
             "name": "AJIDO - Cân điện tử thông minh",
-            "count": "9, 10"
+            "count": "8, 9"
           },
           {
             "name": "DELI - Hộp đựng thực phẩm",
-            "count": "40"
+            "count": "20"
           },
           {
             "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
-            "count": "6, 7"
+            "count": "3, 4"
           },
           {
             "name": "XPANSE - Ghế công thái học",
-            "count": "5"
+            "count": "10"
           },
           {
             "name": "DELI - Dao rọc giấy đa năng",
-            "count": "7, 8"
+            "count": "5, 6"
           },
           {
             "name": "DELI - Ổ điện chữ T",
-            "count": "7"
+            "count": "4"
           },
           {
             "name": "EDC VN - Đèn pin led zoom F35",
