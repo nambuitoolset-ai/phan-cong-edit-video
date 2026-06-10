@@ -1,738 +1,4 @@
 {
-  "2026-06-03": {
-    "assignments": {
-      "Thư": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 3
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 3
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 3
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 3
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 2
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "1, 2"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "1"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "1"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "1, 2"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "1"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "1"
-          }
-        ]
-      },
-      "Sơn": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 2
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 2
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "4, 5"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "4, 5"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "3, 4"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "4, 5"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "4, 5"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "2"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "2"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "3"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "2"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "2"
-          }
-        ]
-      },
-      "Dung": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 3
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 3
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 3
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 3
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 2
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "5, 6"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "3"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "3"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "4, 5"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "3"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "3"
-          }
-        ]
-      },
-      "Duyên": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 3
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 3
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 3
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 2
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 2
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 2
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "9, 10, 11"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "9, 10"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "7, 8, 9"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "9, 10, 11"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "9, 10"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "4, 5"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "4"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "6"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "4, 5"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "4"
-          }
-        ]
-      },
-      "Hiếu": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 3
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 3
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 3
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 2
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 2
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 2
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "12, 13, 14"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "11, 12"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "10, 11, 1"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "12, 13, 14"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "11, 12"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "6, 7"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "5"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "7"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "6, 7"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "5"
-          }
-        ]
-      },
-      "Thắm": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 3
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 3
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 2
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 3
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 2
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "15, 1"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "13, 14, 15"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "2, 3, 4"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "15, 16"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "13, 14, 15"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "8"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "6, 7"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "8"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "8"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "6, 7"
-          }
-        ]
-      },
-      "Trân": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 3
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 3
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 2
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 3
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 2
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "2, 3"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "5, 6, 7"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "17, 18"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "16, 17, 18"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "9"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "8, 9"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "9"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "9"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "8, 9"
-          }
-        ]
-      },
-      "Tuyên": {
-        "videos": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": 2
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": 2
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": 1
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": 1
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "4, 5"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "4, 5"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "8, 9"
-          },
-          {
-            "name": "AOUB-VN - Thiết bị quay góc POV",
-            "count": "19, 20"
-          },
-          {
-            "name": "DELI - Hộp đựng thực phẩm",
-            "count": "19, 20"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "10"
-          },
-          {
-            "name": "XPANSE - Ghế công thái học",
-            "count": "10"
-          },
-          {
-            "name": "BOXERMAN - Quần sịp nam",
-            "count": "10"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "10"
-          },
-          {
-            "name": "MIA - Vali kéo du lịch Larita Aly",
-            "count": "10"
-          }
-        ]
-      }
-    },
-    "links": [
-      {
-        "full_name": "ULUCKY - Đai chườm ấm bụng",
-        "url": "https://drive.google.com/drive/folders/1BM4G4qNqabTGkapyW61SdfcdXLAVQuvD"
-      },
-      {
-        "full_name": "ETOE - Máy chiếu E3 Pro",
-        "url": "https://drive.google.com/drive/folders/1qjw0O3EPTHLWPotdz0Hu_WjIf2QchCZ3"
-      },
-      {
-        "full_name": "JETZ - Máy hút bụi X9",
-        "url": "https://drive.google.com/drive/folders/1zsnDwsXgw23OeM8G_UX5g76xf4XLipYu"
-      },
-      {
-        "full_name": "AOUB-VN - Thiết bị quay góc POV",
-        "url": "https://drive.google.com/drive/folders/1-MzpEe64gRZVg_jMTabwaYjQPBDt102-"
-      },
-      {
-        "full_name": "DELI - Hộp đựng thực phẩm",
-        "url": "https://drive.google.com/drive/folders/1Bjf-Ak1yEKniuxnQ9Ycg6M5UEFPcf4LR"
-      },
-      {
-        "full_name": "VUA NỆM - Nệm lò xo",
-        "url": "https://drive.google.com/drive/folders/1F-wyVQ735p7P2b6sj1Oyv7abGFK-vzGL"
-      },
-      {
-        "full_name": "XPANSE - Ghế công thái học",
-        "url": "https://drive.google.com/drive/folders/1SrflrVq0RkiYKm6HmEDPIUSOy-_tNFlk"
-      },
-      {
-        "full_name": "BOXERMAN - Quần sịp nam",
-        "url": "https://drive.google.com/drive/folders/1shaRug2EYYKuf7ESawi1E_r0wNLSUOI1"
-      },
-      {
-        "full_name": "TOSUDO - Móc treo đồ",
-        "url": "https://drive.google.com/drive/folders/1NVguQOkZdm0YnwFR5-HYkyuW7nXEnyaO"
-      },
-      {
-        "full_name": "MIA - Vali kéo du lịch Larita Aly",
-        "url": "https://drive.google.com/drive/folders/1Zjui3REILL9_yBNJu3l21XqA8h1ZL3Ye"
-      }
-    ]
-  },
   "!voice_state": {
     "ULUCKY - Đai chườm ấm bụng": {
       "total": 15,
@@ -751,8 +17,8 @@
       "counter": 20
     },
     "DELI - Hộp đựng thực phẩm": {
-      "total": 20,
-      "counter": 20
+      "total": 40,
+      "counter": 40
     },
     "VUA NỆM - Nệm lò xo": {
       "total": 19,
@@ -760,7 +26,7 @@
     },
     "XPANSE - Ghế công thái học": {
       "total": 10,
-      "counter": 20
+      "counter": 35
     },
     "BOXERMAN - Quần sịp nam": {
       "total": 20,
@@ -768,7 +34,7 @@
     },
     "TOSUDO - Móc treo đồ": {
       "total": 17,
-      "counter": 20
+      "counter": 30
     },
     "MIA - Vali kéo du lịch Larita Aly": {
       "total": 14,
@@ -780,7 +46,7 @@
     },
     "DELI - Ổ điện chữ T": {
       "total": 13,
-      "counter": 10
+      "counter": 20
     },
     "MODECO - Lọ đựng gia vị có thìa": {
       "total": 10,
@@ -848,11 +114,11 @@
     },
     "DIGI DOMAIN - Đế sạc không dây 3 in 1": {
       "total": 13,
-      "counter": 10
+      "counter": 20
     },
     "DELI - Dao rọc giấy đa năng": {
       "total": 12,
-      "counter": 10
+      "counter": 20
     },
     "GEBUOANG - Thiết bị quay góc pov": {
       "total": 5,
@@ -860,7 +126,7 @@
     },
     "REDCHEF - Bộ nồi chảo chống dính": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "AQUA - Máy phun sương tạo ẩm": {
       "total": 10,
@@ -977,6 +243,14 @@
     "ULANZI - Gá đỡ điện thoại từ tính MA38": {
       "total": 10,
       "counter": 30
+    },
+    "AJIDO - Cân điện tử thông minh": {
+      "total": 11,
+      "counter": 10
+    },
+    "EDC VN - Đèn pin led zoom F35": {
+      "total": 10,
+      "counter": 10
     }
   },
   "2026-06-04": {
@@ -5290,6 +4564,578 @@
       {
         "full_name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
         "url": "https://drive.google.com/drive/folders/1ON7JYnuQIY18JlhAQ5av8NsEbIh79NTn"
+      }
+    ]
+  },
+  "2026-06-10": {
+    "assignments": {
+      "Thư": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 1
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 5
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 2
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 3
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 3
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "1, 2"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "1"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "21, 22, 23, 24, 25"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "11, 12"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "4"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "11, 12, 1"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "11"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "1, 2"
+          }
+        ]
+      },
+      "Dung": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 1
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 3
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "3, 4"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "2"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "26, 27, 28"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "13"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "5, 6"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "4, 5"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "2"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "12, 13"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "3"
+          }
+        ]
+      },
+      "Duyên": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 1
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 3
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "5, 6"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "3"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "29, 30, 31"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "1"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "7, 8"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "6, 7"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "3"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "1, 2"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "4"
+          }
+        ]
+      },
+      "Hiếu": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 1
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 3
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "7, 8"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "4"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "32, 33, 34"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "2"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "9, 10"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "8, 9"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "4"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "3, 4"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "5"
+          }
+        ]
+      },
+      "Thắm": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 1
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 2
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 3
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "9"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "5, 6"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "35, 36, 37"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "3"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "11, 12"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "10, 1"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "5"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "5"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "6, 7"
+          }
+        ]
+      },
+      "Trân": {
+        "videos": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 1
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 2
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 2
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 2
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 3
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "10"
+          },
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "7, 8"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "38, 39"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "4, 5"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "13"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "2, 3, 4"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "6"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "6"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "8, 9"
+          }
+        ]
+      },
+      "Tuyên": {
+        "videos": [
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": 2
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "AJIDO - Cân điện tử thông minh",
+            "count": "9, 10"
+          },
+          {
+            "name": "DELI - Hộp đựng thực phẩm",
+            "count": "40"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "6, 7"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "5"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "7, 8"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "7"
+          },
+          {
+            "name": "EDC VN - Đèn pin led zoom F35",
+            "count": "10"
+          }
+        ]
+      }
+    },
+    "links": [
+      {
+        "full_name": "REDCHEF - Bộ nồi chảo chống dính",
+        "url": "https://drive.google.com/drive/folders/1MsG8ybRcomtrheDGPYxwwti7l4BUtEuw"
+      },
+      {
+        "full_name": "AJIDO - Cân điện tử thông minh",
+        "url": "https://drive.google.com/drive/folders/1l2zU_Ex4GqNE38DzjeqnzwEGTGz44Za1"
+      },
+      {
+        "full_name": "DELI - Hộp đựng thực phẩm",
+        "url": "https://drive.google.com/drive/folders/1Bjf-Ak1yEKniuxnQ9Ycg6M5UEFPcf4LR"
+      },
+      {
+        "full_name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+        "url": "https://drive.google.com/drive/folders/1aM_XMr8mIMYfHeBBcPJQ7tia4O1DnwnJ"
+      },
+      {
+        "full_name": "TOSUDO - Móc treo đồ",
+        "url": "https://drive.google.com/drive/folders/1NVguQOkZdm0YnwFR5-HYkyuW7nXEnyaO"
+      },
+      {
+        "full_name": "XPANSE - Ghế công thái học",
+        "url": "https://drive.google.com/drive/folders/1SrflrVq0RkiYKm6HmEDPIUSOy-_tNFlk"
+      },
+      {
+        "full_name": "DELI - Dao rọc giấy đa năng",
+        "url": "https://drive.google.com/drive/folders/1-UomE0Uo54OvbMU2ZWRLfQXoXnoQCsE1"
+      },
+      {
+        "full_name": "DELI - Ổ điện chữ T",
+        "url": "https://drive.google.com/drive/folders/1CaJyvQiWIH-J8QRBagxjUG-Tcu3d48Sd"
+      },
+      {
+        "full_name": "EDC VN - Đèn pin led zoom F35",
+        "url": "https://drive.google.com/drive/folders/10wu4smyBgm6n1z5BfICXQHuKCWbda3tJ"
       }
     ]
   }
