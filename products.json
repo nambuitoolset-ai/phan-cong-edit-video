@@ -61,8 +61,8 @@
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 14,
-    "ton_date": "2026-06-09"
+    "ton_video": 21,
+    "ton_date": "2026-06-10"
   },
   {
     "name": "GOKU - Ổ khóa vân tay",
@@ -110,7 +110,9 @@
     "name": "PUZO - Ví da magsafe từ tính",
     "videos_per_assign": 20,
     "so_video_ngay": 1,
-    "status": "paused"
+    "status": "paused",
+    "ton_video": 0,
+    "ton_date": "2026-06-10"
   },
   {
     "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
@@ -132,7 +134,9 @@
     "name": "KINGTECH - Máy massage chân G8",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
-    "status": "paused"
+    "status": "paused",
+    "ton_video": 0,
+    "ton_date": "2026-06-10"
   },
   {
     "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
@@ -145,11 +149,11 @@
   },
   {
     "name": "MODECO - Máy massage cầm tay",
-    "ton_date": "2026-06-06",
+    "ton_date": "2026-06-10",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 22
+    "ton_video": 18
   },
   {
     "name": "AOUB-VN - Thiết bị quay góc POV",
@@ -182,7 +186,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 3
+    "ton_video": 13
   },
   {
     "name": "TIGERNU - Ba lô nam doanh nhân",
@@ -206,7 +210,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 5,
+    "ton_video": 25,
     "ton_date": "2026-06-10"
   },
   {
@@ -256,7 +260,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
-    "ton_video": 2,
+    "ton_video": 15,
     "ton_date": "2026-06-10"
   },
   {
@@ -340,7 +344,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 4,
+    "ton_video": 14,
     "ton_date": "2026-06-10"
   },
   {
@@ -383,7 +387,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 2,
+    "ton_video": 17,
     "ton_date": "2026-06-10"
   },
   {
@@ -399,7 +403,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
-    "ton_video": 3,
+    "ton_video": 13,
     "ton_date": "2026-06-10"
   },
   {
@@ -417,7 +421,7 @@
     "so_video_ngay": 2,
     "status": "active",
     "last_assigned": "2026-06-04",
-    "ton_video": 2,
+    "ton_video": 12,
     "ton_date": "2026-06-10"
   },
   {
@@ -524,7 +528,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 2
+    "ton_video": 12
   },
   {
     "name": "AQUA - Quạt điều khiển giọng nói",

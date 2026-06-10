@@ -68,10 +68,14 @@ NAME_ALIASES = {
     # ONECHI — sửa lỗi chính tả và rút gọn tên file
     "onechi - dây dán velcro quản chống rối": "onechi - dây dán velcro quấn chống rối",
     "dây dán velcro quản chống rối": "onechi - dây dán velcro quấn chống rối",
-    "ajido - cân điện tử thông minh": "ajido - cân điện tử ajido s5 pro",
-    "edc vn - đèn pin led zoom f35": "edc vn - đèn pin led f35 vs f37",
-    "tosudo - móc treo đồ": "tosudo - móc kẹp, treo đồ",
-    "deli - ổ điện chữ t": "deli - ổ cắm điện chữ t",
+    "ajido - cân điện tử ajido s5 pro": "ajido - cân điện tử thông minh",
+    "edc vn - đèn pin led f35 vs f37": "edc vn - đèn pin led zoom f35",
+    "tosudo - móc kẹp, treo đồ": "tosudo - móc treo đồ",
+    "deli - ổ cắm điện chữ t": "deli - ổ điện chữ t",
+    "hapas - quà tặng hapas set \"chân thành\"": "hapas - quà tặng set \"chân thành\"",
+    "luck - bình đựng dầu ăn thủy tinh": "luck - bình đựng dầu ăn đa năng",
+    "royal towel - khăn tắm": "royal - khăn tắm cotton",
+    "thinshop88 - cây đâm lưng ngải cứu": "thinshop88 - cây đấm lưng ngải cứu",
 }
 
 
