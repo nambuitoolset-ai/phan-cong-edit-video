@@ -626,17 +626,13 @@ def _push_products_to_github(products: list, sha: str) -> bool:
         return False
 
 
-def update_inventory(delivered: dict) -> bool:
+def update_inventory(delivered: dict, target_date: datetime) -> bool:
     """
     Cập nhật tồn kho trong products.json (GitHub-only, không dùng file local):
-      - CỘNG số video edit mới tải về cho mỗi SP.
-      - TRỪ phần đã đăng theo nhịp (so_video_ngay) tính từ ton_date gần nhất.
-      - Đặt ton_date = hôm nay.
+      - TRỪ phần đã đăng theo nhịp (so_video_ngay) đối với các sản phẩm active, tính từ ton_date gần nhất đến target_date.
+      - CỘNG số video edit mới tải về cho mỗi SP (nếu có).
+      - Đặt ton_date = target_date.
     """
-    if not delivered:
-        print("\n📊 Không có video mới khớp tên SP — tồn kho giữ nguyên")
-        return True
-
     products, sha = _github_get_products()
     if products is None:
         print("❌ Không lấy được products.json từ GitHub — bỏ qua cập nhật tồn kho")
@@ -652,7 +648,9 @@ def update_inventory(delivered: dict) -> bool:
     norm_map = {_clean_quotes(_norm_name(p.get("name", ""))): p for p in products}
     # map bỏ hết dấu cách và dấu ngoặc
     squash_map = {_clean_quotes(_norm_name(p.get("name", "")).replace(" ", "")): p for p in products}
-    today = datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
+    
+    # Lấy ngày đang được xử lý làm mốc
+    today = target_date.replace(hour=0, minute=0, second=0, microsecond=0)
     today_str = today.strftime("%Y-%m-%d")
 
     def _match(raw):
@@ -673,61 +671,82 @@ def update_inventory(delivered: dict) -> bool:
                 return cand
         return None
 
-    updated, unmatched = [], []
+    unmatched = []
+    per_product = {}
+    
     # 1) Gom tổng số video theo từng SP (gộp các biến thể tên file về cùng 1 SP → 1 dòng)
-    per_product = {}  # id(product) -> [product, tổng_count]
-    for raw_name, count in delivered.items():
-        p = _match(raw_name)
-        if p is None:
-            unmatched.append((raw_name, count))
-            continue
-        rec = per_product.setdefault(id(p), [p, 0])
-        rec[1] += count
+    if delivered:
+        for raw_name, count in delivered.items():
+            p = _match(raw_name)
+            if p is None:
+                unmatched.append((raw_name, count))
+                continue
+            rec = per_product.setdefault(id(p), [p, 0])
+            rec[1] += count
 
-    # 2) Nếu CÒN file không khớp tên SP (kể cả sau alias/bỏ dấu cách) → DỪNG.
-    #    Không cập nhật gì, báo Nam (popup + log) để sửa tên trên Drive rồi chạy lại.
-    if unmatched:
-        print("\n🚫 CÓ FILE KHÔNG KHỚP TÊN SP — DỪNG, CHƯA CẬP NHẬT TỒN KHO:")
-        for name, c in unmatched:
-            print(f"      → '{name}' ({c} video)")
-        print("\n👉 Sửa tên file trên Drive cho đúng tên SP rồi chạy lại.")
-        print("   Tồn kho chưa được cập nhật.")
-        _notify("⚠️ Có file sai tên SP — tồn kho chưa cập nhật",
-                f"{len(unmatched)} file chưa khớp. Sửa tên trên Drive rồi chạy lại. Xem log tu_chay_6h.log")
-        RUN_REPORT["unmatched_files"].extend(unmatched)
-        RUN_REPORT["success"] = False
-        return False
+        # 2) Nếu CÒN file không khớp tên SP (kể cả sau alias/bỏ dấu cách) → DỪNG.
+        #    Không cập nhật gì, báo Nam (popup + log) để sửa tên trên Drive rồi chạy lại.
+        if unmatched:
+            print("\n🚫 CÓ FILE KHÔNG KHỚP TÊN SP — DỪNG, CHƯA CẬP NHẬT TỒN KHO:")
+            for name, c in unmatched:
+                print(f"      → '{name}' ({c} video)")
+            print("\n👉 Sửa tên file trên Drive cho đúng tên SP rồi chạy lại.")
+            print("   Tồn kho chưa được cập nhật.")
+            _notify("⚠️ Có file sai tên SP — tồn kho chưa cập nhật",
+                    f"{len(unmatched)} file chưa khớp. Sửa tên trên Drive rồi chạy lại. Xem log tu_chay_6h.log")
+            RUN_REPORT["unmatched_files"].extend(unmatched)
+            RUN_REPORT["success"] = False
+            return False
 
-    # 3) Áp dụng MỘT lần cho mỗi SP: trừ phần đã đăng kể từ ton_date, rồi cộng tổng
-    for p, total in per_product.values():
-        rate = p.get("so_video_ngay", 1) or 1
+    # 3) Áp dụng cho TẤT CẢ các sản phẩm trong products.json: trừ đăng cũ, cộng nộp mới
+    updated = []
+    for p in products:
+        # Trừ phần đã đăng theo nhịp của các SP active
+        rate = p.get("so_video_ngay", 1) if p.get("status", "active") == "active" else 0
+        if rate is None:
+            rate = 1
         ton = p.get("ton_video")
+        
+        days = 0
+        if p.get("ton_date"):
+            try:
+                last = datetime.strptime(p["ton_date"], "%Y-%m-%d")
+                days = max(0, (today - last).days)
+            except Exception:
+                days = 0
+                
         if ton is None:
             cur = 0
         else:
-            days = 0
-            if p.get("ton_date"):
-                try:
-                    last = datetime.strptime(p["ton_date"], "%Y-%m-%d")
-                    days = max(0, (today - last).days)
-                except Exception:
-                    days = 0
             cur = max(0, ton - rate * days)   # trừ phần đã đăng kể từ ton_date
-        p["ton_video"] = cur + total
+            
+        # Cộng video mới (nếu có)
+        added = 0
+        if id(p) in per_product:
+            added = per_product[id(p)][1]
+            
+        p["ton_video"] = cur + added
         p["ton_date"] = today_str
-        updated.append((p["name"], total, p["ton_video"]))
+        
+        # Chỉ ghi log những sản phẩm có thay đổi (có video mới hoặc có trôi qua ngày đăng)
+        if added > 0 or (days > 0 and rate > 0):
+            updated.append((p["name"], rate * days, added, p["ton_video"], days, rate))
         
         # Ghi nhận vào RUN_REPORT
-        prod_name = p["name"]
-        if prod_name in RUN_REPORT["updated_products"]:
-            RUN_REPORT["updated_products"][prod_name]["added"] += total
-            RUN_REPORT["updated_products"][prod_name]["total"] = p["ton_video"]
-        else:
-            RUN_REPORT["updated_products"][prod_name] = {"added": total, "total": p["ton_video"]}
+        if added > 0:
+            prod_name = p["name"]
+            if prod_name in RUN_REPORT["updated_products"]:
+                RUN_REPORT["updated_products"][prod_name]["added"] += added
+                RUN_REPORT["updated_products"][prod_name]["total"] = p["ton_video"]
+            else:
+                RUN_REPORT["updated_products"][prod_name] = {"added": added, "total": p["ton_video"]}
 
     print("\n📊 Cập nhật tồn kho:")
-    for name, added, total in updated:
-        print(f"   +{added} → {name}: tồn {total}")
+    for name, minus_registered, added, total, days, rate in updated:
+        change_str = f"đã đăng -{minus_registered}" if (days > 0 and rate > 0) else ""
+        add_str = f"nộp mới +{added}" if added > 0 else ""
+        parts = [prt for prt in [change_str, add_str] if prt]
+        print(f"   {name}: tồn {total} ({', '.join(parts)})")
 
     # Push lên GitHub (nguồn duy nhất)
     return _push_products_to_github(products, sha)
@@ -833,7 +852,7 @@ def process_one_date(service, target_date: datetime, only_download: bool = False
         # Ghi nhận vào RUN_REPORT downloaded dates
         RUN_REPORT["downloaded_dates"][date_str] = len(video_list)
         
-        return update_inventory(delivered)
+        return update_inventory(delivered, target_date)
     else:
         print(f"\n⬇️  Download video: {vi_name}")
         video_dir = download_videos(target_date, target_folder_id)
@@ -842,7 +861,7 @@ def process_one_date(service, target_date: datetime, only_download: bool = False
             return False
 
         delivered = count_delivered_per_product(video_dir)
-        return update_inventory(delivered)
+        return update_inventory(delivered, target_date)
 
 
 def main():
