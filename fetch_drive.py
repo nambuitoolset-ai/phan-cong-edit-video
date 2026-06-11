@@ -584,7 +584,6 @@ def count_delivered_per_product(video_dir: Path) -> dict:
     return counts
 
 
-
 def _github_get_products() -> tuple[list, str] | tuple[None, None]:
     """Fetch products.json từ GitHub. Trả về (products, sha) hoặc (None, None) nếu lỗi."""
     import urllib.request, base64 as _b64
