@@ -2,7 +2,7 @@
   "!voice_state": {
     "ULUCKY - Đai chườm ấm bụng": {
       "total": 15,
-      "counter": 35
+      "counter": 50
     },
     "ETOE - Máy chiếu E3 Pro": {
       "total": 15,
@@ -66,7 +66,7 @@
     },
     "UPGEN - Bàn nâng hạ di động": {
       "total": 12,
-      "counter": 20
+      "counter": 35
     },
     "JISULIFE - Quạt cầm tay Ultra 2": {
       "total": 6,
@@ -82,15 +82,15 @@
     },
     "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja": {
       "total": 10,
-      "counter": 20
+      "counter": 35
     },
     "PERYSMITH - Máy hút bụi cầm tay XS1Pro": {
       "total": 10,
-      "counter": 20
+      "counter": 35
     },
     "JISULIFE - Quạt đeo cổ Life 5": {
       "total": 10,
-      "counter": 20
+      "counter": 35
     },
     "REDCHEF - Bộ dao kéo 6 món": {
       "total": 10,
@@ -122,7 +122,7 @@
     },
     "GEBUOANG - Thiết bị quay góc pov": {
       "total": 5,
-      "counter": 20
+      "counter": 40
     },
     "REDCHEF - Bộ nồi chảo chống dính": {
       "total": 10,
@@ -130,7 +130,7 @@
     },
     "AQUA - Máy phun sương tạo ẩm": {
       "total": 10,
-      "counter": 15
+      "counter": 30
     },
     "SELLION - Nước hoa nữ": {
       "total": 10,
@@ -251,741 +251,11 @@
     "EDC VN - Đèn pin led zoom F35": {
       "total": 10,
       "counter": 20
-    }
-  },
-  "2026-06-04": {
-    "assignments": {
-      "Thư": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 2
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 3
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 2
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 3
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 3
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "1, 2"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "1"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "1, 2"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "1"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "1, 2"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "1, 2"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "1, 2, 3"
-          }
-        ]
-      },
-      "Sơn": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 2
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 2
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 2
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "3"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "2"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "3"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "2"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "3, 4"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "4, 5"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "3, 4"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "4, 5"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "4, 5"
-          }
-        ]
-      },
-      "Dung": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 2
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 3
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 2
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 3
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 3
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "4, 5"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "3"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "4, 5"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "3"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "5, 6"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "5, 6"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "6, 7, 8"
-          }
-        ]
-      },
-      "Duyên": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 2
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 2
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 3
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 2
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 3
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "6"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "4, 5"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "6"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2, 1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "4"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "7, 1, 2"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "9, 10"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "9, 10"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "9, 10, 1"
-          }
-        ]
-      },
-      "Hiếu": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 2
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 2
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 3
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 2
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 3
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "7"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "6, 7"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "7"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2, 1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "5"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "3, 4, 5"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "11, 12"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "4, 5, 6"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "1, 2"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "2, 3, 4"
-          }
-        ]
-      },
-      "Thắm": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 3
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 3
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 3
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "8"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "8"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "8"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "6, 7"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "6, 7, 1"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "3, 4, 5"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "5, 6"
-          }
-        ]
-      },
-      "Trân": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 3
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 3
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 3
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "9"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "9"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "9"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "8, 9"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "2, 3, 4"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "4, 5, 6"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "4, 5, 6"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "7, 8"
-          }
-        ]
-      },
-      "Tuyên": {
-        "videos": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": 1
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": 1
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": 2
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": 2
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": 2
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-            "count": "10"
-          },
-          {
-            "name": "DELI - Ổ điện chữ T",
-            "count": "10"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "10"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "10"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "5, 6"
-          },
-          {
-            "name": "UPGEN - Bàn nâng hạ di động",
-            "count": "7, 8"
-          },
-          {
-            "name": "JISULIFE - Quạt cầm tay Ultra 2",
-            "count": "1, 2"
-          },
-          {
-            "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "9, 10"
-          },
-          {
-            "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "9, 10"
-          }
-        ]
-      }
     },
-    "links": [
-      {
-        "full_name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
-        "url": "https://drive.google.com/drive/folders/1uPsNZ4-sytv4hclj2GMeQm2M50icgvkp"
-      },
-      {
-        "full_name": "DELI - Ổ điện chữ T",
-        "url": "https://drive.google.com/drive/folders/1CaJyvQiWIH-J8QRBagxjUG-Tcu3d48Sd"
-      },
-      {
-        "full_name": "MODECO - Lọ đựng gia vị có thìa",
-        "url": "https://drive.google.com/drive/folders/1UA5OaNtvphOz-g13j-9fO7RhfFM-GWiy"
-      },
-      {
-        "full_name": "PARROTI - Cây chà sàn",
-        "url": "https://drive.google.com/drive/folders/14848AFUWVsIu5uJ2d4AYvQESLgKDVyWr"
-      },
-      {
-        "full_name": "TORRAS - Ốp lưng Q3Air",
-        "url": "https://drive.google.com/drive/folders/1Y6hBv7-9ft_aLTeEMd8J_oOP-iLxT1mW"
-      },
-      {
-        "full_name": "TJEAN - Máy hút bụi giường nệm",
-        "url": "https://drive.google.com/drive/folders/1kwlH7LrUwnb9ILGyaPf8NFUvVHaXF8I1"
-      },
-      {
-        "full_name": "UPGEN - Bàn nâng hạ di động",
-        "url": "https://drive.google.com/drive/folders/19I2_wKqrXnfyBW6evvcCC9J2Mk_T3Xc8"
-      },
-      {
-        "full_name": "JISULIFE - Quạt cầm tay Ultra 2",
-        "url": "https://drive.google.com/drive/folders/149DfuHwtIcTkFTbT1N3jVBYvNLFmM83S"
-      },
-      {
-        "full_name": "ARZOPA - Màn hình di động Z1FC",
-        "url": "https://drive.google.com/drive/folders/1yI_Qt7dLUGQmFCWj47LylW9RiA_zKrWq"
-      },
-      {
-        "full_name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-        "url": "https://drive.google.com/drive/folders/1qI71XopJUWDJUJqxSdqJaG7tapeUtk6F"
-      }
-    ]
+    "MODECO - Máy massage cầm tay": {
+      "total": 10,
+      "counter": 10
+    }
   },
   "2026-06-05": {
     "assignments": {
@@ -5136,6 +4406,596 @@
       {
         "full_name": "EDC VN - Đèn pin led zoom F35",
         "url": "https://drive.google.com/drive/folders/10wu4smyBgm6n1z5BfICXQHuKCWbda3tJ"
+      }
+    ]
+  },
+  "2026-06-11": {
+    "assignments": {
+      "Thư": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 3
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 2
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 3
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 4
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "1, 2"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "1"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "6, 7"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "1, 2, 3, 4"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "9, 10"
+          }
+        ]
+      },
+      "Dung": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 2
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 1
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 2
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 1
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "4, 5"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "4, 5"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "3"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "9, 10"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "2, 3"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "8"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "5, 1, 2"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "11, 12"
+          }
+        ]
+      },
+      "Duyên": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 2
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 1
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 2
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 1
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "6, 7"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "6, 7"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "4"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "1, 2"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "4, 5"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "9"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "3, 4, 5"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "1, 2"
+          }
+        ]
+      },
+      "Hiếu": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 2
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 1
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 3
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 1
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 3
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "8, 9"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "8"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "5, 6, 7"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "3"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "6, 7"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "10"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "3, 4"
+          }
+        ]
+      },
+      "Thắm": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 2
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 1
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 3
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 3
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "10, 1"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "9"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "8, 9, 10"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "4"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "8"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "11, 12, 13"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "4, 5"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "5, 6"
+          }
+        ]
+      },
+      "Trân": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 2
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 1
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 3
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 1
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 3
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "2, 3"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "10"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "5"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "9"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "14, 15, 1"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "1, 2"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "7, 8"
+          }
+        ]
+      },
+      "Sơn": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 1
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 3
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 1
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 3
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": 1
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 2
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "4"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "1, 2, 3"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "4"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "6, 7, 8"
+          },
+          {
+            "name": "MODECO - Máy massage cầm tay",
+            "count": "10"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "2, 3"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "3, 4"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "9, 10"
+          }
+        ]
+      },
+      "Tuyên": {
+        "videos": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": 1
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": 2
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": 1
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": 2
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": 2
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": 1
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": 1
+          }
+        ],
+        "voices": [
+          {
+            "name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+            "count": "5"
+          },
+          {
+            "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+            "count": "4, 5"
+          },
+          {
+            "name": "JISULIFE - Quạt đeo cổ Life 5",
+            "count": "5"
+          },
+          {
+            "name": "AQUA - Máy phun sương tạo ẩm",
+            "count": "9, 10"
+          },
+          {
+            "name": "ULUCKY - Đai chườm ấm bụng",
+            "count": "4, 5"
+          },
+          {
+            "name": "GEBUOANG - Thiết bị quay góc pov",
+            "count": "5"
+          },
+          {
+            "name": "UPGEN - Bàn nâng hạ di động",
+            "count": "11"
+          }
+        ]
+      }
+    },
+    "links": [
+      {
+        "full_name": "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja",
+        "url": "https://drive.google.com/drive/folders/11EkJ8JvX1UkAas7isFrrM9OIRGHZHWcj"
+      },
+      {
+        "full_name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
+        "url": "https://drive.google.com/drive/folders/18L8T9RTJefIx9wC0cbs4tuXT6i6RVxN1"
+      },
+      {
+        "full_name": "JISULIFE - Quạt đeo cổ Life 5",
+        "url": "https://drive.google.com/drive/folders/1_vPUvtnk56rR0Ir3s9jlnpXr4V1WEj0u"
+      },
+      {
+        "full_name": "AQUA - Máy phun sương tạo ẩm",
+        "url": "https://drive.google.com/drive/folders/1UPD6-SdL9ru3Epj8KuIKdG6JVFhhDktD"
+      },
+      {
+        "full_name": "MODECO - Máy massage cầm tay",
+        "url": "https://drive.google.com/drive/folders/1A-OOzgXifKaqC08JRQcRjY6RhfF9JfZ7"
+      },
+      {
+        "full_name": "ULUCKY - Đai chườm ấm bụng",
+        "url": "https://drive.google.com/drive/folders/1BM4G4qNqabTGkapyW61SdfcdXLAVQuvD"
+      },
+      {
+        "full_name": "GEBUOANG - Thiết bị quay góc pov",
+        "url": "https://drive.google.com/drive/folders/1BsGQpQ93UPohmBoA2TvD--fSsnffP5Jb"
+      },
+      {
+        "full_name": "UPGEN - Bàn nâng hạ di động",
+        "url": "https://drive.google.com/drive/folders/19I2_wKqrXnfyBW6evvcCC9J2Mk_T3Xc8"
       }
     ]
   }
