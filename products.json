@@ -5,7 +5,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "PERYSMITH - Máy hút bụi cầm tay XS1Pro",
@@ -13,7 +13,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 2,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "JISULIFE - Quạt đeo cổ Life 5",
@@ -22,7 +22,7 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 4,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "TORRAS - Ốp lưng trong suốt",
@@ -30,7 +30,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "TORRAS - Kính cường lực",
@@ -38,7 +38,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 9,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "MENCANON - Rèm che nắng ô tô",
@@ -46,15 +46,15 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 8,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "REDCHEF - Bộ dao kéo 6 món",
     "videos_per_assign": 10,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 8,
-    "ton_date": "2026-06-11"
+    "ton_video": 18,
+    "ton_date": "2026-06-09"
   },
   {
     "name": "REDCHEF - Bộ nồi chảo chống dính",
@@ -62,7 +62,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 41,
-    "ton_date": "2026-06-10"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "GOKU - Ổ khóa vân tay",
@@ -70,7 +70,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "ONECHI - Dây dán velcro quấn chống rối",
@@ -78,7 +78,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 9,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "MODECO - Lọ đựng gia vị có thìa",
@@ -87,11 +87,11 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 4,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "MIA - Vali kéo du lịch Larita Aly",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -104,7 +104,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 5,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "PUZO - Ví da magsafe từ tính",
@@ -112,11 +112,11 @@
     "so_video_ngay": 1,
     "status": "paused",
     "ton_video": 0,
-    "ton_date": "2026-06-10"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -124,7 +124,7 @@
   },
   {
     "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -136,7 +136,7 @@
     "so_video_ngay": 1,
     "status": "paused",
     "ton_video": 0,
-    "ton_date": "2026-06-10"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
@@ -145,11 +145,11 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 6,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "MODECO - Máy massage cầm tay",
-    "ton_date": "2026-06-10",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -162,11 +162,11 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 17,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -174,7 +174,7 @@
   },
   {
     "name": "DOMINIC - Máy tỉa lông mũi",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -182,7 +182,7 @@
   },
   {
     "name": "AJIDO - Cân điện tử thông minh",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -194,7 +194,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 4,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "UGREEN - Chuột không dây",
@@ -202,7 +202,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "ton_video": 8,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DELI - Hộp đựng thực phẩm",
@@ -211,7 +211,7 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 25,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "JISULIFE - Quạt cầm tay Ultra 2",
@@ -220,7 +220,7 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 15,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "BOXERMAN - Quần sịp nam",
@@ -228,11 +228,11 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 6,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -240,11 +240,11 @@
   },
   {
     "name": "HAPAS - Quà tặng Set \"Chân Thành\"",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 20
   },
   {
     "name": "VUA NỆM - Nệm lò xo",
@@ -253,7 +253,7 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
@@ -261,7 +261,7 @@
     "so_video_ngay": 2,
     "status": "active",
     "ton_video": 12,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "SELLION - Nước hoa nữ",
@@ -269,27 +269,27 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "LIVINOX - Combo 6 thìa inox 304",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 20
   },
   {
     "name": "DELI - Bộ tuốc nơ vít đa năng",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 9
+    "ton_video": 19
   },
   {
     "name": "ENADE VN - Khẩu trang chống nắng full face",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -302,7 +302,7 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 5,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "ETOE - Máy chiếu E3 Pro",
@@ -311,7 +311,7 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 5,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "JETZ - Máy hút bụi X9",
@@ -320,11 +320,11 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 5,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "GEBUOANG - Thiết bị quay góc pov",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
@@ -336,7 +336,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 8,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "TOSUDO - Móc treo đồ",
@@ -345,15 +345,15 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 14,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "LUCK - Bình đựng dầu ăn đa năng",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 9
+    "ton_video": 19
   },
   {
     "name": "TJEAN - Máy hút bụi giường nệm",
@@ -362,7 +362,7 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 12,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "UPGEN - Bàn nâng hạ di động",
@@ -371,11 +371,11 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 0,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DEERMA - Vòi sen tăng áp",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
@@ -388,15 +388,15 @@
     "status": "active",
     "last_assigned": "2026-06-03",
     "ton_video": 17,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "ROYAL - Khăn tắm cotton",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10,
-    "ton_date": "2026-06-11"
+    "ton_video": 20,
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DELI - Dao rọc giấy đa năng",
@@ -404,7 +404,7 @@
     "so_video_ngay": 2,
     "status": "active",
     "ton_video": 13,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "TORRAS - Ốp lưng Q3Air",
@@ -413,7 +413,7 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DELI - Ổ điện chữ T",
@@ -422,15 +422,15 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 12,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "BESTON - Pin kiềm Alkaline",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10,
-    "ton_date": "2026-06-11"
+    "ton_video": 20,
+    "ton_date": "2026-06-09"
   },
   {
     "name": "BRUSHIE - Bàn chải điện",
@@ -438,15 +438,15 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 9,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "PHOTOOLEX - Bộ đèn pin chụp ảnh",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10,
-    "ton_date": "2026-06-11"
+    "ton_video": 20,
+    "ton_date": "2026-06-09"
   },
   {
     "name": "ARZOPA - Màn hình di động Z1FC",
@@ -455,11 +455,11 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "DEERMA - Máy xay gia vị",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
@@ -467,7 +467,7 @@
   },
   {
     "name": "FORLOVE - Lọ tỏa hương",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -479,11 +479,11 @@
     "so_video_ngay": 1,
     "status": "active",
     "ton_video": 17,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "PARROTI - Bộ cọ toilet",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
@@ -491,27 +491,27 @@
   },
   {
     "name": "THINSHOP88 - Túi ngâm chân gấp gọn",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 20
   },
   {
     "name": "THINSHOP88 - Cây đấm lưng ngải cứu",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 11,
-    "ton_date": "2026-06-11"
+    "ton_video": 21,
+    "ton_date": "2026-06-09"
   },
   {
     "name": "SEANUO STORE VN - Màn hình phản chiếu từ tính",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 11
+    "ton_video": 21
   },
   {
     "name": "PARROTI - Cây chà sàn",
@@ -520,11 +520,11 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "EDC VN - Đèn pin led zoom F35",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
@@ -536,15 +536,15 @@
     "so_video_ngay": 1,
     "status": "het_hang",
     "ton_video": 7,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   },
   {
     "name": "ULANZI - Gá đỡ điện thoại từ tính MA38",
-    "ton_date": "2026-06-11",
+    "ton_date": "2026-06-09",
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 10
+    "ton_video": 20
   },
   {
     "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
@@ -553,6 +553,6 @@
     "status": "active",
     "last_assigned": "2026-06-04",
     "ton_video": 6,
-    "ton_date": "2026-06-11"
+    "ton_date": "2026-06-09"
   }
 ]
