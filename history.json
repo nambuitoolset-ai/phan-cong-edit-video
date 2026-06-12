@@ -6,11 +6,11 @@
     },
     "ETOE - Máy chiếu E3 Pro": {
       "total": 15,
-      "counter": 65
+      "counter": 80
     },
     "JETZ - Máy hút bụi X9": {
       "total": 11,
-      "counter": 65
+      "counter": 80
     },
     "AOUB-VN - Thiết bị quay góc POV": {
       "total": 21,
@@ -54,11 +54,11 @@
     },
     "PARROTI - Cây chà sàn": {
       "total": 2,
-      "counter": 40
+      "counter": 50
     },
     "TORRAS - Ốp lưng Q3Air": {
       "total": 21,
-      "counter": 40
+      "counter": 50
     },
     "TJEAN - Máy hút bụi giường nệm": {
       "total": 7,
@@ -74,11 +74,11 @@
     },
     "ARZOPA - Màn hình di động Z1FC": {
       "total": 10,
-      "counter": 50
+      "counter": 65
     },
     "MIXUAN - Găng Tay Cao Su Bảo Hộ": {
       "total": 10,
-      "counter": 50
+      "counter": 65
     },
     "TIEU MAN THAU STORE - Khẩu trang chống nắng ninja": {
       "total": 10,
@@ -94,7 +94,7 @@
     },
     "REDCHEF - Bộ dao kéo 6 món": {
       "total": 10,
-      "counter": 70
+      "counter": 80
     },
     "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)": {
       "total": 25,
@@ -174,7 +174,7 @@
     },
     "TORRAS - Ốp lưng trong suốt": {
       "total": 18,
-      "counter": 45
+      "counter": 60
     },
     "ONECHI - Dây dán velcro quấn chống rối": {
       "total": 10,
@@ -258,7 +258,7 @@
     },
     "ETOE - Máy chiếu Starfish 2": {
       "total": 32,
-      "counter": 30
+      "counter": 45
     }
   },
   "2026-06-06": {
@@ -4277,7 +4277,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "13, 14, 15"
+            "count": "10, 11, 12"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4289,15 +4289,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "7, 8, 9"
+            "count": "11, 1, 2"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "10"
+            "count": "20"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "6, 7, 8"
+            "count": "1, 2, 3"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4305,11 +4305,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "6, 7"
+            "count": "1, 2"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "16, 17"
+            "count": "30, 31"
           }
         ]
       },
@@ -4355,7 +4355,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "16, 17"
+            "count": "13, 14"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4367,15 +4367,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "10, 11"
+            "count": "3, 4"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "11"
+            "count": "21"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "9, 10"
+            "count": "4, 5"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4383,11 +4383,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "8, 9"
+            "count": "3, 4"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "18, 19"
+            "count": "32, 22"
           }
         ]
       },
@@ -4433,7 +4433,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "18, 1"
+            "count": "15, 16"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4445,15 +4445,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "1, 2"
+            "count": "5, 6"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "12"
+            "count": "1"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "1, 2"
+            "count": "6, 7"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4461,11 +4461,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "10, 1"
+            "count": "5, 6"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "20, 21"
+            "count": "23, 24"
           }
         ]
       },
@@ -4511,7 +4511,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "2, 3"
+            "count": "17, 18"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4523,15 +4523,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "3, 4"
+            "count": "7, 8"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "13"
+            "count": "2"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "3, 4"
+            "count": "8, 9"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4539,11 +4539,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "2, 3"
+            "count": "7, 8"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "22, 23"
+            "count": "25, 26"
           }
         ]
       },
@@ -4589,7 +4589,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "4, 5"
+            "count": "1, 2"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4601,15 +4601,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "5, 6"
+            "count": "9, 10"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "14"
+            "count": "3"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "5, 6"
+            "count": "10, 1"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4617,11 +4617,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "4, 5"
+            "count": "9, 10"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "24, 25"
+            "count": "27, 28"
           }
         ]
       },
@@ -4667,7 +4667,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "6, 7"
+            "count": "3, 4"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4679,15 +4679,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "7"
+            "count": "11"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "15, 16"
+            "count": "4, 5"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "7, 8"
+            "count": "2, 3"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4695,11 +4695,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "6, 7"
+            "count": "1, 2"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "26, 27"
+            "count": "29, 30"
           }
         ]
       },
@@ -4745,7 +4745,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "8"
+            "count": "5"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4757,15 +4757,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "8"
+            "count": "1"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "17, 18"
+            "count": "6, 7"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "9"
+            "count": "4"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4773,11 +4773,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "8, 9"
+            "count": "3, 4"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "28, 29"
+            "count": "31, 32"
           }
         ]
       },
@@ -4823,7 +4823,7 @@
         "voices": [
           {
             "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "9"
+            "count": "6"
           },
           {
             "name": "REDCHEF - Bộ dao kéo 6 món",
@@ -4835,15 +4835,15 @@
           },
           {
             "name": "JETZ - Máy hút bụi X9",
-            "count": "9, 10"
+            "count": "2, 3"
           },
           {
             "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "19"
+            "count": "8"
           },
           {
             "name": "ARZOPA - Màn hình di động Z1FC",
-            "count": "10"
+            "count": "5"
           },
           {
             "name": "PARROTI - Cây chà sàn",
@@ -4851,11 +4851,11 @@
           },
           {
             "name": "MIXUAN - Găng Tay Cao Su Bảo Hộ",
-            "count": "10"
+            "count": "5"
           },
           {
             "name": "ETOE - Máy chiếu Starfish 2",
-            "count": "30"
+            "count": "22"
           }
         ]
       }
