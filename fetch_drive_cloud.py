@@ -146,6 +146,7 @@ def get_db_connection():
             if "?" in database:
                 database = database.split("?")[0]
             
+            print(f"   🔌 Kết nối database: host={host}, port={port}, database={database}, user={user}")
             return pg8000.dbapi.connect(
                 user=user,
                 password=password,
