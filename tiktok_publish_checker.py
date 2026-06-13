@@ -3,9 +3,17 @@
 
 import os
 import sys
+import time
+
+# Thiết lập múi giờ Việt Nam (UTC+7) cho tiến trình chạy
+os.environ['TZ'] = 'Asia/Ho_Chi_Minh'
+try:
+    time.tzset()
+except AttributeError:
+    pass
+
 import json
 import re
-import time
 import urllib.request
 from datetime import datetime, timedelta
 from pathlib import Path

@@ -19,6 +19,16 @@ Cách dùng:
 """
 
 import sys
+import os
+import time
+
+# Thiết lập múi giờ Việt Nam (UTC+7) cho tiến trình chạy
+os.environ['TZ'] = 'Asia/Ho_Chi_Minh'
+try:
+    time.tzset()
+except AttributeError:
+    pass
+
 import json
 import shutil
 import subprocess
