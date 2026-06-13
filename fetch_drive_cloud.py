@@ -378,13 +378,10 @@ def get_drive_service():
     """Khởi tạo Google Drive API client (Ưu tiên Service Account, fallback OAuth2)"""
     try:
         from google.oauth2 import service_account
-        from google.oauth2.credentials import Credentials
-        from google_auth_oauthlib.flow import InstalledAppFlow
-        from google.auth.transport.requests import Request
         from googleapiclient.discovery import build
     except ImportError:
         print("❌ Thiếu thư viện Google API. Chạy:")
-        print("   pip3 install google-api-python-client google-auth-oauthlib --break-system-packages")
+        print("   pip3 install google-api-python-client google-auth --break-system-packages")
         sys.exit(1)
 
     SCOPES = ["https://www.googleapis.com/auth/drive"]
@@ -411,6 +408,15 @@ def get_drive_service():
             print(f"   ⚠️ Thử kết nối Service Account từ file thất bại: {e}")
 
     # 3. Fallback: OAuth2 (Đăng nhập bằng trình duyệt cá nhân)
+    try:
+        from google.oauth2.credentials import Credentials
+        from google_auth_oauthlib.flow import InstalledAppFlow
+        from google.auth.transport.requests import Request
+    except ImportError:
+        print("❌ Thiếu thư viện Google OAuth2. Chạy:")
+        print("   pip3 install google-auth-oauthlib --break-system-packages")
+        sys.exit(1)
+
     token_path = SCRIPT_DIR / "token.json"
     creds_path = SCRIPT_DIR / "credentials.json"
 
