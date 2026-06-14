@@ -19,9 +19,9 @@
 - Kết quả: Nhận được nhiều lời khen về định vị có tâm và trách nhiệm. Điểm giọng văn AI: 9/10.
 
 ## Ngày 9 (13/06)
-- Bài 1: [Link] – Fanpage – Chủ đề: Gom mua chung đồ decor để có giá sỉ tận gốc từ hãng
-- Bài 2: [Link] – Zalo cá nhân – Chủ đề: Rủ bạn bè mua chung mấy món đồ bếp thông minh từ hãng
-- Bài 3: [Link] – Facebook cá nhân – Chủ đề: Suất mua chung giá hời từ hãng bảo hành chính hãng
+- Bài 1: [Link bài đăng](https://www.facebook.com/share/p/1YGfESj3Kb/) – Fanpage – Chủ đề: Gom mua chung đồ decor để có giá sỉ tận gốc từ hãng
+- Bài 2: [Ảnh bằng chứng (Drive)](https://drive.google.com/drive/folders/1Vktb0G3ed5XG9hJ3dh8m6VjYCIG9D05F) – Zalo cá nhân – Chủ đề: Rủ bạn bè mua chung mấy món đồ bếp thông minh từ hãng
+- Bài 3: [Link bài đăng](https://www.facebook.com/share/p/1YGfESj3Kb/) – Facebook cá nhân – Chủ đề: Suất mua chung giá hời từ hãng bảo hành chính hãng
 - Kết quả: Đang thu thập thông tin khảo sát đơn gom chung. Điểm giọng văn AI: 9/10.
 
 ## Ngày 10 (14/06)
