@@ -18,7 +18,7 @@
     },
     "DELI - Ổ điện chữ T": {
       "total": 13,
-      "counter": 30
+      "counter": 40
     },
     "GOKU - Ổ khóa vân tay": {
       "total": 10,
@@ -30,11 +30,11 @@
     },
     "DEN HOANG KIM - Đèn led năng lượng mặt trời": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "DOMINIC - Máy tỉa lông mũi": {
       "total": 5,
-      "counter": 10
+      "counter": 20
     },
     "AJIDO - Cân điện tử thông minh": {
       "total": 11,
@@ -58,7 +58,7 @@
     },
     "DEERMA - Vòi sen tăng áp": {
       "total": 10,
-      "counter": 20
+      "counter": 35
     },
     "ROYAL - Khăn tắm cotton": {
       "total": 30,
@@ -142,7 +142,7 @@
     },
     "XPANSE - Ghế công thái học": {
       "total": 10,
-      "counter": 50
+      "counter": 65
     },
     "REDCHEF - Bộ dao kéo 6 món": {
       "total": 10,
@@ -186,7 +186,7 @@
     },
     "MIA - Vali kéo du lịch Larita Aly": {
       "total": 14,
-      "counter": 10
+      "counter": 20
     },
     "AQUA - Máy phun sương tạo ẩm": {
       "total": 10,
@@ -202,7 +202,7 @@
     },
     "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)": {
       "total": 25,
-      "counter": 10
+      "counter": 20
     },
     "KINGTECH - Máy massage chân G8": {
       "total": 0,
@@ -210,7 +210,7 @@
     },
     "HAPAS - Quà tặng Valentine 14.2 (2026)": {
       "total": 25,
-      "counter": 10
+      "counter": 20
     },
     "MODECO - Máy massage cầm tay": {
       "total": 10,
@@ -226,7 +226,7 @@
     },
     "BOXERMAN - Quần sịp nam": {
       "total": 20,
-      "counter": 10
+      "counter": 20
     },
     "HAPAS - Túi xách tay dáng trống Tidy Mơ": {
       "total": 25,
@@ -238,11 +238,11 @@
     },
     "VUA NỆM - Nệm lò xo": {
       "total": 19,
-      "counter": 20
+      "counter": 30
     },
     "DIGI DOMAIN - Đế sạc không dây 3 in 1": {
       "total": 13,
-      "counter": 30
+      "counter": 40
     },
     "SELLION - Nước hoa nữ": {
       "total": 10,
@@ -299,659 +299,771 @@
   },
   "2026-06-14": {
     "assignments": {
-      "Dung": {
-        "videos": [
-          {
-            "name": "TORRAS - Kính cường lực",
-            "count": 2
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": 2
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": 1
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": 2
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 1
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Kính cường lực",
-            "count": "4, 5"
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": "9, 10"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "2"
-          },
-          {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "3"
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": "11, 1"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "2, 3"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "4"
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "19, 1"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "4, 5"
-          }
-        ]
-      },
-      "Sơn": {
-        "videos": [
-          {
-            "name": "TORRAS - Kính cường lực",
-            "count": 1
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": 3
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 1
-          },
-          {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": 2
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": 2
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 1
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Kính cường lực",
-            "count": "14"
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "10"
-          },
-          {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "8, 9"
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": "10, 11"
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "8"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "1"
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "10, 11"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "2, 3"
-          }
-        ]
-      },
       "Thư": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": 3
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": 2
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": 3
-          },
-          {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
             "count": 1
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": 2
           },
           {
-            "name": "UGREEN - Chuột không dây",
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": 1
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": 1
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
             "count": 2
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
             "count": 3
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 4
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "1, 2, 3"
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": "11, 12"
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": "6, 7, 8"
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "11"
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "1"
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "11"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": "1, 2"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "9, 10"
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "1"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "17, 1"
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "11"
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
+            "name": "VUA NỆM - Nệm lò xo",
             "count": "2, 3"
           },
           {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "17, 18"
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "5, 6, 7"
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "1, 2, 3"
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "1, 2"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "1, 2, 3, 4"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "5"
           }
         ]
       },
-      "Trân": {
+      "Dung": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": 2
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
             "count": 1
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": 2
-          },
-          {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
             "count": 1
           },
           {
-            "name": "UGREEN - Chuột không dây",
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": 2
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": 1
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": 1
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
             "count": 2
           },
           {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 3
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 1
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
             "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "12, 13"
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": "13, 14"
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": "5"
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "12"
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "12"
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": "3, 4"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "2"
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "12"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "4"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
             "count": "8, 9"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "7"
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "3"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "8, 9"
+            "name": "XPANSE - Ghế công thái học",
+            "count": "5, 6"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "7"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "6, 7"
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "7, 8, 9"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "1"
+            "name": "DELI - Ổ điện chữ T",
+            "count": "6"
           }
         ]
       },
       "Duyên": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": 2
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": 2
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": 1
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "BOXERMAN - Quần sịp nam",
             "count": 1
           },
           {
-            "name": "UGREEN - Chuột không dây",
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
             "count": 2
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "XPANSE - Ghế công thái học",
             "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "6, 7"
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": "1, 2"
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "13"
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "13"
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": "5, 6"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": "3"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "4"
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "13"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "2, 3"
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "5"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "4"
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "10"
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "5, 6, 7"
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "4, 5"
           },
           {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "2"
+            "name": "XPANSE - Ghế công thái học",
+            "count": "7, 8"
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "6, 7"
+            "name": "DELI - Ổ điện chữ T",
+            "count": "7"
           }
         ]
       },
       "Hiếu": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": 2
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": 1
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
             "count": 2
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
             "count": 1
           },
           {
-            "name": "UGREEN - Chuột không dây",
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": 1
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": 2
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
+            "name": "BOXERMAN - Quần sịp nam",
             "count": 1
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
+            "name": "VUA NỆM - Nệm lò xo",
             "count": 1
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
             "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "8, 9"
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": "3"
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "14, 15"
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "14"
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": "7"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": "4, 5"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "5"
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "14"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "4, 5"
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "6"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "5"
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "11"
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "1, 2, 3"
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "6, 7"
           },
           {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "3"
+            "name": "XPANSE - Ghế công thái học",
+            "count": "9, 10"
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "8, 9"
+            "name": "DELI - Ổ điện chữ T",
+            "count": "8"
           }
         ]
       },
       "Thắm": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": 2
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": 1
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
             "count": 2
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
             "count": 1
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": 2
-          },
-          {
-            "name": "TOSUDO - Móc treo đồ",
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": 1
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": 2
           },
           {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 3
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": 1
           },
           {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 2
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
             "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "10, 11"
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": "4"
           },
           {
-            "name": "MODECO - Lọ đựng gia vị có thìa",
-            "count": "6, 7"
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "16, 17"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "15"
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": "8"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "1, 2"
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "15"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "7"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "12"
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "8, 9"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "1, 2"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "9"
+          }
+        ]
+      },
+      "Trân": {
+        "videos": [
+          {
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": 2
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 1
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": 1
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": 1
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": "5"
+          },
+          {
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "18, 19"
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "16"
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": "9"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "3"
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "16, 17"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "8"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "13"
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "10, 1"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "3"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "10, 11"
+          }
+        ]
+      },
+      "Sơn": {
+        "videos": [
+          {
+            "name": "MIA - Vali kéo du lịch Larita Aly",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": 1
+          },
+          {
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": 2
+          },
+          {
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+            "count": 1
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": 1
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": 2
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": 1
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": 1
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 2
+          }
+        ],
+        "voices": [
+          {
+            "name": "MIA - Vali kéo du lịch Larita Aly",
             "count": "6"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "6, 7"
+            "name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+            "count": "20"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "6"
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "17, 18"
           },
           {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "4, 5"
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "4, 5, 6"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
             "count": "10"
+          },
+          {
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "4"
+          },
+          {
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "18, 19"
+          },
+          {
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "9"
+          },
+          {
+            "name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+            "count": "1"
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": "2, 3"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "4"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "12, 13"
           }
         ]
       },
       "Tuyên": {
         "videos": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": 1
-          },
-          {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
             "count": 2
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
+            "name": "DOMINIC - Máy tỉa lông mũi",
             "count": 1
           },
           {
-            "name": "UGREEN - Chuột không dây",
+            "name": "BOXERMAN - Quần sịp nam",
             "count": 1
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 1
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "VUA NỆM - Nệm lò xo",
             "count": 2
+          },
+          {
+            "name": "DEERMA - Vòi sen tăng áp",
+            "count": 2
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": 1
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": 1
           }
         ],
         "voices": [
           {
-            "name": "TORRAS - Kính cường lực",
-            "count": "15"
+            "name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+            "count": "19, 20"
           },
           {
-            "name": "REDCHEF - Bộ nồi chảo chống dính",
-            "count": "9, 10"
+            "name": "DOMINIC - Máy tỉa lông mũi",
+            "count": "5"
           },
           {
-            "name": "TIGERNU - Ba lô nam doanh nhân",
-            "count": "10"
+            "name": "BOXERMAN - Quần sịp nam",
+            "count": "20"
           },
           {
-            "name": "UGREEN - Chuột không dây",
-            "count": "1"
+            "name": "VUA NỆM - Nệm lò xo",
+            "count": "10, 11"
           },
           {
-            "name": "TOSUDO - Móc treo đồ",
-            "count": "9"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "2"
-          },
-          {
-            "name": "DEERMA - Máy xay gia vị",
-            "count": "12"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
+            "name": "DEERMA - Vòi sen tăng áp",
             "count": "4, 5"
+          },
+          {
+            "name": "XPANSE - Ghế công thái học",
+            "count": "5"
+          },
+          {
+            "name": "DELI - Ổ điện chữ T",
+            "count": "1"
           }
         ]
       }
     },
     "links": [
       {
-        "url": "https://drive.google.com/drive/folders/1MH1gAKlw7cZ3S69tfsK2QSfjWlvJeT59",
-        "full_name": "TORRAS - Kính cường lực"
+        "full_name": "MIA - Vali kéo du lịch Larita Aly",
+        "url": "https://drive.google.com/drive/folders/1Zjui3REILL9_yBNJu3l21XqA8h1ZL3Ye"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1MsG8ybRcomtrheDGPYxwwti7l4BUtEuw",
-        "full_name": "REDCHEF - Bộ nồi chảo chống dính"
+        "full_name": "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)",
+        "url": "https://drive.google.com/drive/folders/1lV8YdY3xbmNxjuZpYGhl5XTc8_BoZ8kY"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1UA5OaNtvphOz-g13j-9fO7RhfFM-GWiy",
-        "full_name": "MODECO - Lọ đựng gia vị có thìa"
+        "full_name": "HAPAS - Quà tặng Valentine 14.2 (2026)",
+        "url": "https://drive.google.com/drive/folders/1uPsNZ4-sytv4hclj2GMeQm2M50icgvkp"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1A9Ls_DVKN7b63LXlo_5yV59_8MZ0me53",
-        "full_name": "TIGERNU - Ba lô nam doanh nhân"
+        "full_name": "DEN HOANG KIM - Đèn led năng lượng mặt trời",
+        "url": "https://drive.google.com/drive/folders/1Eukc82krkBIl4KXca47UraWNyTi3l9vK"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1fb22N6oIr0C7SfGcxLVcQHR_HUNIloNE",
-        "full_name": "UGREEN - Chuột không dây"
+        "full_name": "DOMINIC - Máy tỉa lông mũi",
+        "url": "https://drive.google.com/drive/folders/1Mt_sF4VEqgZq66FFx9fYQ256VKqw7CZ0"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1NVguQOkZdm0YnwFR5-HYkyuW7nXEnyaO",
-        "full_name": "TOSUDO - Móc treo đồ"
+        "full_name": "BOXERMAN - Quần sịp nam",
+        "url": "https://drive.google.com/drive/folders/1shaRug2EYYKuf7ESawi1E_r0wNLSUOI1"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1kwlH7LrUwnb9ILGyaPf8NFUvVHaXF8I1",
-        "full_name": "TJEAN - Máy hút bụi giường nệm"
+        "full_name": "VUA NỆM - Nệm lò xo",
+        "url": "https://drive.google.com/drive/folders/1F-wyVQ735p7P2b6sj1Oyv7abGFK-vzGL"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1Xz0opVxh2a4SVoB_jOpCS-6kOiLRLR3-",
-        "full_name": "DEERMA - Máy xay gia vị"
+        "full_name": "DIGI DOMAIN - Đế sạc không dây 3 in 1",
+        "url": "https://drive.google.com/drive/folders/1aM_XMr8mIMYfHeBBcPJQ7tia4O1DnwnJ"
       },
       {
-        "url": "https://drive.google.com/drive/folders/1U_Rv8-djst10pyQ4ibgw4nyem-el8YAh",
-        "full_name": "PARROTI - Bộ cọ toilet"
+        "full_name": "DEERMA - Vòi sen tăng áp",
+        "url": "https://drive.google.com/drive/folders/1yPNIAUFJLQjvjBQbhdnIE8NBnsPsKbm3"
+      },
+      {
+        "full_name": "XPANSE - Ghế công thái học",
+        "url": "https://drive.google.com/drive/folders/1SrflrVq0RkiYKm6HmEDPIUSOy-_tNFlk"
+      },
+      {
+        "full_name": "DELI - Ổ điện chữ T",
+        "url": "https://drive.google.com/drive/folders/1CaJyvQiWIH-J8QRBagxjUG-Tcu3d48Sd"
       }
     ]
   }
