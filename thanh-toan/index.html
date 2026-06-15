@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thanh Toán Tự Động – Nam Ơi Nam</title>
+  <link rel="stylesheet" href="../style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background: var(--bg-soft);
+      padding-top: 40px;
+    }
+    .checkout-container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0 20px 80px 20px;
+    }
+    .checkout-header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    .checkout-header h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: var(--blue);
+      margin-bottom: 8px;
+    }
+    .checkout-header p {
+      color: var(--text-sub);
+      font-size: 1.1rem;
+    }
+    .checkout-grid {
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
+      gap: 32px;
+    }
+    @media (max-width: 768px) {
+      .checkout-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 32px;
+      box-shadow: var(--shadow-sm);
+    }
+    .card-title {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .form-group {
+      margin-bottom: 20px;
+    }
+    .form-group label {
+      display: block;
+      font-weight: 500;
+      margin-bottom: 8px;
+      font-size: 0.95rem;
+    }
+    .form-control {
+      width: 100%;
+      padding: 12px 16px;
+      border: 1px solid var(--border-dark);
+      border-radius: var(--radius-sm);
+      font-size: 1rem;
+      font-family: inherit;
+      transition: var(--trans);
+    }
+    .form-control:focus {
+      outline: none;
+      border-color: var(--blue);
+      box-shadow: 0 0 0 3px rgba(20,86,240,0.1);
+    }
+    .form-error {
+      color: var(--status-red);
+      font-size: 0.85rem;
+      margin-top: 4px;
+      display: none;
+    }
+    .btn-submit {
+      width: 100%;
+      background: var(--blue);
+      color: #FFF;
+      border: none;
+      padding: 16px;
+      font-size: 1.1rem;
+      font-weight: 600;
+      border-radius: var(--radius-md);
+      cursor: pointer;
+      transition: var(--trans);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      box-shadow: var(--shadow-blue);
+    }
+    .btn-submit:hover {
+      background: var(--blue-hover);
+      transform: translateY(-2px);
+    }
+    .qr-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+    .qr-image {
+      width: 250px;
+      height: 250px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 8px;
+      background: #FFF;
+      margin-bottom: 20px;
+      box-shadow: var(--shadow-sm);
+    }
+    .transfer-info {
+      width: 100%;
+      background: var(--bg-soft);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 16px;
+      margin-bottom: 24px;
+      text-align: left;
+    }
+    .transfer-row {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+      font-size: 0.95rem;
+    }
+    .transfer-row:last-child {
+      margin-bottom: 0;
+    }
+    .transfer-label {
+      color: var(--text-sub);
+    }
+    .transfer-value {
+      font-weight: 600;
+      color: var(--text);
+    }
+    .transfer-value.highlight {
+      color: var(--blue);
+      font-size: 1.1rem;
+    }
+    .transfer-value.copyable {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+    }
+    .transfer-value.copyable:hover {
+      color: var(--blue-light);
+    }
+    .polling-status {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      color: var(--blue);
+      font-weight: 500;
+      margin-bottom: 16px;
+    }
+    .spinner {
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(20,86,240,0.1);
+      border-radius: 50%;
+      border-top-color: var(--blue);
+      animation: spin 1s ease-in-out infinite;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    .success-screen {
+      display: none;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .success-icon {
+      width: 64px;
+      height: 64px;
+      background: var(--status-green-bg);
+      border: 2px solid var(--status-green-border);
+      border-radius: 50%;
+      color: var(--status-green-dark);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 12px rgba(16,185,129,0.2);
+    }
+    .success-title {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: var(--status-green-dark);
+      margin-bottom: 12px;
+    }
+    .success-desc {
+      color: var(--text-sub);
+      margin-bottom: 24px;
+      line-height: 1.6;
+    }
+    .back-home-btn {
+      background: var(--bg-blue);
+      color: var(--blue);
+      border: 1px solid var(--blue-border);
+      padding: 12px 24px;
+      font-weight: 600;
+      border-radius: var(--radius-sm);
+      text-decoration: none;
+      transition: var(--trans);
+    }
+    .back-home-btn:hover {
+      background: var(--blue);
+      color: #FFF;
+    }
+    .demo-actions {
+      margin-top: 16px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .btn-demo {
+      background: #F3F4F6;
+      border: 1px solid #D1D5DB;
+      color: #374151;
+      padding: 8px 12px;
+      font-size: 0.85rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-weight: 500;
+      transition: var(--trans);
+    }
+    .btn-demo:hover {
+      background: #E5E7EB;
+    }
+  </style>
+</head>
+<body>
+  
+  <div class="checkout-container">
+    <div class="checkout-header">
+      <h1>HỆ THỐNG MUA HÀNG TỰ ĐỘNG</h1>
+      <p>Mình Trải Nghiệm Trước, Bạn Quyết Định Sau</p>
+    </div>
+
+    <div class="checkout-grid">
+      <!-- Cột trái: Form Thông Tin -->
+      <div class="card" id="form-card">
+        <h2 class="card-title">📝 Thông tin đặt hàng</h2>
+        
+        <form id="checkout-form">
+          <div class="form-group">
+            <label for="fullName">Họ và Tên <span style="color:var(--status-red)">*</span></label>
+            <input type="text" id="fullName" class="form-control" placeholder="Nguyễn Văn A" required>
+            <div class="form-error" id="name-error">Họ tên tối thiểu 2 ký tự.</div>
+          </div>
+          
+          <div class="form-group">
+            <label for="email">Địa chỉ Email <span style="color:var(--status-red)">*</span></label>
+            <input type="email" id="email" class="form-control" placeholder="email@viethung.com" required>
+            <div class="form-error" id="email-error">Vui lòng nhập địa chỉ email hợp lệ.</div>
+          </div>
+          
+          <div class="form-group">
+            <label for="phone">Số điện thoại / Zalo <span style="color:var(--status-red)">*</span></label>
+            <input type="tel" id="phone" class="form-control" placeholder="0987654321" required>
+            <div class="form-error" id="phone-error">Vui lòng nhập số điện thoại hợp lệ (9 - 11 chữ số).</div>
+          </div>
+          
+          <div class="form-group">
+            <label for="zalo">Link Zalo / ID Zalo (Không bắt buộc)</label>
+            <input type="text" id="zalo" class="form-control" placeholder="zalo.me/sodienthoai">
+          </div>
+          
+          <div class="form-group">
+            <label for="productId">Chọn sản phẩm cần mua <span style="color:var(--status-red)">*</span></label>
+            <select id="productId" class="form-control" required>
+              <option value="" disabled selected>-- Chọn sản phẩm --</option>
+            </select>
+            <div class="form-error" id="product-error">Vui lòng chọn một sản phẩm.</div>
+          </div>
+
+          <div class="form-group" id="product-desc-group" style="display:none; background:var(--bg-soft); padding:12px; border-radius:var(--radius-sm); font-size:0.9rem; border-left:3px solid var(--blue)">
+            <p id="product-desc" style="color:var(--text-sub)"></p>
+            <p style="margin-top:6px; font-weight:600">Giá bán: <span id="product-price" class="accent"></span></p>
+          </div>
+
+          <button type="submit" class="btn-submit">
+            <span>💳 Tiến Hành Thanh Toán</span>
+          </button>
+        </form>
+      </div>
+
+      <!-- Cột phải: Mã QR và Trạng thái -->
+      <div class="card" id="payment-card" style="opacity: 0.6; pointer-events: none;">
+        <h2 class="card-title">💵 Quét mã thanh toán</h2>
+        
+        <div class="qr-container" id="qr-section">
+          <p style="color:var(--text-sub); margin-bottom:16px; font-size:0.9rem">Nhập form thông tin bên trái để tạo mã QR thanh toán động</p>
+          
+          <img src="https://placehold.co/250x250/F3F4F6/9CA3AF?text=Chờ+Nhập+Form" alt="QR Code" class="qr-image" id="qr-img">
+          
+          <div class="transfer-info">
+            <div class="transfer-row">
+              <span class="transfer-label">Ngân hàng:</span>
+              <span class="transfer-value" id="bank-name">---</span>
+            </div>
+            <div class="transfer-row">
+              <span class="transfer-label">Số tài khoản:</span>
+              <span class="transfer-value copyable" id="bank-acc" onclick="copyText('bank-acc')">---</span>
+            </div>
+            <div class="transfer-row">
+              <span class="transfer-label">Chủ tài khoản:</span>
+              <span class="transfer-value" id="bank-owner">---</span>
+            </div>
+            <div class="transfer-row">
+              <span class="transfer-label">Số tiền:</span>
+              <span class="transfer-value highlight" id="transfer-amount">---</span>
+            </div>
+            <div class="transfer-row">
+              <span class="transfer-label">Nội dung CK:</span>
+              <span class="transfer-value highlight copyable" id="transfer-memo" onclick="copyText('transfer-memo')" style="border:1px dashed var(--blue); padding:2px 6px; border-radius:4px">---</span>
+            </div>
+          </div>
+
+          <div class="polling-status" id="polling-info" style="display:none">
+            <div class="spinner"></div>
+            <span>Đang chờ chuyển khoản tự động...</span>
+          </div>
+
+          <div class="demo-actions" id="demo-actions" style="display:none">
+            <button class="btn-demo" id="btn-simulate-pay">⚡ Giả lập thanh toán thành công (Test)</button>
+            <p style="font-size:0.75rem; color:var(--text-muted)">*Bấm nút trên để giả lập nhận tiền thành công từ cổng Sepay.</p>
+          </div>
+        </div>
+
+        <div class="success-screen" id="success-section">
+          <div class="success-icon">✓</div>
+          <h3 class="success-title">Thanh toán thành công!</h3>
+          <p class="success-desc">
+            Cảm ơn bạn <strong id="success-customer-name"></strong> đã mua sắm.<br>
+            Đơn hàng <strong id="success-order-id"></strong> đã được xác nhận thanh toán tự động.<br>
+            Chúng tôi sẽ liên hệ với bạn qua Zalo/Email trong vòng 15 phút.
+          </p>
+          <a href="../" class="back-home-btn">Quay lại trang chủ</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // 1. Initial Default Database in localStorage
+    const DEFAULT_PRODUCTS = [
+      { id: 1, name: "Máy Chiếu Mini ETOE Starfish 2", type: "physical", price: 3490000, description: "Máy chiếu mini sắc nét Full HD 1080P tích hợp Android TV bản quyền.", stock: 50 },
+      { id: 2, name: "Dịch Vụ KOC Booking - Video Review", type: "service", price: 5000000, description: "Video review dài 30s-60s đăng tải trên kênh TikTok @namoinam.", stock: null },
+      { id: 3, name: "Ebook Bí Kíp Làm KOC Hái Ra Tiền", type: "digital", price: 199000, description: "Cẩm nang hướng dẫn từ số 0 để trở thành KOC chuyên nghiệp.", stock: null }
+    ];
+    
+    const DEFAULT_CUSTOMERS = [
+      { id: 1, name: "Nguyễn Minh Anh", phone: "0987654321", zalo: "0987654321", createdAt: "2026-06-11 10:24:00" },
+      { id: 2, name: "Trần Thị Lan", phone: "0912345678", zalo: "0912345678", createdAt: "2026-06-11 14:30:00" },
+      { id: 3, name: "Phạm Văn Hùng", phone: "0909998888", zalo: "0909998888", createdAt: "2026-06-12 09:15:00" },
+      { id: 4, name: "Lê Hoàng Nam", phone: "0866530630", zalo: "0866530630", createdAt: "2026-06-12 16:45:00" },
+      { id: 5, name: "Vũ Minh Đức", phone: "0934567890", zalo: "0934567890", createdAt: "2026-06-13 11:10:00" }
+    ];
+
+    // Bank Config default
+    const DEFAULT_CONFIG = {
+      bankName: "MBBank",
+      bankAcc: "0866530630",
+      bankOwner: "BUI PHUONG NAM",
+      sepayApiKey: "" // Will be set in settings
+    };
+
+    function initDatabase() {
+      if (!localStorage.getItem('products')) {
+        localStorage.setItem('products', JSON.stringify(DEFAULT_PRODUCTS));
+      }
+      if (!localStorage.getItem('customers')) {
+        localStorage.setItem('customers', JSON.stringify(DEFAULT_CUSTOMERS));
+      }
+      if (!localStorage.getItem('orders')) {
+        localStorage.setItem('orders', JSON.stringify([]));
+      }
+      if (!localStorage.getItem('config')) {
+        localStorage.setItem('config', JSON.stringify(DEFAULT_CONFIG));
+      }
+    }
+
+    // Run Init
+    initDatabase();
+
+    const config = JSON.parse(localStorage.getItem('config'));
+    const products = JSON.parse(localStorage.getItem('products'));
+    let currentOrder = null;
+    let pollInterval = null;
+
+    // 2. Render Products Select list
+    const productSelect = document.getElementById("productId");
+    products.forEach(p => {
+      if (p.stock !== 0) { // Only show in-stock products
+        const opt = document.createElement("option");
+        opt.value = p.id;
+        opt.textContent = `${p.name} - ${p.price.toLocaleString('vi-VN')}đ`;
+        productSelect.appendChild(opt);
+      }
+    });
+
+    // Handle Product Selector Change
+    productSelect.addEventListener("change", (e) => {
+      const pId = parseInt(e.target.value);
+      const prod = products.find(p => p.id === pId);
+      if (prod) {
+        document.getElementById("product-desc").innerHTML = prod.description;
+        document.getElementById("product-price").textContent = prod.price.toLocaleString('vi-VN') + "đ";
+        document.getElementById("product-desc-group").style.display = "block";
+      }
+    });
+
+    // 3. Form Validation and Submit
+    const form = document.getElementById("checkout-form");
+    
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      
+      const fullName = document.getElementById("fullName").value.trim();
+      const email = document.getElementById("email").value.trim();
+      const phone = document.getElementById("phone").value.trim();
+      const zalo = document.getElementById("zalo").value.trim();
+      const pId = parseInt(productSelect.value);
+      
+      let isValid = true;
+
+      // Validate Name
+      if (fullName.length < 2) {
+        document.getElementById("name-error").style.display = "block";
+        isValid = false;
+      } else {
+        document.getElementById("name-error").style.display = "none";
+      }
+
+      // Validate Email
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!emailRegex.test(email)) {
+        document.getElementById("email-error").style.display = "block";
+        isValid = false;
+      } else {
+        document.getElementById("email-error").style.display = "none";
+      }
+
+      // Validate Phone
+      const phoneRegex = /^(0|\+84)\d{9,10}$/;
+      if (!phoneRegex.test(phone)) {
+        document.getElementById("phone-error").style.display = "block";
+        isValid = false;
+      } else {
+        document.getElementById("phone-error").style.display = "none";
+      }
+
+      if (!isValid) return;
+
+      // All validated. Generate Order!
+      const prod = products.find(p => p.id === pId);
+      const orderIdSuffix = Math.floor(1000 + Math.random() * 9000);
+      const orderId = `NAM${orderIdSuffix}`;
+      
+      const orders = JSON.parse(localStorage.getItem('orders')) || [];
+      const newOrder = {
+        id: orderId,
+        customerName: fullName,
+        customerPhone: phone,
+        customerZalo: zalo || phone,
+        customerEmail: email,
+        productId: pId,
+        productName: prod.name,
+        productType: prod.type,
+        amount: prod.price,
+        status: "pending",
+        createdAt: new Date().toLocaleString('vi-VN')
+      };
+
+      orders.push(newOrder);
+      localStorage.setItem('orders', JSON.stringify(orders));
+
+      // Import customer if not exists
+      const customers = JSON.parse(localStorage.getItem('customers')) || [];
+      if (!customers.some(c => c.phone === phone)) {
+        customers.push({
+          id: customers.length + 1,
+          name: fullName,
+          phone: phone,
+          zalo: zalo || phone,
+          createdAt: new Date().toLocaleString('vi-VN')
+        });
+        localStorage.setItem('customers', JSON.stringify(customers));
+      }
+
+      currentOrder = newOrder;
+      showPaymentSection(newOrder);
+    });
+
+    function showPaymentSection(order) {
+      // 1. Enable Payment Card UI
+      const paymentCard = document.getElementById("payment-card");
+      paymentCard.style.opacity = "1";
+      paymentCard.style.pointerEvents = "auto";
+      
+      // 2. Disable Form Card to prevent resubmission
+      const formCard = document.getElementById("form-card");
+      formCard.style.opacity = "0.5";
+      formCard.style.pointerEvents = "none";
+
+      // 3. Set QR Code VietQR details
+      document.getElementById("bank-name").textContent = config.bankName;
+      document.getElementById("bank-acc").textContent = config.bankAcc;
+      document.getElementById("bank-owner").textContent = config.bankOwner;
+      document.getElementById("transfer-amount").textContent = order.amount.toLocaleString('vi-VN') + "đ";
+      document.getElementById("transfer-memo").textContent = order.id;
+
+      // 4. Generate QR Link
+      // template: qr_only, compact, qr_only is cleaner
+      const qrUrl = `https://img.vietqr.io/image/${config.bankName}-${config.bankAcc}-qr_only.png?amount=${order.amount}&addInfo=${order.id}&accountName=${encodeURIComponent(config.bankOwner)}`;
+      document.getElementById("qr-img").src = qrUrl;
+
+      // 5. Show Polling Status
+      document.getElementById("polling-info").style.display = "flex";
+      document.getElementById("demo-actions").style.display = "flex";
+
+      // 6. Start Polling Sepay or Check local storage for simulator
+      startSepayPolling(order);
+    }
+
+    function startSepayPolling(order) {
+      if (pollInterval) clearInterval(pollInterval);
+      
+      const sepayApiKey = config.sepayApiKey;
+      
+      pollInterval = setInterval(async () => {
+        // A: Check real Sepay if Token is set
+        if (sepayApiKey) {
+          try {
+            const res = await fetch(`https://userapi.sepay.vn/v2/transactions?transfer_type=in&limit=20`, {
+              headers: {
+                'Authorization': `Bearer ${sepayApiKey}`
+              }
+            });
+            if (res.status === 200) {
+              const result = await res.json();
+              if (result.status === "success" && result.data) {
+                // Find if any transaction contains the Order ID memo and correct amount
+                const matchingTx = result.data.find(tx => {
+                  const contentUpper = tx.transaction_content.toUpperCase();
+                  const orderIdUpper = order.id.toUpperCase();
+                  return contentUpper.includes(orderIdUpper) && tx.amount_in >= order.amount;
+                });
+                
+                if (matchingTx) {
+                  markOrderSuccess(order);
+                  return;
+                }
+              }
+            }
+          } catch (error) {
+            console.error("Error polling Sepay API:", error);
+          }
+        }
+
+        // B: Check local storage (in case it is simulator-driven from admin/test button)
+        const orders = JSON.parse(localStorage.getItem('orders')) || [];
+        const checkedOrder = orders.find(o => o.id === order.id);
+        if (checkedOrder && checkedOrder.status === "success") {
+          markOrderSuccess(checkedOrder);
+        }
+      }, 3000);
+    }
+
+    function markOrderSuccess(order) {
+      clearInterval(pollInterval);
+      
+      // Update order status locally if not updated yet
+      const orders = JSON.parse(localStorage.getItem('orders')) || [];
+      const oIdx = orders.findIndex(o => o.id === order.id);
+      if (oIdx !== -1 && orders[oIdx].status !== "success") {
+        orders[oIdx].status = "success";
+        localStorage.setItem('orders', JSON.stringify(orders));
+        
+        // Subtract stock if physical product
+        const prods = JSON.parse(localStorage.getItem('products')) || [];
+        const pIdx = prods.findIndex(p => p.id === order.productId);
+        if (pIdx !== -1 && prods[pIdx].type === 'physical' && prods[pIdx].stock !== null) {
+          prods[pIdx].stock = Math.max(0, prods[pIdx].stock - 1);
+          localStorage.setItem('products', JSON.stringify(prods));
+        }
+      }
+
+      // Hide QR sections and display Success section
+      document.getElementById("qr-section").style.display = "none";
+      document.getElementById("success-customer-name").textContent = order.customerName;
+      document.getElementById("success-order-id").textContent = order.id;
+      document.getElementById("success-section").style.display = "flex";
+    }
+
+    // Simulator Button
+    document.getElementById("btn-simulate-pay").addEventListener("click", () => {
+      if (currentOrder) {
+        // Update Order in localStorage to trigger polling success
+        const orders = JSON.parse(localStorage.getItem('orders')) || [];
+        const oIdx = orders.findIndex(o => o.id === currentOrder.id);
+        if (oIdx !== -1) {
+          orders[oIdx].status = "success";
+          localStorage.setItem('orders', JSON.stringify(orders));
+        }
+      }
+    });
+
+    // Helper Copy function
+    function copyText(elementId) {
+      const text = document.getElementById(elementId).textContent;
+      navigator.clipboard.writeText(text).then(() => {
+        alert("Đã sao chép: " + text);
+      }).catch(err => {
+        console.error("Could not copy text: ", err);
+      });
+    }
+  </script>
+</body>
+</html>
