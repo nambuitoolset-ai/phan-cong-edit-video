@@ -451,9 +451,9 @@
     ];
 
     const DEFAULT_CONFIG = {
-      bankName: "MBBank",
-      bankAcc: "0866530630",
-      bankOwner: "BUI PHUONG NAM",
+      bankName: "ACB",
+      bankAcc: "1111555666",
+      bankOwner: "BUI VAN NAM",
       sepayApiKey: ""
     };
 
@@ -467,8 +467,16 @@
       if (!localStorage.getItem('orders')) {
         localStorage.setItem('orders', JSON.stringify([]));
       }
-      if (!localStorage.getItem('config')) {
+      
+      const currentConfig = localStorage.getItem('config');
+      if (!currentConfig) {
         localStorage.setItem('config', JSON.stringify(DEFAULT_CONFIG));
+      } else {
+        const parsed = JSON.parse(currentConfig);
+        // Force update if it's the old default demo account
+        if (parsed.bankAcc === "0866530630") {
+          localStorage.setItem('config', JSON.stringify(DEFAULT_CONFIG));
+        }
       }
     }
 
