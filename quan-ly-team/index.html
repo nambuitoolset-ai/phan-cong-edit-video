@@ -3,646 +3,134 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style id="auth-preload-style">body > *:not(#auth-container) { display: none !important; }</style>
-  <script src="../auth.js"></script>
-  <title>Quản lý team — namoinam</title>
-  <meta name="robots" content="noindex">
-  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16.png" />
-  <link rel="shortcut icon" href="../favicon-32.png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="../style.css?v=9" />
+  <meta http-equiv="refresh" content="3;url=https://app.namoinam.com/settings">
+  <title>Chuyển Hướng Hệ Thống Mới — namoinam.com</title>
   <style>
+    :root {
+      --blue: #1456F0;
+      --blue-hover: #0d45c7;
+      --bg: #F8FAFC;
+      --card-bg: #FFFFFF;
+      --text: #1E293B;
+      --text-sub: #64748B;
+      --border: #E2E8F0;
+      --radius: 16px;
+    }
     body {
-      font-family: 'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-      background: var(--bg-soft);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
       color: var(--text);
-      min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding-top: 0px;
-      padding-bottom: 60px;
-    }
-    .navbar {
-      display: none !important;
-    }
-    .container-custom {
-      width: 100%;
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 24px 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      flex-grow: 1;
-    }
-    .header {
-      background: var(--bg-soft);
-      border-bottom: 1px solid var(--border);
-      padding: 36px 0 16px 0;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 8px;
-      position: sticky;
-      top: 0px;
-      z-index: 100;
-      width: 100%;
-    }
-    .header h2 {
-      font-size: 28px;
-      font-weight: 800;
-      letter-spacing: -0.02em;
-      color: var(--text);
-      text-transform: uppercase;
-      line-height: 1.2;
-      text-align: center;
+      justify-content: center;
+      height: 100vh;
       margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
     }
-    .header-sub {
-      font-size: 13px;
-      color: var(--text-sub);
-    }
-
-    /* ─── STAT STRIP ─────────────────── */
-    .stat-strip {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 14px;
-      width: 100%;
-      margin-bottom: 32px;
-    }
-    .stat-box {
+    .card {
       background: var(--card-bg);
+      padding: 40px 32px;
+      border-radius: var(--radius);
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.05);
       border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 20px 18px;
-      display: flex;
-      flex-direction: column;
-      gap: 4px;
-      box-shadow: var(--shadow-sm);
-      transition: var(--trans);
-      position: relative;
-      overflow: hidden;
-    }
-    .stat-box::before {
-      content: '';
-      position: absolute;
-      top: 0; left: 0; right: 0;
-      height: 3px;
-      background: var(--stripe-color, var(--blue));
-      border-radius: 14px 14px 0 0;
-    }
-    .stat-box.warn { --stripe-color: var(--status-amber); }
-    .stat-box.ok   { --stripe-color: var(--status-green); }
-    .stat-box.blue { --stripe-color: var(--status-blue); }
-    .stat-box.purple { --stripe-color: var(--status-purple); }
-
-    .stat-label {
-      font-size: 11px;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: var(--text-muted);
-    }
-    .stat-value {
-      font-size: 28px;
-      font-weight: 800;
-      color: var(--text);
-      letter-spacing: -0.03em;
-      line-height: 1.1;
-    }
-    .stat-value .unit {
-      font-size: 13px;
-      font-weight: 500;
-      color: var(--text-sub);
-      margin-left: 3px;
-    }
-    .stat-sub {
-      font-size: 12px;
-      color: var(--text-sub);
-      margin-top: 2px;
-    }
-    .stat-sub.bad  { color: var(--status-red); font-weight: 600; }
-    .stat-sub.good { color: var(--status-green); font-weight: 600; }
-
-    /* ─── ALERT BANNER ─────────────────── */
-    .alert-banner {
+      max-width: 440px;
       width: 100%;
-      background: var(--status-amber-bg);
-      border: 1px solid var(--status-amber-border);
-      border-radius: 12px;
-      padding: 14px 18px;
-      margin-bottom: 24px;
-      display: none;
+      text-align: center;
     }
-    .alert-banner.show { display: block; }
-    .alert-banner-title {
-      font-size: 13px;
-      font-weight: 700;
-      color: var(--status-amber-text);
-      margin-bottom: 8px;
-    }
-    .alert-items {
-      display: flex;
-      flex-direction: column;
-      gap: 5px;
-    }
-    .alert-item {
-      font-size: 12.5px;
-      color: var(--text-sub);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-    }
-    .alert-item .name { font-weight: 600; color: var(--text); }
-    .badge-days {
-      background: var(--status-red-dim);
-      color: var(--status-red);
-      font-size: 11px;
-      font-weight: 700;
-      padding: 2px 8px;
-      border-radius: 20px;
-    }
-    .badge-days.zero {
-      background: var(--status-red-dim);
-      color: var(--status-red);
-    }
-    .badge-days.one {
-      background: var(--status-amber-dim);
-      color: var(--status-amber-text);
-    }
-    .badge-days.paused {
-      background: var(--status-gray-dim);
-      color: var(--status-gray);
-    }
-    .badge-days.het_hang {
-      background: var(--status-orange-dim);
-      color: var(--status-orange);
-    }
-    .badge-days.loi_link {
-      background: var(--status-red-dim);
-      color: var(--status-red);
-    }
-
-    /* ─── CARDS GRID ─────────────────── */
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
-      width: 100%;
-    }
-    a.card {
-      display: block;
-      background: var(--card-bg);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-lg);
-      padding: 28px 24px;
-      text-decoration: none;
-      color: inherit;
-      box-shadow: var(--shadow-sm);
-      transition: var(--trans);
-    }
-    a.card:hover {
-      transform: translateY(-3px);
-      box-shadow: var(--shadow-md);
-      border-color: var(--blue-border);
-    }
-    .icon { font-size: 36px; margin-bottom: 12px; }
-    .name { font-size: 17px; font-weight: 700; margin-bottom: 6px; color: var(--text); }
-    .desc { font-size: 13px; color: var(--text-sub); line-height: 1.55; }
-    .go   { margin-top: 14px; font-size: 13px; font-weight: 600; color: var(--blue); }
-
-    /* chip số liệu trong card */
-    .card-chip {
+    .icon-wrapper {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      background-color: #EEF2FF;
       display: inline-flex;
       align-items: center;
-      gap: 5px;
-      background: rgba(59, 130, 246, 0.08);
-      border: 1px solid rgba(59, 130, 246, 0.2);
-      border-radius: 20px;
-      padding: 3px 10px;
-      font-size: 12px;
-      font-weight: 600;
+      justify-content: center;
+      margin-bottom: 24px;
+    }
+    .icon-wrapper svg {
       color: var(--blue);
-      margin-top: 12px;
     }
-    .card-chip.red {
-      background: rgba(239, 68, 68, 0.08);
-      border-color: rgba(239, 68, 68, 0.2);
-      color: #ef4444;
+    h2 {
+      color: #0F172A;
+      margin: 0 0 12px 0;
+      font-size: 22px;
+      font-weight: 800;
     }
-    .card-chip.green {
-      background: rgba(16, 185, 129, 0.08);
-      border-color: rgba(16, 185, 129, 0.2);
-      color: #10b981;
+    p {
+      line-height: 1.6;
+      color: var(--text-sub);
+      margin: 0 0 24px 0;
+      font-size: 14.5px;
     }
-
-    /* skeleton loader */
-    .skeleton {
-      display: inline-block;
-      background: linear-gradient(90deg, var(--border) 25%, var(--card-bg) 50%, var(--border) 75%);
-      background-size: 200% 100%;
-      animation: shimmer 1.4s infinite;
-      border-radius: 6px;
-      color: transparent;
-      min-width: 40px;
+    .target-box {
+      background-color: #F1F5F9;
+      border: 1px solid var(--border);
+      padding: 12px;
+      border-radius: 8px;
+      font-family: monospace;
+      font-size: 14px;
+      color: #0F172A;
+      font-weight: bold;
+      word-break: break-all;
+      margin-bottom: 24px;
     }
-    @keyframes shimmer {
-      0% { background-position: 200% 0; }
-      100% { background-position: -200% 0; }
-    }
-
-    /* last-update */
-    .last-update {
-      font-size: 11px;
-      color: var(--text-muted);
-      margin-top: 8px;
-      text-align: right;
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       width: 100%;
+      padding: 12px 24px;
+      background-color: var(--blue);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: 700;
+      font-size: 14.5px;
+      transition: all 0.15s ease;
+      box-shadow: 0 4px 12px rgba(20, 86, 240, 0.15);
     }
-    .dot-live {
+    .btn:hover {
+      background-color: var(--blue-hover);
+      transform: translateY(-1px);
+      box-shadow: 0 6px 16px rgba(20, 86, 240, 0.2);
+    }
+    .loader {
       display: inline-block;
-      width: 6px; height: 6px;
-      background: #10b981;
+      width: 14px;
+      height: 14px;
+      border: 2px solid rgba(255,255,255,0.3);
       border-radius: 50%;
-      margin-right: 4px;
-      animation: pulse-dot 2s infinite;
+      border-top-color: #fff;
+      animation: spin 1s ease-in-out infinite;
+      margin-right: 8px;
     }
-    @keyframes pulse-dot {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.3; }
-    }
-
-    .footer-dashboard {
-      margin-top: auto;
-      padding-top: 40px;
-      color: var(--text-muted);
-      font-size: 12px;
-      text-align: center;
-    }
-
-    @media (max-width: 768px) {
-      .header { padding: 16px 0 12px 0; position: static; }
-      .header h2 { font-size: 22px; }
-      body { padding-top: 0px; }
-      .container-custom { padding: 12px 12px; }
-      .stat-strip { grid-template-columns: 1fr 1fr; }
-      .stat-strip div:last-child { grid-column: span 2; }
-      .stat-value { font-size: 22px; }
-    }
-    @media (max-width: 420px) {
-      .stat-strip { grid-template-columns: 1fr; }
-      .stat-strip div:last-child { grid-column: span 1; }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
     }
   </style>
 </head>
 <body>
-
-  <!-- NAVBAR -->
-  <nav class="navbar" id="navbar">
-    <div class="nav-inner">
-      <a href="../index.html" class="logo">
-        <div class="logo-icon"><img src="../avatar.jpg" alt="Nam ơi Nam" /></div><span class="logo-text">Nam <em>ơi</em> Nam</span>
-      </a>
-      <ul class="nav-links" id="nav-links">
-        <li><a href="../#about">Về Nam</a></li>
-        <li><a href="../#journey">Hành trình</a></li>
-        <li><a href="../#content">Nội dung</a></li>
-        <li><a href="../#support">Hỗ trợ</a></li>
-        <li><a href="../#collab">Hợp tác</a></li>
-        <li><a href="../#contact" class="btn-nav">Liên hệ</a></li>
-      </ul>
-      <button class="burger" id="burger" aria-label="Menu">
-        <span></span><span></span><span></span>
-      </button>
+  <div class="card">
+    <div class="icon-wrapper">
+      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"></path>
+        <path d="M13.73 21a2 2 0 0 1-3.46 0"></path>
+      </svg>
     </div>
-  </nav>
-
-  <!-- MOBILE MENU OVERLAY -->
-  <div id="mobile-menu" class="mobile-menu" role="dialog" aria-modal="true" aria-label="Menu điều hướng">
-    <button class="mobile-menu-close" id="mobile-menu-close" aria-label="Đóng menu">✕</button>
-    <nav>
-      <a href="../#about" class="mobile-menu-link">Về Nam</a>
-      <a href="../#journey" class="mobile-menu-link">Hành trình</a>
-      <a href="../#content" class="mobile-menu-link">Nội dung</a>
-      <a href="../#support" class="mobile-menu-link">Hỗ trợ</a>
-      <a href="../#collab" class="mobile-menu-link">Hợp tác</a>
-      <a href="../#contact" class="mobile-menu-link mobile-menu-cta">Liên hệ</a>
-    </nav>
+    <h2>Hệ Thống Đã Nâng Cấp</h2>
+    <p>Trang web này hiện đã được chuyển sang địa chỉ Portal điều hành mới chuyên nghiệp hơn tại:</p>
+    <div class="target-box">app.namoinam.com/settings</div>
+    <p style="font-size: 13px; margin-bottom: 20px;">Hệ thống đang tự động chuyển hướng sau 3 giây...</p>
+    <a class="btn" href="https://app.namoinam.com/settings">
+      <span class="loader"></span> Đang chuyển hướng...
+    </a>
   </div>
-
-  <div class="header">
-    <h2>Quản lý team</h2>
-    <div class="header-sub">@namoinam — tổng quan hôm nay | <a href="#" onclick="authLogout()" style="color: var(--status-red); text-decoration: none; font-weight: 600;">Đăng xuất 🔒</a></div>
-  </div>
-
-  <div class="container-custom">
-
-    <!-- STAT STRIP -->
-    <div class="stat-strip">
-      <div class="stat-box warn" id="box-low">
-        <div class="stat-label">🔴 Sắp hết video</div>
-        <div class="stat-value"><span class="skeleton" id="val-low">00</span><span class="unit">SP</span></div>
-        <div class="stat-sub" id="sub-low">đang tải...</div>
-      </div>
-      <div class="stat-box blue" id="box-today">
-        <div class="stat-label">🎬 Hôm nay giao</div>
-        <div class="stat-value"><span class="skeleton" id="val-today">000</span><span class="unit">video</span></div>
-        <div class="stat-sub" id="sub-today">đang tải...</div>
-      </div>
-      <div class="stat-box ok" id="box-stock">
-        <div class="stat-label">📦 Tổng tồn kho</div>
-        <div class="stat-value"><span class="skeleton" id="val-stock">000</span><span class="unit">video</span></div>
-        <div class="stat-sub" id="sub-stock">đang tải...</div>
-      </div>
-    </div>
-
-    <!-- ALERT BANNER: sản phẩm sắp hết -->
-    <div class="alert-banner" id="alert-banner">
-      <div class="alert-banner-title">⚠️ Sản phẩm sắp hết video — cần nhập thêm</div>
-      <div class="alert-items" id="alert-items"></div>
-    </div>
-
-    <!-- CARDS -->
-    <div class="grid">
-      <a class="card" href="../theo-doi-san-pham-edit/" id="card-stock">
-        <div class="icon">📦</div>
-        <div class="name">Theo dõi sản phẩm edit</div>
-        <div class="desc">Tồn kho video từng sản phẩm, ngày còn lại, chọn SP cần giao edit.</div>
-        <div id="chip-low" class="card-chip" style="display:none"></div>
-        <div class="go">Mở trang →</div>
-      </a>
-
-      <a class="card" href="../phan-cong-edit-video/" id="card-assign">
-        <div class="icon">🎬</div>
-        <div class="name">Phân công edit video</div>
-        <div class="desc">Việc hôm nay của từng editor: số video, voice, link Drive sản phẩm.</div>
-        <div id="chip-today" class="card-chip" style="display:none"></div>
-        <div class="go">Mở trang →</div>
-      </a>
-
-      <a class="card" href="../bang-tinh-luong-thuong/">
-        <div class="icon">💰</div>
-        <div class="name">Bảng tính lương thưởng</div>
-        <div class="desc">Lương, thưởng, hệ số của team edit theo từng tháng.</div>
-        <div id="chip-salary" class="card-chip" style="display:none"></div>
-        <div class="go">Mở trang →</div>
-      </a>
-    </div>
-
-    <div class="last-update" id="last-update"></div>
-    <div class="footer-dashboard">© 2026 namoinam.com/quan-ly-team</div>
-  </div>
-
   <script>
-    // ─── BURGER MENU ───────────────────────────────────────
-    const burger = document.getElementById('burger');
-    const mobileMenu = document.getElementById('mobile-menu');
-    const mobileMenuClose = document.getElementById('mobile-menu-close');
-    function openMenu()  { mobileMenu.classList.add('open');    document.body.style.overflow = 'hidden'; }
-    function closeMenu() { mobileMenu.classList.remove('open'); document.body.style.overflow = ''; }
-    burger.addEventListener('click', openMenu);
-    mobileMenuClose.addEventListener('click', closeMenu);
-    mobileMenu.querySelectorAll('a').forEach(a => a.addEventListener('click', closeMenu));
-    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeMenu(); });
-
-    // ─── HELPERS ───────────────────────────────────────────
-    function todayStr() {
-      const now = new Date();
-      const parts = new Intl.DateTimeFormat('en-US', {
-        timeZone: 'Asia/Ho_Chi_Minh',
-        year: 'numeric',
-        month: '2-digit',
-        day: '2-digit'
-      }).formatToParts(now);
-      const y = parts.find(p => p.type === 'year').value;
-      const m = parts.find(p => p.type === 'month').value;
-      const d = parts.find(p => p.type === 'day').value;
-      return `${y}-${m}-${d}`;
-    }
-
-    function parseDateLocal(str) {
-      // str: YYYY-MM-DD → Date theo local (tránh UTC shift)
-      const [y, m, d] = str.split('-').map(Number);
-      return new Date(y, m - 1, d);
-    }
-
-    /**
-     * Tính tồn video thực tế theo ngày hôm nay.
-     * ton_video: số video đã nhập lần cuối
-     * so_video_ngay: nhịp đăng mỗi ngày
-     * ton_date: ngày ghi nhận ton_video (YYYY-MM-DD)
-     */
-    function calcRealStock(p) {
-      const today = parseDateLocal(todayStr());
-      const ref   = parseDateLocal(p.ton_date || todayStr());
-      const days  = Math.max(0, Math.round((today - ref) / 86400000));
-      return Math.max(0, (p.ton_video || 0) - (p.so_video_ngay || 0) * days);
-    }
-
-    // ─── REMOVE SKELETON ───────────────────────────────────
-    function setSkelDone(el) {
-      el.classList.remove('skeleton');
-    }
-
-    // ─── MAIN LOAD ─────────────────────────────────────────
-    async function loadDashboard() {
-      const today = todayStr();
-      const CB = '?cb=' + Date.now(); // cache-bust
-
-      // Fetch song song 2 file JSON
-      const [productsRes, historyRes] = await Promise.allSettled([
-        fetch('../products.json' + CB),
-        fetch('../history.json'  + CB),
-      ]);
-
-      // ── 1. PRODUCTS: tồn kho ────────────────────────────
-      let products = [];
-      if (productsRes.status === 'fulfilled' && productsRes.value.ok) {
-        products = await productsRes.value.json();
-      }
-
-      let totalStock = 0;
-      const lowItems = []; // ≤ 2 ngày
-
-      products.forEach(p => {
-        const stock = calcRealStock(p);
-        totalStock += stock;
-        const status = p.status || 'active';
-        const daysLeft = (p.so_video_ngay && p.so_video_ngay > 0)
-          ? Math.floor(stock / p.so_video_ngay)
-          : 99;
-        
-        const isInactive = (status === 'paused' || status === 'het_hang' || status === 'loi_link');
-        if (isInactive || daysLeft <= 2) {
-          lowItems.push({ 
-            name: p.name, 
-            daysLeft, 
-            stock, 
-            rate: p.so_video_ngay,
-            status: status 
-          });
-        }
-      });
-
-      // Stat: sắp hết
-      const valLow = document.getElementById('val-low');
-      const subLow = document.getElementById('sub-low');
-      setSkelDone(valLow);
-      valLow.textContent = lowItems.length;
-      if (lowItems.length > 0) {
-        subLow.textContent = `cần nhập thêm ngay`;
-        subLow.className = 'stat-sub bad';
-      } else {
-        subLow.textContent = 'tất cả ổn ✓';
-        subLow.className = 'stat-sub good';
-      }
-
-      // Stat: tổng tồn kho
-      const valStock = document.getElementById('val-stock');
-      const subStock = document.getElementById('sub-stock');
-      setSkelDone(valStock);
-      valStock.textContent = totalStock.toLocaleString('vi-VN');
-      subStock.textContent = products.length + ' sản phẩm đang theo dõi';
-
-      // Chip trên card Tồn kho
-      const chipLow = document.getElementById('chip-low');
-      if (lowItems.length > 0) {
-        chipLow.style.display = 'inline-flex';
-        chipLow.className = 'card-chip red';
-        chipLow.textContent = '⚠️ ' + lowItems.length + ' SP sắp hết';
-      } else {
-        chipLow.style.display = 'inline-flex';
-        chipLow.className = 'card-chip green';
-        chipLow.textContent = '✓ Tồn kho ổn định';
-      }
-
-      // Alert banner
-      if (lowItems.length > 0) {
-        const banner = document.getElementById('alert-banner');
-        const list   = document.getElementById('alert-items');
-        banner.classList.add('show');
-        lowItems.sort((a, b) => {
-          const aInactive = (a.status === 'paused' || a.status === 'het_hang' || a.status === 'loi_link');
-          const bInactive = (b.status === 'paused' || b.status === 'het_hang' || b.status === 'loi_link');
-          
-          if (aInactive && !bInactive) return 1;
-          if (!aInactive && bInactive) return -1;
-          
-          if (!aInactive && !bInactive) {
-            return a.daysLeft - b.daysLeft;
-          }
-          
-          return a.name.localeCompare(b.name, 'vi');
-        }).forEach(item => {
-          const row = document.createElement('div');
-          row.className = 'alert-item';
-          
-          let badgeClass = '';
-          let label = '';
-          
-          if (item.status === 'active') {
-            badgeClass = item.daysLeft === 0 ? 'zero' : item.daysLeft === 1 ? 'one' : '';
-            label = item.daysLeft === 0 ? 'Hết rồi!' : item.daysLeft === 1 ? '1 ngày' : item.daysLeft + ' ngày';
-          } else if (item.status === 'paused') {
-            badgeClass = 'paused';
-            label = 'Tạm dừng';
-          } else if (item.status === 'het_hang') {
-            badgeClass = 'het_hang';
-            label = 'Hết hàng';
-          } else if (item.status === 'loi_link') {
-            badgeClass = 'loi_link';
-            label = 'Lỗi link';
-          } else {
-            badgeClass = 'paused';
-            label = item.status;
-          }
-          
-          row.innerHTML = `<span class="name">${item.name}</span><span class="badge-days ${badgeClass}">${label}</span>`;
-          list.appendChild(row);
-        });
-      }
-
-      // ── 2. HISTORY: phân công hôm nay ───────────────────
-      let todayVideos = 0;
-      let todayEditors = 0;
-      let todayAssigned = false;
-
-      if (historyRes.status === 'fulfilled' && historyRes.value.ok) {
-        const history = await historyRes.value.json();
-        const entry = history[today];
-        if (entry && entry.assignments) {
-          todayAssigned = true;
-          Object.values(entry.assignments).forEach(a => {
-            if (a && a.videos && a.videos.length > 0) {
-              todayEditors++;
-              todayVideos += a.videos.reduce((sum, v) => sum + (v.count || 0), 0);
-            }
-          });
-        }
-      }
-
-      const valToday = document.getElementById('val-today');
-      const subToday = document.getElementById('sub-today');
-      setSkelDone(valToday);
-      valToday.textContent = todayVideos;
-      if (todayAssigned) {
-        subToday.textContent = todayEditors + ' editor có việc hôm nay';
-        subToday.className = 'stat-sub';
-      } else {
-        subToday.textContent = 'Chưa giao việc hôm nay';
-        subToday.className = 'stat-sub';
-      }
-
-      // Chip trên card Phân công
-      const chipToday = document.getElementById('chip-today');
-      chipToday.style.display = 'inline-flex';
-      if (todayAssigned) {
-        chipToday.className = 'card-chip green';
-        chipToday.textContent = '✓ Đã giao ' + todayVideos + ' video';
-      } else {
-        chipToday.className = 'card-chip';
-        chipToday.textContent = '○ Chưa giao hôm nay';
-      }
-
-      // Chip lương: tháng hiện tại
-      const chipSalary = document.getElementById('chip-salary');
-      chipSalary.style.display = 'inline-flex';
-      const now = new Date();
-      const parts = new Intl.DateTimeFormat('en-US', {
-        timeZone: 'Asia/Ho_Chi_Minh',
-        year: 'numeric',
-        month: 'numeric',
-        day: 'numeric',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-      }).formatToParts(now);
-      const vnYear = parts.find(p => p.type === 'year').value;
-      const vnMonth = parts.find(p => p.type === 'month').value;
-      const vnDay = parts.find(p => p.type === 'day').value;
-      const vnHour = parts.find(p => p.type === 'hour').value;
-      const vnMinute = parts.find(p => p.type === 'minute').value;
-
-      chipSalary.textContent = 'Tháng ' + vnMonth + '/' + vnYear;
-
-      // Last update
-      const lu = document.getElementById('last-update');
-      lu.innerHTML = `<span class="dot-live"></span>Cập nhật lúc ${vnHour}:${vnMinute} — ${vnDay}/${vnMonth}/${vnYear}`;
-    }
-
-    loadDashboard().catch(err => {
-      console.error('Dashboard load error:', err);
-      // Xóa skeleton nếu lỗi
-      document.querySelectorAll('.skeleton').forEach(el => {
-        el.classList.remove('skeleton');
-        el.textContent = '—';
-      });
-    });
+    setTimeout(function() {
+      window.location.href = "https://app.namoinam.com/settings";
+    }, 3000);
   </script>
 </body>
 </html>
