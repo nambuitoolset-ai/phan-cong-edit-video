@@ -107,7 +107,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 12,
+    "ton_video": 22,
     "giao_hom_nay": 0
   },
   {
@@ -143,7 +143,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 13,
+    "ton_video": 23,
     "giao_hom_nay": 0
   },
   {
@@ -161,7 +161,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-04",
-    "ton_video": 13,
+    "ton_video": 23,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
@@ -190,7 +190,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 13,
+    "ton_video": 23,
     "giao_hom_nay": 0
   },
   {
@@ -199,7 +199,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 13,
+    "ton_video": 23,
     "giao_hom_nay": 0
   },
   {
@@ -254,7 +254,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 1,
     "status": "active",
-    "ton_video": 14,
+    "ton_video": 25,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
@@ -282,7 +282,7 @@
     "so_video_ngay": 1,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 13,
+    "ton_video": 23,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
@@ -291,7 +291,7 @@
     "videos_per_assign": 10,
     "so_video_ngay": 2,
     "status": "active",
-    "ton_video": 16,
+    "ton_video": 26,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
@@ -424,7 +424,7 @@
     "videos_per_assign": 15,
     "so_video_ngay": 3,
     "status": "active",
-    "ton_video": 21,
+    "ton_video": 36,
     "giao_hom_nay": 0
   },
   {
@@ -433,7 +433,7 @@
     "so_video_ngay": 3,
     "status": "active",
     "last_assigned": "2026-06-03",
-    "ton_video": 23,
+    "ton_video": 38,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
@@ -471,7 +471,7 @@
     "so_video_ngay": 2,
     "status": "active",
     "last_assigned": "2026-06-04",
-    "ton_video": 16,
+    "ton_video": 26,
     "ton_date": "2026-06-14",
     "giao_hom_nay": 0
   },
