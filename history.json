@@ -14,7 +14,7 @@
     },
     "MENCANON - Rèm che nắng ô tô": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "DELI - Ổ điện chữ T": {
       "total": 13,
@@ -22,7 +22,7 @@
     },
     "GOKU - Ổ khóa vân tay": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "ONECHI - Dây dán velcro quấn chống rối": {
       "total": 10,
@@ -50,7 +50,7 @@
     },
     "AMORTALS - Mút rửa mặt bọt biển": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "LUCK - Bình đựng dầu ăn đa năng": {
       "total": 10,
@@ -126,7 +126,7 @@
     },
     "TORRAS - Kính cường lực": {
       "total": 15,
-      "counter": 45
+      "counter": 60
     },
     "MODECO - Lọ đựng gia vị có thìa": {
       "total": 10,
@@ -138,7 +138,7 @@
     },
     "UGREEN - Chuột không dây": {
       "total": 11,
-      "counter": 45
+      "counter": 60
     },
     "XPANSE - Ghế công thái học": {
       "total": 10,
@@ -150,15 +150,15 @@
     },
     "REDCHEF - Bộ nồi chảo chống dính": {
       "total": 10,
-      "counter": 60
+      "counter": 70
     },
     "TOSUDO - Móc treo đồ": {
       "total": 17,
-      "counter": 60
+      "counter": 70
     },
     "DELI - Dao rọc giấy đa năng": {
       "total": 12,
-      "counter": 30
+      "counter": 40
     },
     "DELI - Hộp đựng thực phẩm": {
       "total": 40,
@@ -198,7 +198,7 @@
     },
     "HAPAS - Quà tặng Set \"Thân Thương\"": {
       "total": 25,
-      "counter": 10
+      "counter": 20
     },
     "HAPAS - Quà tặng Phụ nữ Việt Nam 20.10 (2026)": {
       "total": 25,
@@ -246,7 +246,7 @@
     },
     "SELLION - Nước hoa nữ": {
       "total": 10,
-      "counter": 10
+      "counter": 20
     },
     "LIVINOX - Combo 6 thìa inox 304": {
       "total": 10,
@@ -258,7 +258,7 @@
     },
     "ENADE VN - Khẩu trang chống nắng full face": {
       "total": 7,
-      "counter": 10
+      "counter": 20
     },
     "TJEAN - Máy hút bụi giường nệm": {
       "total": 7,
@@ -272,716 +272,6 @@
       "total": 19,
       "counter": 50
     }
-  },
-  "2026-06-08": {
-    "assignments": {
-      "Thư": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 3
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 2
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 3
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 2
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 4
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "1, 2, 3"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "1, 2"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "1"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "7, 1, 2"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "11"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "1"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "1, 2"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "1, 2"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "1, 2, 3, 4"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1"
-          }
-        ]
-      },
-      "Dung": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 2
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "4, 5"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "3"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "2, 3"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "3, 4"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "12"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "2"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "3"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "3, 4"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "5, 6"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2"
-          }
-        ]
-      },
-      "Duyên": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 2
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 2
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "6, 7"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "4"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "4, 5"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "5"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "13, 14"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "3"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "4"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "5, 6"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "7, 8"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1"
-          }
-        ]
-      },
-      "Hiếu": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 2
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 2
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 1
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 2
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 1
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "8, 9"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "5"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "6, 7"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "6"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "15, 16"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "4"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "5"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "7, 8"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "9, 10"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "2"
-          }
-        ]
-      },
-      "Thắm": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 2
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 2
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "10, 11"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "6"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "8"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "7, 1"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "17, 18"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "5"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "6"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "9, 10"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "1"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1, 2"
-          }
-        ]
-      },
-      "Trân": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 2
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 2
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "12, 13"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "7"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "9"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "2, 3"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "19"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "6, 7"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "7"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "11, 12"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "2"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1, 2"
-          }
-        ]
-      },
-      "Sơn": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 1
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 2
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": 1
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 2
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 1
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 2
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "14"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "8, 9"
-          },
-          {
-            "name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-            "count": "10"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "4, 5"
-          },
-          {
-            "name": "TORRAS - Ốp lưng Q3Air",
-            "count": "20"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "8, 9"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "8"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "13, 14"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "3"
-          },
-          {
-            "name": "PARROTI - Cây chà sàn",
-            "count": "1, 2"
-          }
-        ]
-      },
-      "Tuyên": {
-        "videos": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": 1
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": 1
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": 2
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": 1
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": 2
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": 1
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": 2
-          }
-        ],
-        "voices": [
-          {
-            "name": "TORRAS - Ốp lưng trong suốt",
-            "count": "15"
-          },
-          {
-            "name": "ONECHI - Dây dán velcro quấn chống rối",
-            "count": "10"
-          },
-          {
-            "name": "TJEAN - Máy hút bụi giường nệm",
-            "count": "6, 7"
-          },
-          {
-            "name": "BRUSHIE - Bàn chải điện",
-            "count": "10"
-          },
-          {
-            "name": "FORLOVE - Lọ tỏa hương",
-            "count": "9, 10"
-          },
-          {
-            "name": "TOKYOLIFE - Bàn chải đánh răng",
-            "count": "15"
-          },
-          {
-            "name": "PARROTI - Bộ cọ toilet",
-            "count": "4, 5"
-          }
-        ]
-      }
-    },
-    "links": [
-      {
-        "full_name": "TORRAS - Ốp lưng trong suốt",
-        "url": "https://drive.google.com/drive/folders/1fi6MElfmk75JqhCFO-R_NQYqdQwMnaqB"
-      },
-      {
-        "full_name": "ONECHI - Dây dán velcro quấn chống rối",
-        "url": "https://drive.google.com/drive/folders/1nMgjM2SLQgOIvbwWtEJfKhqflJLxuzbs"
-      },
-      {
-        "full_name": "HAPAS - Túi xách tay dáng trống Tidy Mơ",
-        "url": "https://drive.google.com/drive/folders/1Sr3MRy8OW0Xe5OoT4Qbp3xNqdzakLk1m"
-      },
-      {
-        "full_name": "TJEAN - Máy hút bụi giường nệm",
-        "url": "https://drive.google.com/drive/folders/1kwlH7LrUwnb9ILGyaPf8NFUvVHaXF8I1"
-      },
-      {
-        "full_name": "TORRAS - Ốp lưng Q3Air",
-        "url": "https://drive.google.com/drive/folders/1Y6hBv7-9ft_aLTeEMd8J_oOP-iLxT1mW"
-      },
-      {
-        "full_name": "BRUSHIE - Bàn chải điện",
-        "url": "https://drive.google.com/drive/folders/1cfNh-WUM6StEkMLgxXMDtO7mgoC9-ted"
-      },
-      {
-        "full_name": "FORLOVE - Lọ tỏa hương",
-        "url": "https://drive.google.com/drive/folders/1PvWRWdjHHo2MQKSun_20CaWxIC6IszWf"
-      },
-      {
-        "full_name": "TOKYOLIFE - Bàn chải đánh răng",
-        "url": "https://drive.google.com/drive/folders/1lccNi1EQ6v9AuiiPnYtGbUMIY8o20OpC"
-      },
-      {
-        "full_name": "PARROTI - Bộ cọ toilet",
-        "url": "https://drive.google.com/drive/folders/1U_Rv8-djst10pyQ4ibgw4nyem-el8YAh"
-      },
-      {
-        "full_name": "PARROTI - Cây chà sàn",
-        "url": "https://drive.google.com/drive/folders/14848AFUWVsIu5uJ2d4AYvQESLgKDVyWr"
-      }
-    ]
   },
   "2026-06-09": {
     "assignments": {
@@ -5077,7 +4367,7 @@
       }
     ]
   },
-  "2026-06-07": {
+  "2026-06-15": {
     "assignments": {
       "Thư": {
         "videos": [
@@ -5087,39 +4377,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
+            "count": 2
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": 1
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": 2
+            "count": 1
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": 1
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": 3
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": 1
-          },
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 3
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
             "count": 2
           },
           {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 3
+            "name": "UGREEN - Chuột không dây",
+            "count": 2
+          },
+          {
+            "name": "SELLION - Nước hoa nữ",
+            "count": 2
+          },
+          {
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": 1
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": 1
+            "count": 2
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 2
           }
         ],
         "voices": [
@@ -5129,39 +4423,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
+            "count": "1, 2"
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": "1"
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": "1, 2"
+            "count": "1"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "1"
+            "count": "11, 12"
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": "1, 2, 3"
+            "count": "2, 3"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "11"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "1, 2"
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "6, 7, 8"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "6, 7"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "10, 11, 1"
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "4"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "1"
+            "count": "1, 2"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "10, 11"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "7, 8"
           }
         ]
       },
@@ -5176,8 +4474,12 @@
             "count": 1
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": 2
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 1
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
@@ -5188,23 +4490,23 @@
             "count": 2
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 1
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
             "count": 2
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 1
           }
         ],
@@ -5215,39 +4517,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "2"
+            "count": "3"
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "2, 3"
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": "3, 4"
+            "count": "2"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "2"
+            "count": "13"
           },
           {
             "name": "UGREEN - Chuột không dây",
             "count": "4, 5"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "12"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "3"
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "9, 10"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "8"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "2, 3"
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "5, 6"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "2"
+            "count": "3"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "12"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "9"
           }
         ]
       },
@@ -5262,35 +4568,39 @@
             "count": 1
           },
           {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
             "name": "GOKU - Ổ khóa vân tay",
             "count": 1
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": 2
+            "count": 1
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": 1
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
             "count": 2
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
             "count": 2
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 1
           }
         ],
@@ -5301,39 +4611,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "3"
+            "count": "4"
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
-            "count": "5"
-          },
-          {
-            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "3, 4"
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": "6"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "13, 14"
-          },
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "11"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "9, 10"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": "4, 5"
           },
           {
-            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "name": "GOKU - Ổ khóa vân tay",
             "count": "3"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "14"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "6, 7"
+          },
+          {
+            "name": "SELLION - Nước hoa nữ",
+            "count": "4"
+          },
+          {
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "7, 1"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "4"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "13"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "10"
           }
         ]
       },
@@ -5348,35 +4662,39 @@
             "count": 1
           },
           {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": 2
+          },
+          {
             "name": "GOKU - Ổ khóa vân tay",
             "count": 1
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": 2
+            "count": 1
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": 1
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
             "count": 2
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
             "count": 2
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 1
           }
         ],
@@ -5387,39 +4705,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "4"
+            "count": "5"
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
-            "count": "6"
-          },
-          {
-            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "5, 6"
-          },
-          {
-            "name": "UGREEN - Chuột không dây",
-            "count": "7"
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "15, 16"
-          },
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "12"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "11, 12"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": "6, 7"
           },
           {
-            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "name": "GOKU - Ổ khóa vân tay",
             "count": "4"
+          },
+          {
+            "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
+            "count": "15"
+          },
+          {
+            "name": "UGREEN - Chuột không dây",
+            "count": "8, 9"
+          },
+          {
+            "name": "SELLION - Nước hoa nữ",
+            "count": "5"
+          },
+          {
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "2, 3"
+          },
+          {
+            "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": "5"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "14"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "11"
           }
         ]
       },
@@ -5434,8 +4756,12 @@
             "count": 1
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 2
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
@@ -5446,23 +4772,23 @@
             "count": 2
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": 1
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 2
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 1
           }
         ],
@@ -5473,39 +4799,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "5"
+            "count": "6"
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "8"
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": "7"
+            "count": "5, 6"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "7"
+            "count": "16"
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": "8, 9"
+            "count": "10, 11"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "17"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "6"
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "13, 14"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "13, 14"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "8, 9"
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "4"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "5"
+            "count": "6, 7"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "15"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "12"
           }
         ]
       },
@@ -5520,8 +4850,12 @@
             "count": 1
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 2
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
@@ -5532,23 +4866,23 @@
             "count": 2
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 2
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": 1
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 2
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 1
           }
         ],
@@ -5559,39 +4893,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "6"
+            "count": "7"
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "9"
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": "8"
+            "count": "7, 8"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "8"
+            "count": "17"
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": "10, 11"
+            "count": "1, 2"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "18"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "7"
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "15, 1"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "15, 1"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "10, 11"
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "5"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "6"
+            "count": "8"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "16, 17"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "1"
           }
         ]
       },
@@ -5606,8 +4944,12 @@
             "count": 2
           },
           {
-            "name": "GOKU - Ổ khóa vân tay",
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
             "count": 1
+          },
+          {
+            "name": "GOKU - Ổ khóa vân tay",
+            "count": 2
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
@@ -5618,23 +4960,23 @@
             "count": 2
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
+            "name": "SELLION - Nước hoa nữ",
             "count": 1
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
             "count": 1
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
             "count": 2
           }
         ],
@@ -5645,39 +4987,43 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "7, 8"
+            "count": "8, 9"
+          },
+          {
+            "name": "REDCHEF - Bộ nồi chảo chống dính",
+            "count": "10"
           },
           {
             "name": "GOKU - Ổ khóa vân tay",
-            "count": "9"
+            "count": "9, 10"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "9"
+            "count": "18"
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": "1, 2"
+            "count": "3, 4"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "19"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "8"
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "2, 3"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "2, 3"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "1"
+            "name": "ENADE VN - Khẩu trang chống nắng full face",
+            "count": "6"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "7, 8"
+            "count": "9"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "1"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "2, 3"
           }
         ]
       },
@@ -5689,39 +5035,31 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": 2
-          },
-          {
-            "name": "GOKU - Ổ khóa vân tay",
             "count": 1
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": 1
+            "count": 2
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": 2
-          },
-          {
-            "name": "VUA NỆM - Nệm lò xo",
             "count": 1
           },
           {
-            "name": "ULUCKY - Đai chườm ấm bụng",
+            "name": "SELLION - Nước hoa nữ",
             "count": 2
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": 2
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": 1
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": 2
+            "count": 1
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": 1
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": 1
           }
         ],
         "voices": [
@@ -5731,39 +5069,31 @@
           },
           {
             "name": "MENCANON - Rèm che nắng ô tô",
-            "count": "9, 10"
-          },
-          {
-            "name": "GOKU - Ổ khóa vân tay",
             "count": "10"
           },
           {
             "name": "HAPAS - Quà tặng Set \"Thân Thương\"",
-            "count": "10"
+            "count": "19, 20"
           },
           {
             "name": "UGREEN - Chuột không dây",
-            "count": "3, 4"
+            "count": "5"
           },
           {
-            "name": "VUA NỆM - Nệm lò xo",
-            "count": "1"
-          },
-          {
-            "name": "ULUCKY - Đai chườm ấm bụng",
-            "count": "4, 5"
-          },
-          {
-            "name": "ETOE - Máy chiếu E3 Pro",
-            "count": "4, 5"
-          },
-          {
-            "name": "JETZ - Máy hút bụi X9",
-            "count": "2"
+            "name": "SELLION - Nước hoa nữ",
+            "count": "9, 10"
           },
           {
             "name": "AMORTALS - Mút rửa mặt bọt biển",
-            "count": "9, 10"
+            "count": "10"
+          },
+          {
+            "name": "TOSUDO - Móc treo đồ",
+            "count": "2"
+          },
+          {
+            "name": "DELI - Dao rọc giấy đa năng",
+            "count": "4"
           }
         ]
       }
@@ -5778,6 +5108,10 @@
         "url": "https://drive.google.com/drive/folders/1YCkNvjJyexJHDhy9tmjdTGJu1GXxRTPg"
       },
       {
+        "full_name": "REDCHEF - Bộ nồi chảo chống dính",
+        "url": "https://drive.google.com/drive/folders/1MsG8ybRcomtrheDGPYxwwti7l4BUtEuw"
+      },
+      {
         "full_name": "GOKU - Ổ khóa vân tay",
         "url": "https://drive.google.com/drive/folders/1DPWoifOHOXnly7PaJXOuF_IqcWFgQgG8"
       },
@@ -5790,24 +5124,24 @@
         "url": "https://drive.google.com/drive/folders/1fb22N6oIr0C7SfGcxLVcQHR_HUNIloNE"
       },
       {
-        "full_name": "VUA NỆM - Nệm lò xo",
-        "url": "https://drive.google.com/drive/folders/1F-wyVQ735p7P2b6sj1Oyv7abGFK-vzGL"
+        "full_name": "SELLION - Nước hoa nữ",
+        "url": "https://drive.google.com/drive/folders/1WDqWa_7xVVdmBMnqjHWJvLer83hc-Ssn"
       },
       {
-        "full_name": "ULUCKY - Đai chườm ấm bụng",
-        "url": "https://drive.google.com/drive/folders/1BM4G4qNqabTGkapyW61SdfcdXLAVQuvD"
-      },
-      {
-        "full_name": "ETOE - Máy chiếu E3 Pro",
-        "url": "https://drive.google.com/drive/folders/1qjw0O3EPTHLWPotdz0Hu_WjIf2QchCZ3"
-      },
-      {
-        "full_name": "JETZ - Máy hút bụi X9",
-        "url": "https://drive.google.com/drive/folders/1zsnDwsXgw23OeM8G_UX5g76xf4XLipYu"
+        "full_name": "ENADE VN - Khẩu trang chống nắng full face",
+        "url": "https://drive.google.com/drive/folders/1fdexP_b5rlkAM4lYon4OjRUQeQeAisH_"
       },
       {
         "full_name": "AMORTALS - Mút rửa mặt bọt biển",
         "url": "https://drive.google.com/drive/folders/167oV3hGpt3h7-ZTA_yMsAI3CActjx0-c"
+      },
+      {
+        "full_name": "TOSUDO - Móc treo đồ",
+        "url": "https://drive.google.com/drive/folders/1NVguQOkZdm0YnwFR5-HYkyuW7nXEnyaO"
+      },
+      {
+        "full_name": "DELI - Dao rọc giấy đa năng",
+        "url": "https://drive.google.com/drive/folders/1-UomE0Uo54OvbMU2ZWRLfQXoXnoQCsE1"
       }
     ]
   }
