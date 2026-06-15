@@ -27,6 +27,7 @@
 ## Ngày 10 (14/06)
 - Bài 1: [Link] – Fanpage – Chủ đề: Nâng cấp hệ thống mua hàng tự động 24/7 trên website namoinam.com và cổng VietQR qua Sepay.
 - Bài 2: [Link] – Zalo cá nhân – Chủ đề: Giới thiệu tính năng quét mã QR thanh toán tự động và đồng bộ CRM.
+- Bài 3: [Link] – Facebook cá nhân – Chủ đề: Hành trình 7 ngày xây dựng Bộ não thứ 2 AI và tích hợp CRM bán hàng tự động.
 - Kết quả: Đơn hàng test thanh toán tự động thành công và đồng bộ CRM thời gian thực, tự động trừ tồn kho sản phẩm. Điểm giọng văn AI: 9/10.
 
 ## Ngày 11 (15/06)
